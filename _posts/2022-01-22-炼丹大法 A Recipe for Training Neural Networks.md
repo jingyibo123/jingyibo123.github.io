@@ -1,9 +1,6 @@
 
 Andrej Karparthy 2019年的一篇博客 [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/)
 
-* TOC
-{:toc}
-
 ## 导言
 
 ### 1) 训练神经网络是一个充满"漏洞"的概念
