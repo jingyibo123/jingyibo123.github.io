@@ -1,0 +1,11 @@
+01:04:41.3 3 GroundTruthMapping.gif
+01:05:11.2 3 NvidiaDriving1.gif
+01:05:16.8 3 NvidiaDriving2.gif
+01:05:20.0 3.5 NvidiaDriving3.gif
+01:05:29.0 5 DriveMap.gif
+01:09:26.0 2.5 DriveMapLayers.gif
+01:10:00.0 2.5 DriveMapUpdating.gif
+01:11:45.5 2.0 DriveMapNeuralReconstruction.gif
+01:12:11.8 3 DriveMapSceneEdition.gif
+01:15:23.0 2 HoloscanCancerCell.gif
+01:22:43.0 3 IssacTrainedRobot.gif

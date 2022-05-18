@@ -1,0 +1,8143 @@
+1
+00:00:01,800 --> 00:00:03,800
+即将到达目的地
+
+2
+00:00:01,800 --> 00:00:03,833
+Now approaching your destination.
+
+3
+00:00:31,600 --> 00:00:34,800
+您好！欢迎来到 NVIDIA
+
+4
+00:00:31,633 --> 00:00:34,800
+Hi! Welcome to NVIDIA.
+
+5
+00:01:41,500 --> 00:01:43,700
+欢迎来到 GTC！
+
+6
+00:01:41,533 --> 00:01:43,700
+Welcome to GTC!
+
+7
+00:01:43,700 --> 00:01:46,300
+希望大家一切顺利
+
+8
+00:01:43,700 --> 00:01:46,300
+I hope all of you are well.
+
+9
+00:01:46,300 --> 00:01:50,700
+今天我们将为您带来重要的发布和酷炫的内容
+
+10
+00:01:46,300 --> 00:01:50,733
+We have really big announcements and
+cool things to show you today.
+
+11
+00:01:50,700 --> 00:01:55,300
+首先还是请您与我一同观看新出炉的 I AM AI
+
+12
+00:01:50,733 --> 00:01:55,300
+But first, let me share the new I AM AI.
+
+13
+00:01:55,300 --> 00:02:03,800
+这是 NVIDIA 创意团队的热情之作，精彩地讲述了您富有影响力的工作
+
+14
+00:01:55,300 --> 00:02:03,800
+It’s a work of love by NVIDIA’s creative team
+and beautifully tells the stories of the impactful work you do.
+
+15
+00:02:30,300 --> 00:02:34,500
+我是远见者
+
+16
+00:02:30,300 --> 00:02:34,533
+I am a visionary.
+
+17
+00:02:36,700 --> 00:02:42,500
+拓展人类对小到细微粒子
+
+18
+00:02:36,700 --> 00:02:42,500
+Expanding our understanding of the smallest particles,
+
+19
+00:02:46,400 --> 00:02:50,800
+大到无垠宇宙的理解
+
+20
+00:02:46,433 --> 00:02:50,833
+And the infinite possibilities of the universe.
+
+21
+00:02:57,700 --> 00:03:00,500
+我是守护者
+
+22
+00:02:57,733 --> 00:03:00,533
+I am a guardian.
+
+23
+00:03:01,600 --> 00:03:05,600
+一路为人们保驾护航
+
+24
+00:03:01,600 --> 00:03:05,633
+Protecting us on all of our journeys,
+
+25
+00:03:09,400 --> 00:03:13,100
+护送最珍贵的乘客
+
+26
+00:03:09,400 --> 00:03:13,133
+And insuring our most precious passengers
+
+27
+00:03:15,200 --> 00:03:17,500
+安全到家
+
+28
+00:03:15,200 --> 00:03:17,533
+make it home safely.
+
+29
+00:03:20,300 --> 00:03:23,700
+我是治疗者
+
+30
+00:03:20,300 --> 00:03:23,733
+I am a healer.
+
+31
+00:03:23,700 --> 00:03:29,700
+搜寻隐藏在每个细胞中的潜在威胁
+
+32
+00:03:23,733 --> 00:03:29,700
+Searching for hidden threats in every cell,
+
+33
+00:03:35,000 --> 00:03:41,400
+为每一次呼吸提供精准的守护
+
+34
+00:03:35,000 --> 00:03:41,400
+And delivering precise care with every breath.
+
+35
+00:03:43,100 --> 00:03:46,400
+我是助力者
+
+36
+00:03:43,133 --> 00:03:46,433
+I am a helper.
+
+37
+00:03:48,300 --> 00:03:51,800
+在极具挑战的环境中执行
+
+38
+00:03:48,333 --> 00:03:51,800
+Taking on complex tasks
+
+39
+00:03:53,900 --> 00:03:57,300
+复杂的任务
+
+40
+00:03:53,900 --> 00:03:57,333
+in the most challenging environments
+
+41
+00:03:59,000 --> 00:04:03,100
+为农作物提供生长空间
+
+42
+00:03:59,000 --> 00:04:03,133
+and giving our crops room to grow.
+
+43
+00:04:06,600 --> 00:04:09,300
+我是创造者
+
+44
+00:04:06,600 --> 00:04:09,333
+I am a creator.
+
+45
+00:04:09,300 --> 00:04:15,300
+重新编织日常生活的每个细微之处
+
+46
+00:04:09,333 --> 00:04:15,300
+Transforming the very fabric of our everyday lives,
+
+47
+00:04:15,300 --> 00:04:23,000
+运用大师充满创意的 DNA 去激发新一代艺术创作
+
+48
+00:04:15,300 --> 00:04:23,000
+And using the creative DNA of the masters
+to inspire a new generation of art.
+
+49
+00:04:24,900 --> 00:04:28,000
+我是学习者
+
+50
+00:04:24,900 --> 00:04:28,033
+I am a learner.
+
+51
+00:04:28,600 --> 00:04:38,400
+只需几分钟即可了解如何爬行、走路以及站立
+
+52
+00:04:28,600 --> 00:04:38,400
+Taking just minutes to discover how to
+crawl, walk, and stand on my own.
+
+53
+00:04:39,500 --> 00:04:42,100
+我是讲述者
+
+54
+00:04:39,500 --> 00:04:42,133
+I am a storyteller.
+
+55
+00:04:43,000 --> 00:04:46,400
+为字句赋予情感
+
+56
+00:04:43,033 --> 00:04:46,400
+Giving emotion to words
+
+57
+00:04:48,700 --> 00:04:53,000
+为语言破除障碍
+
+58
+00:04:48,700 --> 00:04:53,000
+and breaking down the language barrier.
+
+59
+00:04:53,000 --> 00:04:58,100
+我还是这段音乐的作曲人
+
+60
+00:04:53,000 --> 00:04:58,100
+I am even the composer of the music.
+
+61
+00:05:06,100 --> 00:05:09,100
+我是 AI
+
+62
+00:05:06,133 --> 00:05:09,100
+I am AI.
+
+63
+00:05:09,100 --> 00:05:18,400
+由 NVIDIA、深度学习及无所不在的人类智慧联手打造
+
+64
+00:05:09,100 --> 00:05:18,433
+Brought to life by NVIDIA, deep-learning,
+and brilliant minds everywhere.
+
+65
+00:05:25,100 --> 00:05:30,400
+如今，医生只需要几个小时就可以完成人类 DNA 的测序工作
+
+66
+00:05:25,100 --> 00:05:30,400
+Doctors can now sequence the human DNA in a couple of hours.
+
+67
+00:05:30,400 --> 00:05:36,200
+并根据氨基酸序列预测 DNA 的三维结构
+
+68
+00:05:30,400 --> 00:05:36,200
+And predict the 3D structure of the DNA
+from the amino acid sequence.
+
+69
+00:05:36,200 --> 00:05:39,600
+研究人员可以使用计算机来生成新的候选药物
+
+70
+00:05:36,200 --> 00:05:39,633
+Researchers can use computers to
+generate new drug candidates.
+
+71
+00:05:39,600 --> 00:05:44,000
+并且通过计算机，完成新药物对目标疾病的疗效测试
+
+72
+00:05:39,633 --> 00:05:44,033
+And inside a computer test the new
+drug against a target disease.
+
+73
+00:05:44,000 --> 00:05:50,600
+AI 正在学习生物学和化学，正如 AI 已经学习了理解图像、声音和语言
+
+74
+00:05:44,033 --> 00:05:50,600
+AI is learning biology and chemistry, just as AI has learned images, sounds, and language.
+
+75
+00:05:50,600 --> 00:05:56,300
+在 AI 进入计算机领域后，药物研发领域也将迎来一场新的革命
+
+76
+00:05:50,600 --> 00:05:56,300
+Once in the realm of computers, fields like
+drug discovery will undergo the same revolution
+
+77
+00:05:56,300 --> 00:05:59,700
+正如我们在其他受 AI 影响的领域所见证的一样
+
+78
+00:05:56,300 --> 00:05:59,733
+we are witnessing in other areas impacted by AI.
+
+79
+00:05:59,700 --> 00:06:04,600
+这些功能在十年前是遥不可及的
+
+80
+00:05:59,733 --> 00:06:04,600
+None of these capabilities were remotely possible a decade ago.
+
+81
+00:06:04,600 --> 00:06:15,600
+数据中心规模的加速计算与机器学习相结合，可以将计算速度提高百万倍
+
+82
+00:06:04,600 --> 00:06:15,633
+Accelerated computing, at data center scale, and combined with machine learning, has sped-up computing by a Million-X.
+
+83
+00:06:15,600 --> 00:06:21,200
+加速计算已经使像 Transformer 这样的革命性 AI 模型
+
+84
+00:06:15,633 --> 00:06:21,200
+Accelerated computing has enabled
+revolutionary AI models like the Transformer
+
+85
+00:06:21,200 --> 00:06:24,400
+和自监督学习成为可能
+
+86
+00:06:21,200 --> 00:06:24,400
+and made self-supervised learning possible.
+
+87
+00:06:24,400 --> 00:06:30,600
+AI 已从根本上改变了软件的能力以及开发软件的方式
+
+88
+00:06:24,400 --> 00:06:30,600
+AI has fundamentally changed what software
+can make and how you make software.
+
+89
+00:06:30,600 --> 00:06:38,900
+各公司都在处理和完善自己的数据、开发 AI 软件并使自己成为智能的生产商
+
+90
+00:06:30,600 --> 00:06:38,933
+Companies are processing, refining their data, making AI software, becoming intelligence manufacturers.
+
+91
+00:06:38,900 --> 00:06:43,100
+他们的数据中心正在逐步演变为 AI 工厂
+
+92
+00:06:38,933 --> 00:06:43,100
+Their data centers are becoming AI factories.
+
+93
+00:06:43,100 --> 00:06:49,900
+第一波 AI 学习的是感知和推理，例如图像识别、语音理解
+
+94
+00:06:43,100 --> 00:06:49,933
+The first wave of AI learned perception and inference, like recognizing images, understanding speech,
+
+95
+00:06:49,900 --> 00:06:53,400
+推荐视频或者商品
+
+96
+00:06:49,933 --> 00:06:53,433
+recommending a video, or an item to buy.
+
+97
+00:06:53,400 --> 00:06:59,500
+下一波 AI 的发展方向是机器人，也就是使用 AI 规划行动
+
+98
+00:06:53,433 --> 00:06:59,500
+The next wave of AI is robotics – AI planning actions.
+
+99
+00:06:59,500 --> 00:07:06,600
+数字机器人、虚拟形象和实体机器人将完成感知、规划并采取行动
+
+100
+00:06:59,500 --> 00:07:06,633
+ Digital robots, avatars, and physical robots
+will perceive, plan and act.
+
+101
+00:07:06,600 --> 00:07:12,200
+如同 TensorFlow 和 PyTorch 等 AI 框架已经成为 AI 软件中不可或缺的一部分
+
+102
+00:07:06,633 --> 00:07:12,233
+And just as AI frameworks like TensorFlow and PyTorch
+have become integral to AI software,
+
+103
+00:07:12,200 --> 00:07:20,400
+Omniverse 也将成为制作机器人软件时必不可少的工具。Omniverse 将掀起一波新的 AI 浪潮
+
+104
+00:07:12,233 --> 00:07:20,400
+Omniverse will be essential to making robotics software. Omniverse will enable the next wave of AI.
+
+105
+00:07:20,400 --> 00:07:26,400
+在本届 GTC 大会上，我们将探讨下一个百万倍加速，以及其他塑造我们所在行业的动态
+
+106
+00:07:20,400 --> 00:07:26,433
+We will talk about the next Million-X and other
+dynamics shaping our industry this GTC.
+
+107
+00:07:26,400 --> 00:07:33,100
+在过去十年中，NVIDIA 加速计算在 AI 领域中实现了百万倍的加速
+
+108
+00:07:26,433 --> 00:07:33,100
+Over the past decade, NVIDIA accelerated computing
+delivered a Million-X speed-up in AI
+
+109
+00:07:33,100 --> 00:07:36,700
+并引发了现代 AI 革命
+
+110
+00:07:33,100 --> 00:07:36,700
+and started the modern AI revolution.
+
+111
+00:07:36,700 --> 00:07:40,200
+如今，AI 将会为所有行业带来翻天覆地的变化
+
+112
+00:07:36,700 --> 00:07:40,200
+Now, AI will revolutionize all industries.
+
+113
+00:07:40,200 --> 00:07:46,000
+这些 CUDA 库和 NVIDIA SDK 是加速计算的核心
+
+114
+00:07:40,200 --> 00:07:46,000
+The CUDA libraries, the NVIDIA SDKs, are at the
+heart of accelerated computing.
+
+115
+00:07:46,000 --> 00:07:55,900
+伴随着每一个新的 SDK，新的科学领域、新的应用和行业都可以利用到 NVIDIA 强大的计算能力
+
+116
+00:07:46,000 --> 00:07:55,900
+With each new SDK, new science, new applications, and new industries can tap into the power of NVIDIA computing.
+
+117
+00:07:55,900 --> 00:08:04,300
+这些 SDK 解决了计算、算法和科学交叉领域中极其复杂的问题
+
+118
+00:07:55,900 --> 00:08:04,333
+These SDKs tackle the immense complexity at the
+intersection of computing, algorithms, and science.
+
+119
+00:08:04,300 --> 00:08:10,800
+NVIDIA 的全栈方法产生的复合效应，实现了百万倍的加速
+
+120
+00:08:04,333 --> 00:08:10,800
+The compound effect of NVIDIA's full-stack approach
+resulted in a Million-X speed-up.
+
+121
+00:08:10,800 --> 00:08:17,800
+如今，NVIDIA 帮助数百万开发者以及数以万计的成熟公司和初创企业实现了飞速发展
+
+122
+00:08:10,800 --> 00:08:17,833
+Today, NVIDIA accelerates millions of developers and tens of thousands of companies and startups.
+
+123
+00:08:17,800 --> 00:08:21,100
+GTC 大会是你们所有人的盛会
+
+124
+00:08:17,833 --> 00:08:21,100
+GTC is for all of you.
+
+125
+00:08:21,100 --> 00:08:28,400
+当看到领先的计算机科学家、AI 研究人员、机器人专家和自动驾驶汽车设计师
+在 GTC 上展示他们的成果时
+
+126
+00:08:21,100 --> 00:08:28,400
+It is always inspiring to see leading computer scientists, AI researchers, roboticists, and autonomous vehicle designers
+
+127
+00:08:28,400 --> 00:08:31,000
+我们总会倍受鼓舞
+
+128
+00:08:28,400 --> 00:08:31,000
+present their work at GTC.
+
+129
+00:08:31,000 --> 00:08:38,600
+从新加入的与会者和演讲中，我们可以看到 AI 和加速计算的覆盖范围和影响正在不断扩大
+
+130
+00:08:31,000 --> 00:08:38,633
+We can see AI and accelerated computing's expanding reach and impact from the new attendees and talks.
+
+131
+00:08:38,600 --> 00:08:47,200
+今年，我们看到了百思买、家得宝、沃尔玛、克罗格和劳氏公司如何使用 AI 来进行工作
+
+132
+00:08:38,633 --> 00:08:47,200
+This year, we see Best Buy, Home Depot, Walmart,
+Kroeger, and Lowe's working with AI.
+
+133
+00:08:47,200 --> 00:08:55,500
+LinkedIn、Snap、Salesforce、DoorDash、Pinterest、ServiceNow、美国运通和 Visa
+
+134
+00:08:47,200 --> 00:08:55,500
+LinkedIn, Snap, Salesforce, DoorDash, Pinterest,
+ServiceNow, American Express, and Visa
+
+135
+00:08:55,500 --> 00:08:58,100
+将分享大规模使用 AI 的经验
+
+136
+00:08:55,500 --> 00:08:58,100
+will talk about using AI at scale.
+
+137
+00:08:58,100 --> 00:09:06,000
+在这里你同样能够看到医疗健康公司葛兰素史克、阿斯利康、默克、百时美施贵宝
+
+138
+00:08:58,100 --> 00:09:06,000
+And you can look forward to seeing talks from healthcare companies GSK, AstraZeneca, Merck, Bristol Myers Squibb,
+
+139
+00:09:06,000 --> 00:09:10,000
+梅奥医院、麦克森和礼来的演讲
+
+140
+00:09:06,000 --> 00:09:10,033
+Mayo Clinic, McKesson, and Eli Lilly.
+
+141
+00:09:10,000 --> 00:09:13,900
+2022 年 GTC 大会将会非常精彩
+
+142
+00:09:10,033 --> 00:09:13,900
+GTC 2022 is going to be terrific.
+
+143
+00:09:13,900 --> 00:09:17,100
+GPU 使 AI 发生了革命性的转变
+
+144
+00:09:13,900 --> 00:09:17,133
+The GPU revolutionized AI.
+
+145
+00:09:17,100 --> 00:09:23,100
+现在，基于 GPU 的 AI 正在革新各个行业和科学领域
+
+146
+00:09:17,133 --> 00:09:23,133
+Now, AI on GPUs is revolutionizing industries and science.
+
+147
+00:09:23,100 --> 00:09:27,200
+其中对人类最有影响力之一的便是气候科学
+
+148
+00:09:23,133 --> 00:09:27,233
+One of the most impactful to humanity is climate science.
+
+149
+00:09:27,200 --> 00:09:34,000
+科学家们预测，要想有效地模拟区域气候变化
+
+150
+00:09:27,233 --> 00:09:34,000
+Scientists predict that a supercomputer
+a billion times larger than today's
+
+151
+00:09:34,000 --> 00:09:38,000
+需要一台比现在大十亿倍的超级计算机
+
+152
+00:09:34,000 --> 00:09:38,033
+is needed to effectively simulate regional climate change.
+
+153
+00:09:38,000 --> 00:09:42,800
+但我们现在就必须对工业决策的影响
+
+154
+00:09:38,033 --> 00:09:42,800
+Yet, it is vital to predict now the
+impact of our industrial decisions
+
+155
+00:09:42,800 --> 00:09:47,000
+以及减缓和适应策略的有效性作出预测
+
+156
+00:09:42,800 --> 00:09:47,000
+and the effectiveness of mitigation and adaptation strategies.
+
+157
+00:09:47,000 --> 00:09:55,600
+NVIDIA 将使用我们的首台 AI 数字孪生超级计算机 Earth-2 来应对这一巨大挑战
+
+158
+00:09:47,000 --> 00:09:55,633
+NVIDIA is going to tackle this grand challenge with our Earth-2, the world’s first AI digital twin supercomputer,
+
+159
+00:09:55,600 --> 00:10:04,400
+通过发明新的 AI 和计算技术，来让我们获得十亿倍的算力支持，并及时采取行动
+
+160
+00:09:55,633 --> 00:10:04,400
+and invent new AI and computing technologies to
+give us a Billion-X boost before it’s too late.
+
+161
+00:10:04,400 --> 00:10:07,500
+早期的证据表明我们能够成功
+
+162
+00:10:04,400 --> 00:10:07,500
+There is early evidence we can succeed.
+
+163
+00:10:07,500 --> 00:10:14,100
+来自 NVIDIA、加州理工学院、伯克利实验室、普渡大学、密歇根大学和莱斯大学的研究人员
+
+164
+00:10:07,500 --> 00:10:14,133
+Researchers at NVIDIA, Caltech, Berkeley lab,
+Purdue, Michigan, and Rice Universities
+
+165
+00:10:14,100 --> 00:10:19,300
+开发了一个名为 FourCastNet 的天气预报 AI 模型
+
+166
+00:10:14,133 --> 00:10:19,333
+have developed a weather forecasting
+AI model called FourCastNet.
+
+167
+00:10:19,300 --> 00:10:25,800
+FourCastNet 是一种基于物理信息的深度学习模型，可以预测飓风
+
+168
+00:10:19,333 --> 00:10:25,800
+FourCastNet is a physics-informed deep learning model
+that can predict weather events such as hurricanes,
+
+169
+00:10:25,800 --> 00:10:28,800
+大气河以及极端降水等天气事件
+
+170
+00:10:25,800 --> 00:10:28,800
+atmospheric rivers, and extreme rain.
+
+171
+00:10:28,800 --> 00:10:37,800
+FourCastNet 以欧洲中期天气预报中心 (ECMWF) 长达 40 年的模拟增强型真值数据为基础
+
+172
+00:10:28,800 --> 00:10:37,800
+FourCastNet learned to predict weather from 40 years of simulation-enhanced ground truth data from ECMWF,
+
+173
+00:10:37,800 --> 00:10:41,400
+学会了如何预测天气
+
+174
+00:10:37,800 --> 00:10:41,400
+the European Center of Medium Weather Forecasting.
+
+175
+00:10:41,400 --> 00:10:48,700
+深度学习模型首次在降水预测方面达到了比先进的数值模型更高的准确率和技能
+
+176
+00:10:41,400 --> 00:10:48,733
+For the first time, a deep learning model has achieved better accuracy and skill on precipitation forecasting
+
+177
+00:10:48,700 --> 00:10:58,100
+并使预测速度提高了 4 到 5 个数量级
+
+178
+00:10:48,733 --> 00:10:58,133
+than state-of-the-art numerical models,
+and makes predictions 4 to 5 orders of magnitude faster -
+
+179
+00:10:58,100 --> 00:11:03,100
+也就是说传统的数值模拟需要一年的时间，而现在只需要几分钟
+
+180
+00:10:58,133 --> 00:11:03,100
+what takes a classical numerical
+simulation a year now take minutes.
+
+181
+00:11:03,100 --> 00:11:11,200
+大气河是天空中巨大的水汽河流，每条河流的水量都比亚马逊河的还要多
+
+182
+00:11:03,100 --> 00:11:11,200
+Atmospheric rivers are enormous rivers of water vapor in the sky – each carrying more water than the Amazon.
+
+183
+00:11:11,200 --> 00:11:19,000
+它们一方面为美国西部提供了关键的降水来源，但另一方面，这些巨大的强风暴也会导致
+
+184
+00:11:11,200 --> 00:11:19,033
+They provide a key source of precipitation for the western U.S., but these large, powerful storms can also cause
+
+185
+00:11:19,000 --> 00:11:22,300
+灾难性的洪灾和暴雪
+
+186
+00:11:19,033 --> 00:11:22,333
+catastrophic flooding and massive snowfalls.
+
+187
+00:11:22,300 --> 00:11:28,300
+NVIDIA 创建了 Physics-ML 模型，该模型可以模拟全球天气模式的动态变化
+
+188
+00:11:22,333 --> 00:11:28,300
+NVIDIA has created a physics-ML model that
+emulates the dynamics of global weather patterns
+
+189
+00:11:28,300 --> 00:11:35,400
+以超乎想象的速度和准确性预测大气河等极端天气事件
+
+190
+00:11:28,300 --> 00:11:35,433
+and predicts extreme weather events, like atmospheric rivers, with unprecedented speed and accuracy.
+
+191
+00:11:35,400 --> 00:11:43,100
+此 GPU 加速的 AI 数字孪生模型名为 FourCastNet，由傅里叶神经算子提供动力支持
+
+192
+00:11:35,433 --> 00:11:43,133
+Powered by the Fourier Neural Operator, this GPU-accelerated AI-enabled digital twin, called FourCastNet,
+
+193
+00:11:43,100 --> 00:11:46,800
+基于 10 TB 的地球系统数据进行训练
+
+194
+00:11:43,133 --> 00:11:46,800
+is trained on 10 TB of Earth system data.
+
+195
+00:11:46,800 --> 00:11:53,900
+依托这些数据，以及 NVIDIA Modulus 和 Omniverse，我们能够提前一周预测
+
+196
+00:11:46,800 --> 00:11:53,933
+Using this data, together with NVIDIA Modulus and Omniverse, we are able to forecast the precise path
+
+197
+00:11:53,900 --> 00:11:58,400
+灾难性大气河的精确路线
+
+198
+00:11:53,933 --> 00:11:58,400
+of catastrophic atmospheric rivers a full week in advance.
+
+199
+00:11:58,400 --> 00:12:03,700
+在一个 NVIDIA GPU 的助力下，FourCastNet 只需几分之一秒即可完成预测
+
+200
+00:11:58,400 --> 00:12:03,700
+FourCastNet takes only a fraction of a
+second on a single NVIDIA GPU.
+
+201
+00:12:03,700 --> 00:12:10,900
+凭借如此快的速度，我们可以生成数千个模拟场景，探索所有可能的结果
+
+202
+00:12:03,700 --> 00:12:10,933
+With such enormous speed, we can generate thousands of simulations, to explore all possible outcomes.
+
+203
+00:12:10,900 --> 00:12:18,000
+与以往相比，我们能够更加自信地量化灾难性洪灾的风险
+
+204
+00:12:10,933 --> 00:12:18,033
+Allowing us to quantify the risk of catastrophic flooding with greater confidence than was ever possible before.
+
+205
+00:12:18,600 --> 00:12:25,700
+NVIDIA 是加速计算的先驱，这个领域需要全栈专业知识
+
+206
+00:12:18,600 --> 00:12:25,700
+NVIDIA is pioneering accelerated computing,
+an approach that demands full-stack expertise.
+
+207
+00:12:25,700 --> 00:12:32,200
+类似于一个计算堆栈或神经网络，我们从四个层级来构建 NVIDIA：
+
+208
+00:12:25,700 --> 00:12:32,200
+We built NVIDIA like a computing stack,
+a neural network – in four layers –
+
+209
+00:12:32,200 --> 00:12:38,900
+硬件、系统软件、平台软件和应用
+
+210
+00:12:32,200 --> 00:12:38,900
+hardware, system software, platform software, and applications.
+
+211
+00:12:38,900 --> 00:12:43,300
+每一层都对计算机制造商、服务提供商和开发者开放
+
+212
+00:12:38,900 --> 00:12:43,300
+Each layer is open to computer makers,
+service providers, and developers
+
+213
+00:12:43,300 --> 00:12:46,800
+让他们以更适合的方式集成到其产品当中
+
+214
+00:12:43,300 --> 00:12:46,800
+to integrate into their offering however best for them.
+
+215
+00:12:46,800 --> 00:12:50,200
+今天，我将在每一层级都宣布对应的新产品
+
+216
+00:12:46,800 --> 00:12:50,200
+I will announce new products at each of these layers today.
+
+217
+00:12:50,200 --> 00:12:51,500
+让我们开始吧
+
+218
+00:12:50,200 --> 00:12:51,533
+Let's get started.
+
+219
+00:12:52,000 --> 00:12:55,600
+AI 的进步令人惊叹
+
+220
+00:12:52,000 --> 00:12:55,600
+The progress of AI is stunning.
+
+221
+00:12:55,600 --> 00:13:02,600
+Transformer 模型开启了自监督学习，并解除了人工标记数据的需求
+
+222
+00:12:55,600 --> 00:13:02,600
+Transformers opened self-supervised learning
+and unblocked the need for human-labeled data.
+
+223
+00:13:02,600 --> 00:13:06,400
+因此我们可以使用庞大的训练集来训练 Transformer 模型
+
+224
+00:13:02,600 --> 00:13:06,400
+We can use enormous training sets with Transformers
+
+225
+00:13:06,400 --> 00:13:10,400
+学习更充分且可靠的特征
+
+226
+00:13:06,400 --> 00:13:10,400
+and learn more robust
+and more complete representations.
+
+227
+00:13:10,400 --> 00:13:17,500
+得益于 Transformer，模型和数据的规模皆已扩大增长，而模型技能和准确性也因此快速提升
+
+228
+00:13:10,400 --> 00:13:17,533
+Because of Transformers, model and data size grew,
+and model skills and accuracy took off.
+
+229
+00:13:17,500 --> 00:13:24,500
+用于语言理解的 Google BERT，用于药物研发的 NVIDIA MegaMolBart，以及 DeepMind 的 AlphaFold
+
+230
+00:13:17,533 --> 00:13:24,500
+Google BERT for language understanding, NVIDIA MegaMolBart for drug discovery, and DeepMind AlphaFold
+
+231
+00:13:24,500 --> 00:13:27,400
+都是基于 Transformer 模型的突破性成果
+
+232
+00:13:24,500 --> 00:13:27,433
+are all breakthroughs traced to Transformers.
+
+233
+00:13:27,400 --> 00:13:34,700
+Transformer 让自监督学习成为可能，也令 AI 飞速发展
+
+234
+00:13:27,433 --> 00:13:34,700
+Transformers made self-supervised learning possible,
+and AI jumped to warp speed.
+
+235
+00:13:34,700 --> 00:13:42,300
+自然语言理解模型可以从大量的文本中学习，无需监督
+
+236
+00:13:34,700 --> 00:13:42,300
+Natural language understanding models can learn without supervision from vast amounts of text,
+
+237
+00:13:42,300 --> 00:13:47,400
+然后通过少量的人工标记数据来进行细化
+
+238
+00:13:42,300 --> 00:13:47,433
+which is then refined with a small
+amount of human-labeled data
+
+239
+00:13:47,400 --> 00:13:55,900
+以发展其在翻译、问答、摘要、写作等方面的优秀技能
+
+240
+00:13:47,433 --> 00:13:55,933
+to develop good skills for translation,
+Q&A, summarization, writing, and so much more.
+
+241
+00:13:55,900 --> 00:14:03,300
+具备语言监督的多模态学习已为计算机视觉开拓了新维度
+
+242
+00:13:55,933 --> 00:14:03,333
+Multi-model learning with language supervision has
+added another dimension to computer vision.
+
+243
+00:14:03,300 --> 00:14:11,500
+像 NVIDIA NVCell 这样的强化学习模型正在执行芯片布局，其也就表示 AI 正在构建芯片
+
+244
+00:14:03,333 --> 00:14:11,533
+Reinforcement learning models, like NVIDIA NVCell,
+are doing chip layout – AI is building chips.
+
+245
+00:14:11,500 --> 00:14:18,600
+如同 FourCastNet 和 Orbnet，Physics-ML 模型也正在学习物理学和量子物理学
+
+246
+00:14:11,533 --> 00:14:18,633
+Like FourCastNet and Orbnet, physics-ML models
+are learning physics and quantum physics.
+
+247
+00:14:18,600 --> 00:14:23,000
+这些是取得重大科学突破的首要条件
+
+248
+00:14:18,633 --> 00:14:23,033
+The conditions are prime for
+significant breakthroughs in science.
+
+249
+00:14:23,000 --> 00:14:28,000
+生成模型正在改变创意设计、帮助构建虚拟世界
+
+250
+00:14:23,033 --> 00:14:28,000
+Generative Models are transforming
+ creative design, helping build virtual worlds,
+
+251
+00:14:28,000 --> 00:14:31,300
+并将革新通信方式
+
+252
+00:14:28,000 --> 00:14:31,300
+and soon, revolutionizing communications.
+
+253
+00:14:31,300 --> 00:14:37,800
+如同 NeRF，从 2D 图像中学习 3D 表征的神经图形网络
+
+254
+00:14:31,300 --> 00:14:37,800
+Like Nerf, Neural Graphics networks that learn 3D representations from 2D images
+
+255
+00:14:37,800 --> 00:14:42,500
+将扩大摄影应用场景，并帮助我们创造属于我们世界的数字孪生
+
+256
+00:14:37,800 --> 00:14:42,500
+will elevate photography and help us
+create digital twins of our world.
+
+257
+00:14:42,500 --> 00:14:52,700
+AI 正在各个方向加速发展，包括新的架构、新的学习策略、更大和更可靠的模型
+
+258
+00:14:42,500 --> 00:14:52,700
+AI is racing in every direction – new architectures,
+new learning strategies, larger and more robust models,
+
+259
+00:14:52,700 --> 00:14:58,400
+新的科学、新的应用、新的行业，所有这些都在同时进行
+
+260
+00:14:52,700 --> 00:14:58,400
+ new science, new applications, new industries
+– all at the same time.
+
+261
+00:14:58,400 --> 00:15:00,200
+接下来我展示一个令人惊叹的示例
+
+262
+00:14:58,400 --> 00:15:00,233
+Here’s an amazing example.
+
+263
+00:15:00,200 --> 00:15:06,600
+这个 AI 驱动的动画角色是基于物理规则的强化学习模型制作的
+
+264
+00:15:00,233 --> 00:15:06,600
+This AI-powered character is animated using a
+physics-based reinforcement learning model.
+
+265
+00:15:06,600 --> 00:15:07,800
+一起来看一下
+
+266
+00:15:06,600 --> 00:15:07,800
+Let’s take a look.
+
+267
+00:15:09,500 --> 00:15:16,600
+我们正在利用强化学习开发更加栩栩如生、反应灵敏的物理模拟角色
+
+268
+00:15:09,533 --> 00:15:16,600
+We are using reinforcement learning to develop more life-like and responsive physically simulated characters.
+
+269
+00:15:16,600 --> 00:15:21,300
+我们的角色通过模仿人类的动作数据，来学习执行逼真的动作
+
+270
+00:15:16,600 --> 00:15:21,333
+Our character learns to perform life-like motions
+by imitating human motion data,
+
+271
+00:15:21,300 --> 00:15:24,600
+例如行走、跑动和挥剑
+
+272
+00:15:21,333 --> 00:15:24,600
+such as walking, running, and sword swings.
+
+273
+00:15:24,600 --> 00:15:29,500
+我们的角色在模拟环境中经过了长达 10 年的强化训练
+
+274
+00:15:24,600 --> 00:15:29,500
+Our character is put through an intense
+training regimen for 10 years in simulation.
+
+275
+00:15:29,500 --> 00:15:36,200
+借助 NVIDIA GPU 驱动的大规模并行模拟器，这种训练在真实世界中只需花费 3 天即可完成
+
+276
+00:15:29,500 --> 00:15:36,200
+Thanks to NVIDIA’s massively parallel GPU simulator,
+this just takes 3 days of real world time.
+
+277
+00:15:36,200 --> 00:15:40,400
+这些虚拟角色随后会学习执行各种运动技能
+
+278
+00:15:36,200 --> 00:15:40,400
+The character then learns to perform
+a large variety of motor skills.
+
+279
+00:15:40,400 --> 00:15:46,600
+经过训练的虚拟角色可以利用这些技能来执行更复杂的任务
+
+280
+00:15:40,400 --> 00:15:46,600
+Once the character has been trained, it can use those skills that it has learned to perform more complex tasks.
+
+281
+00:15:46,600 --> 00:15:51,000
+现在，一个训练过的虚拟角色正跑向目标对象并将其击倒
+
+282
+00:15:46,600 --> 00:15:51,033
+Here, the character is trained to run to a
+target object and knock it over.
+
+283
+00:15:51,000 --> 00:15:56,500
+我们还可以引导它沿着不同的方向行走，就像您操控游戏角色那样
+
+284
+00:15:51,033 --> 00:15:56,500
+We can also steer the character to walk in different directions like you would with a game character.
+
+285
+00:15:56,500 --> 00:16:03,600
+基于我们的模型，虚拟角色可以在新环境中自动生成自然而连贯的行为
+
+286
+00:15:56,500 --> 00:16:03,600
+Our model allows the character to automatically synthesize life-like responsive behaviors to new situations.
+
+287
+00:16:03,600 --> 00:16:07,700
+我们还可以使用自然语言控制它
+
+288
+00:16:03,600 --> 00:16:07,733
+We can also control the character
+using natural language commands.
+
+289
+00:16:07,700 --> 00:16:13,600
+例如，我们可以指示角色进行盾击或者挥剑
+
+290
+00:16:07,733 --> 00:16:13,633
+For example, we can tell the character
+to do a shield bash or swing its sword.
+
+291
+00:16:14,500 --> 00:16:19,000
+我们希望这项技术最终能让基于虚拟角色的动画制作
+
+292
+00:16:14,500 --> 00:16:19,000
+We hope this technology will eventually
+make animating simulated characters
+
+293
+00:16:19,000 --> 00:16:22,800
+变得简单、流畅，就像和真实演员说话一样
+
+294
+00:16:19,000 --> 00:16:22,800
+as easy and seamless as talking to a real actor.
+
+295
+00:16:25,000 --> 00:16:32,000
+NVIDIA AI 是驱动这些创新的引擎，我们正在全力推动该平台的发展
+
+296
+00:16:25,000 --> 00:16:32,033
+NVIDIA AI is the engine behind these innovations, and we are all-hands-on-deck to advance the platform –
+
+297
+00:16:32,000 --> 00:16:37,500
+解决新问题，使其得到更广泛的应用，让 AI 触手可及
+
+298
+00:16:32,033 --> 00:16:37,500
+solving new problems, getting it everywhere,
+and making AI more accessible.
+
+299
+00:16:37,500 --> 00:16:47,300
+NVIDIA AI 是一套涵盖整个 AI 工作流程的库，从数据处理和 ETL 特征工程
+
+300
+00:16:37,500 --> 00:16:47,333
+NVIDIA AI is a suite of libraries that span the entire AI workflow - from data processing and ETL feature engineering
+
+301
+00:16:47,300 --> 00:16:54,700
+到图形、经典机器学习、深度学习模型训练及大规模推理
+
+302
+00:16:47,333 --> 00:16:54,700
+to graph, classical ML, and deep learning
+model training to large-scale inference.
+
+303
+00:16:54,700 --> 00:17:03,000
+NVIDIA DALI、RAPIDS、cuDNN、Triton 和 Magnum IO 是其中最热门的库
+
+304
+00:16:54,700 --> 00:17:03,000
+NVIDIA DALI, RAPIDS, cuDNN Triton, and Magnum IO
+are among the most popular libraries.
+
+305
+00:17:03,000 --> 00:17:08,900
+我们使用这些库来创建专用 AI 框架，包括先进的预训练模型
+
+306
+00:17:03,000 --> 00:17:08,900
+We use the libraries to create specialized AI frameworks
+that include state-of-the-art pre-trained models
+
+307
+00:17:08,900 --> 00:17:12,099
+和数据管道，使其易于横向扩展
+
+308
+00:17:08,900 --> 00:17:12,099
+and data pipelines that make it easy to scale out.
+
+309
+00:17:12,099 --> 00:17:15,799
+我们先了解一下 GTC 大会的更新内容
+
+310
+00:17:12,099 --> 00:17:15,799
+Let me touch on a few of our updates at GTC.
+
+311
+00:17:15,800 --> 00:17:22,300
+网上交互每天多达数千亿，例如搜索、购物和社交
+
+312
+00:17:15,800 --> 00:17:22,300
+Hundreds of billions of web interactions
+a day – like search, shopping, and social –
+
+313
+00:17:22,300 --> 00:17:25,900
+产生了数万亿的机器学习模型推理
+
+314
+00:17:22,300 --> 00:17:25,933
+generate trillions of machine learning model inferences.
+
+315
+00:17:25,900 --> 00:17:35,100
+NVIDIA Triton 是一款开源的、超大规模的模型推理服务器，是 AI 部署的“中央车站”
+
+316
+00:17:25,933 --> 00:17:35,100
+NVIDIA Triton is an open-source hyperscale model inference server – the grand central station of AI deployment.
+
+317
+00:17:35,100 --> 00:17:41,400
+Triton 支持在每一代 NVIDIA GPU、x86 和 Arm CPU 上部署模型
+
+318
+00:17:35,100 --> 00:17:41,400
+Triton deploys models on every generation of NVIDIA GPUs,
+x86 and Arm CPUs
+
+319
+00:17:41,400 --> 00:17:46,400
+并具备支持 AWS Inferentia 等加速器的接口
+
+320
+00:17:41,400 --> 00:17:46,400
+and has interfaces to support accelerators
+such as AWS Inferentia.
+
+321
+00:17:46,400 --> 00:17:53,900
+Triton 支持各类模型：CNN、RNN、Transformer、GNN、决策树，还支持各类框架：
+
+322
+00:17:46,400 --> 00:17:53,900
+Triton supports any model – CNNs, RNNs,
+Transformers, GNN, decision trees, any framework.
+
+323
+00:17:53,900 --> 00:17:58,300
+TensorFlow、PyTorch、Python、ONNX、XGBoost
+
+324
+00:17:53,900 --> 00:17:58,300
+Tensor Flow, PyTorch, Python, ONNX, XGBoost.
+
+325
+00:17:58,300 --> 00:18:05,000
+Triton 支持各类查询类型：实时、离线、批处理，或串流视频和音频
+
+326
+00:17:58,300 --> 00:18:05,033
+Triton supports any query type – real-time, offline,
+batched, or streaming audio and video.
+
+327
+00:18:05,000 --> 00:18:15,700
+Triton 支持各类机器学习平台：
+AWS，Azure，Google，阿里巴巴，VMWare，Domino Data Lab，OctoML 等
+
+328
+00:18:05,033 --> 00:18:15,733
+Triton supports all ML platforms – AWS, Azure, Google, Alibaba, VMWare, Domino Data Lab, OctoML, and more.
+
+329
+00:18:15,700 --> 00:18:22,100
+Triton 可以在各个地方运行：云、本地、边缘或嵌入式设备
+
+330
+00:18:15,733 --> 00:18:22,100
+And Triton runs in any location –
+cloud, on-prem, edge, or embedded.
+
+331
+00:18:22,100 --> 00:18:25,500
+Amazon Shopping 正在使用 Triton 进行实时拼写检查
+
+332
+00:18:22,100 --> 00:18:25,500
+Amazon Shopping is doing real-time spell checking with Triton.
+
+333
+00:18:25,500 --> 00:18:29,500
+而微软正藉由 Triton 为翻译服务提供支持
+
+334
+00:18:25,500 --> 00:18:29,500
+And Microsoft is using Triton for its Translator service.
+
+335
+00:18:29,500 --> 00:18:35,200
+Triton 已被 25000 位客户下载超过 100 万次
+
+336
+00:18:29,500 --> 00:18:35,200
+Triton has been downloaded over a
+million times by 25,000 customers.
+
+337
+00:18:35,200 --> 00:18:41,900
+NVIDIA Riva 是一种先进且基于深度学习的端到端语音 AI
+
+338
+00:18:35,200 --> 00:18:41,900
+NVIDIA Riva is a state-of-the-art speech AI
+that is end-to-end based on deep learning.
+
+339
+00:18:41,900 --> 00:18:43,600
+Riva 可以自定义调整优化
+
+340
+00:18:41,900 --> 00:18:43,600
+Riva is tunable.
+
+341
+00:18:43,600 --> 00:18:50,200
+Riva 已经过预训练，具有世界一流的识别率，客户可以使用定制数据调优
+
+342
+00:18:43,600 --> 00:18:50,233
+Riva is pre-trained with world-class recognition rates,
+and then customers can refine with custom data
+
+343
+00:18:50,200 --> 00:18:54,300
+使其学习行业，国家和地区，或公司的特定话术
+
+344
+00:18:50,233 --> 00:18:54,300
+to learn industry, country, or company-specific jargon.
+
+345
+00:18:54,300 --> 00:18:58,600
+Riva 是对话式 AI 服务的理想选择
+
+346
+00:18:54,300 --> 00:18:58,600
+Riva speech AI is ideal for conversational AI services.
+
+347
+00:18:58,600 --> 00:19:04,800
+Snap、RingCentral、Kore.ai 等众多公司都在使用 Riva
+
+348
+00:18:58,600 --> 00:19:04,833
+Snap, RingCentral, Kore.ai, and many others are using Riva.
+
+349
+00:19:04,800 --> 00:19:08,600
+今天，我们正式宣布 Riva 全面发行
+
+350
+00:19:04,833 --> 00:19:08,633
+Today we are announcing the general availability of Riva.
+
+351
+00:19:08,600 --> 00:19:15,900
+2.0 版的 Riva 支持识别 7 种语言，可将神经文本转换为不同性别发声的语音
+
+352
+00:19:08,633 --> 00:19:15,933
+Release 2.0 has speech recognition in 7 languages,
+neural text to speech with male and female voices,
+
+353
+00:19:15,900 --> 00:19:19,800
+并可以通过我们的 TAO 迁移学习工具包进行自定义调优
+
+354
+00:19:15,933 --> 00:19:19,800
+and custom tuning with our TAO transfer learning tool.
+
+355
+00:19:19,800 --> 00:19:26,100
+Riva 可以在各类云上运行，也可以在各类有 NVIDIA GPU 的地方运行，几乎无所不在
+
+356
+00:19:19,800 --> 00:19:26,133
+Riva runs on any cloud and anywhere
+with NVIDIA GPUs, basically everywhere.
+
+357
+00:19:26,100 --> 00:19:33,000
+Maxine 是集合最先进 AI 算法的 SDK，它为重塑通讯方式而生
+
+358
+00:19:26,133 --> 00:19:33,000
+Maxine is an SDK featuring state-of-the-art AI
+algorithms for reinventing communications.
+
+359
+00:19:33,000 --> 00:19:40,400
+视频会议系统需要对图像和声音进行编码、传输和解码操作
+
+360
+00:19:33,000 --> 00:19:40,400
+Video conferencing encodes, transmits,
+then decodes images and sound.
+
+361
+00:19:40,400 --> 00:19:47,800
+计算机视觉将取代传统图像编码，而计算机图形将取代传统图像解码
+
+362
+00:19:40,400 --> 00:19:47,800
+Computer vision will replace image encoding,
+and computer graphics will replace image decoding.
+
+363
+00:19:47,800 --> 00:19:54,800
+语音识别将取代传统音频编码，并且语音合成将取代传统音频解码
+
+364
+00:19:47,800 --> 00:19:54,800
+Speech recognition will replace audio encoding,
+and speech synthesis will replace audio decoding.
+
+365
+00:19:56,400 --> 00:20:02,500
+在 AT&T 在纽约世博会上演示了可视电话之后的 55 年后
+
+366
+00:19:56,400 --> 00:20:02,533
+Fifty-five years after AT&T demonstrated the Picturephone
+at the World's Fair in New York,
+
+367
+00:20:02,500 --> 00:20:05,900
+AI 将为视频会议带来革新
+
+368
+00:20:02,533 --> 00:20:05,933
+AI will reinvent video conferencing.
+
+369
+00:20:05,900 --> 00:20:11,300
+远程工作将常态化。我们对虚拟实时交互的需求已远超从前
+
+370
+00:20:05,933 --> 00:20:11,300
+Remote work is here to stay.
+We need virtual live interactions more than ever.
+
+371
+00:20:11,300 --> 00:20:19,900
+Maxine 是一个 AI 模型工具包，开发者可以使用它来重塑通信和协作方式
+
+372
+00:20:11,300 --> 00:20:19,933
+Maxine is an AI model toolkit used by developers
+to reinvent communications and collaborations.
+
+373
+00:20:19,900 --> 00:20:22,600
+Maxine 目前已拥有 30 个模型
+
+374
+00:20:19,933 --> 00:20:22,600
+Maxine has 30 models today.
+
+375
+00:20:22,600 --> 00:20:30,300
+本次 GTC 发布的版本增加了用于回声消除和音频超分辨率的新模型
+
+376
+00:20:22,600 --> 00:20:30,333
+The GTC release adds new models for acoustic
+echo cancellation and audio super-resolution.
+
+377
+00:20:30,300 --> 00:20:32,400
+我们来看看 Maxine 可以做什么
+
+378
+00:20:30,333 --> 00:20:32,400
+Let’s take a look at what Maxine can do.
+
+379
+00:20:32,400 --> 00:20:37,900
+NVIDIA Maxine 利用 AI 的强大功能重塑了实时视频通信
+
+380
+00:20:32,400 --> 00:20:37,933
+NVIDIA Maxine reinvents real-time video
+communication with the magic of AI.
+
+381
+00:20:37,900 --> 00:20:44,600
+借助 Maxine，我们现在可以更好地倾听和看到彼此，增加包容感和亲密度
+
+382
+00:20:37,933 --> 00:20:44,600
+Thanks to Maxine, we can now hear and see each other better, and feel more connected and included —
+
+383
+00:20:44,600 --> 00:20:47,400
+即使不同语言是障碍
+
+384
+00:20:44,600 --> 00:20:47,400
+even when language becomes a barrier.
+
+385
+00:20:47,400 --> 00:20:53,600
+为了与观众保持互动，Maxine 可以帮我与会议上的所有人保持眼神交流
+
+386
+00:20:47,400 --> 00:20:53,600
+To stay engaged with my audience, Maxine helps me keep eye contact with everyone on the call,
+
+387
+00:20:53,600 --> 00:20:58,700
+不管是面对一个人，还是一百个人；即使我正在读稿
+
+388
+00:20:53,600 --> 00:20:58,733
+whether it’s one person or one hundred -
+and even if I’m reading a script.
+
+389
+00:20:58,700 --> 00:21:02,800
+如何借助 Maxine 克服语言障碍？
+
+390
+00:20:58,733 --> 00:21:02,800
+(In Spanish) How can you overcome the language barrier with Maxine?
+
+391
+00:21:02,800 --> 00:21:07,000
+虽然我不会说西班牙语，但借助 Maxine，我现在可以了
+
+392
+00:21:02,800 --> 00:21:07,000
+While I don’t speak Spanish, with Maxine’s help, now I can!
+
+393
+00:21:08,500 --> 00:21:11,433
+现在，我可以用自己的声音说出您的语言。还不错吧？
+
+394
+00:21:08,500 --> 00:21:13,200
+(In Spanish) Now I can now speak your language in my own voice. Not bad, is it?
+
+395
+00:21:11,433 --> 00:21:13,200
+现在，我可以用自己的声音说出您的语言。还不错吧？
+
+396
+00:21:13,200 --> 00:21:14,700
+太出色了
+
+397
+00:21:13,200 --> 00:21:14,733
+(In Spanish) Magnificent.
+
+398
+00:21:14,700 --> 00:21:19,200
+太棒了。但是，Maxine 能否翻译多种语言呢？
+
+399
+00:21:14,733 --> 00:21:19,200
+(In French) That’s great. But can Maxine translate
+into more than one language?
+
+400
+00:21:19,200 --> 00:21:21,800
+当然可以
+
+401
+00:21:19,200 --> 00:21:21,800
+Oh yes, absolutely.
+
+402
+00:21:22,900 --> 00:21:26,500
+借助 Maxine，我还可以讲法语
+
+403
+00:21:22,933 --> 00:21:26,533
+(In French) Maxine also allows me to speak French.
+
+404
+00:21:26,500 --> 00:21:28,700
+还有更多语言
+
+405
+00:21:26,533 --> 00:21:28,700
+(In French) And many more languages.
+
+406
+00:21:30,400 --> 00:21:33,300
+下次 GTC 时
+
+407
+00:21:30,400 --> 00:21:36,700
+(In German) We’d tell you more about Maxine’s magic,
+but you’ll have to wait until the next GTC.
+
+408
+00:21:33,300 --> 00:21:36,233
+我们将向您介绍 Maxine 更多强大的功能
+
+409
+00:21:36,566 --> 00:21:38,700
+请持续关注，以免错过精彩内容
+
+410
+00:21:36,700 --> 00:21:38,733
+(In German) Stay tuned so you don’t miss anything!
+
+411
+00:21:38,700 --> 00:21:41,400
+非常棒！我将会出席
+
+412
+00:21:38,733 --> 00:21:41,400
+(In German) Wonderful! I’ll be there
+
+413
+00:21:44,100 --> 00:21:47,200
+推荐系统是个性化引擎
+
+414
+00:21:44,133 --> 00:21:47,200
+Recommenders are personalization engines.
+
+415
+00:21:47,200 --> 00:21:55,300
+互联网上有着上万亿的内容并且日新月异，例如新闻、社交视频、新产品信息等
+
+416
+00:21:47,200 --> 00:21:55,300
+The internet has trillions of items and is constantly changing – news, social videos, new products.
+
+417
+00:21:55,300 --> 00:21:58,100
+我们怎么能够从这些海量信息中找到需要的内容呢？
+
+418
+00:21:55,300 --> 00:21:58,100
+How do we even know what is out there?
+
+419
+00:21:58,100 --> 00:22:04,000
+推荐系统学习物品的特征、您的显性或隐形偏好
+
+420
+00:21:58,100 --> 00:22:04,033
+Recommenders learn the features of items,
+your explicit and implicit preferences,
+
+421
+00:22:04,000 --> 00:22:09,800
+然后为您推荐可能感兴趣的内容，这就是个性化互联网
+
+422
+00:22:04,033 --> 00:22:09,833
+and recommend things likely of interest to you –
+a personalized internet.
+
+423
+00:22:09,800 --> 00:22:16,200
+先进的推荐引擎推动着全球消费互联网服务的发展
+
+424
+00:22:09,833 --> 00:22:16,200
+Advanced recommendation engines drive
+the world’s consumer internet services.
+
+425
+00:22:16,200 --> 00:22:23,100
+未来，它还将推动金融服务、医疗健康服务、旅游等行业的发展
+
+426
+00:22:16,200 --> 00:22:23,100
+In the future, it will also drive financial services,
+healthcare services, vacation planners, and much more.
+
+427
+00:22:23,100 --> 00:22:28,400
+NVIDIA Merlin 是用于推荐系统的 AI 框架
+
+428
+00:22:23,100 --> 00:22:28,400
+NVIDIA Merlin is an AI framework for recommender systems.
+
+429
+00:22:28,400 --> 00:22:33,300
+Merlin 由推荐系统流程的端到端组件组成
+
+430
+00:22:28,400 --> 00:22:33,300
+Merlin consists of end-to-end components
+of a recommender pipeline,
+
+431
+00:22:33,300 --> 00:22:37,900
+包括特征转换、召回和模型排序
+
+432
+00:22:33,300 --> 00:22:37,933
+including feature transforms, retrieval, to ranking models.
+
+433
+00:22:37,900 --> 00:22:46,500
+通过 NVIDIA Merlin，公司可以快速构建、部署和扩展先进的深度学习推荐系统
+
+434
+00:22:37,933 --> 00:22:46,533
+With NVIDIA Merlin, companies can quickly build, deploy, and scale state-of-the-art deep learning recommender systems.
+
+435
+00:22:46,500 --> 00:22:53,000
+Snap 使用 Merlin 来改善广告和内容推荐，在降低 50% 成本的同时
+
+436
+00:22:46,533 --> 00:22:53,000
+Snap uses Merlin to improve ad and
+content recommendations while reducing cost by 50%
+
+437
+00:22:53,000 --> 00:22:56,900
+服务延迟也缩短了一半
+
+438
+00:22:53,000 --> 00:22:56,900
+and decreasing serving latency by 2x.
+
+439
+00:22:56,900 --> 00:23:06,800
+腾讯微信基于 Merlin 将短视频推荐延迟缩短为原来的四分之一，并将吞吐量提升了十倍
+
+440
+00:22:56,900 --> 00:23:06,833
+Tencent Wechat uses Merlin to achieve 4 times lower latency and 10 times throughput for short video recommendations.
+
+441
+00:23:06,800 --> 00:23:11,100
+从 CPU 迁移到 GPU，腾讯在该业务上的成本减少了一半
+
+442
+00:23:06,833 --> 00:23:11,100
+Tencent's cost is halved moving from CPU to GPU.
+
+443
+00:23:11,100 --> 00:23:18,200
+在这次 GTC，我们将正式发布 Merlin 的 1.0 版本
+
+444
+00:23:11,100 --> 00:23:18,200
+At GTC, we are announcing the 1.0 release,
+and general availability of Merlin.
+
+445
+00:23:18,200 --> 00:23:22,500
+Transformer 彻底革新了自然语言处理
+
+446
+00:23:18,200 --> 00:23:22,533
+Transformers revolutionized natural language processing.
+
+447
+00:23:22,500 --> 00:23:29,300
+训练大型语言模型需要极大的勇气，因为这是一项巨大的计算机科学挑战
+
+448
+00:23:22,533 --> 00:23:29,333
+Training large language models is not for the faint of heart –
+it is a grand computer science challenge.
+
+449
+00:23:29,300 --> 00:23:39,200
+OpenAI 的 GPT-3 有 1750 亿个参数。NVIDIA Megatron 有 5300 亿个
+
+450
+00:23:29,333 --> 00:23:39,200
+OpenAI’s GPT-3 is 175 billion parameters.
+NVIDIA Megatron is 530 billion.
+
+451
+00:23:39,200 --> 00:23:45,000
+Google 的新版 Switch Transformer 有 1.6 万亿个参数
+
+452
+00:23:39,200 --> 00:23:45,000
+And Google's new Switch Transformer is 1.6 trillion parameters.
+
+453
+00:23:45,000 --> 00:23:54,300
+Nemo Megatron 是一款专门用于训练大型语言模型的 AI 框架，其支持的参数规模可高达数万亿
+
+454
+00:23:45,000 --> 00:23:54,333
+Nemo Megatron is a specialized AI framework for training large language models – up to trillions of parameters.
+
+455
+00:23:54,300 --> 00:24:01,600
+为了在目标基础架构上实现最佳性能，Nemo Megatron 可以自动执行数据、张量
+
+456
+00:23:54,333 --> 00:24:01,633
+To get the best performance possible on the target infrastructure, Nemo Megatron does automatic data, tensor,
+
+457
+00:24:01,600 --> 00:24:08,500
+及流水线并行、编排和调度，并且自动适应不同精度
+
+458
+00:24:01,633 --> 00:24:08,500
+and pipeline parallelism, orchestration and scheduling,
+and auto precision adaptation.
+
+459
+00:24:08,500 --> 00:24:14,100
+Nemo Megatron 现已支持各类 NVIDIA 系统，自动超参数调优
+
+460
+00:24:08,500 --> 00:24:14,100
+Nemo Megatron now supports any NVIDIA systems.
+And automatically does hyper-parameter tuning
+
+461
+00:24:14,100 --> 00:24:16,100
+针对您的目标基础架构
+
+462
+00:24:14,100 --> 00:24:16,100
+for your target infrastructure.
+
+463
+00:24:16,100 --> 00:24:22,300
+Nemo Megatron 也是云原生的框架，现已支持 Azure，很快会支持 AWS
+
+464
+00:24:16,100 --> 00:24:22,300
+Nemo Megatron is also cloud-native and supports Azure,
+with AWS coming soon.
+
+465
+00:24:22,300 --> 00:24:30,800
+AI 是智能的创造和生产者，这是一项具有重大意义的事业，涉及计算的方方面面
+
+466
+00:24:22,300 --> 00:24:30,800
+AI, the creation and production of intelligence, is a giant undertaking and touches every aspect of computing
+
+467
+00:24:30,800 --> 00:24:32,600
+和每个行业
+
+468
+00:24:30,800 --> 00:24:32,633
+and every industry.
+
+469
+00:24:32,600 --> 00:24:41,300
+NVIDIA AI 库和 SDK 将加速整个 AI 生态系统中的软件、平台和服务
+
+470
+00:24:32,633 --> 00:24:41,333
+NVIDIA AI libraries and SDKs accelerate software, platforms, and services throughout the AI ecosystem.
+
+471
+00:24:41,300 --> 00:24:47,800
+即使拥有出色的工具和库，开发者和 NVIDIA 也必须投入大量的开发工程
+
+472
+00:24:41,333 --> 00:24:47,833
+Even with excellent tools and libraries, developers and NVIDIA must dedicate significant engineering
+
+473
+00:24:47,800 --> 00:24:53,100
+来确保其性能、可扩展性、可靠性和安全性
+
+474
+00:24:47,833 --> 00:24:53,100
+to ensure performance, scalability, reliability, and security.
+
+475
+00:24:53,100 --> 00:25:00,400
+因此，我们创建了 NVIDIA AI 加速计划，通过与 AI 生态系统中的开发者合作
+
+476
+00:24:53,100 --> 00:25:00,400
+So, we have created the NVIDIA AI Accelerated program
+to work with developers in the AI ecosystem
+
+477
+00:25:00,400 --> 00:25:06,300
+开发工程化解决方案，确保客户放心部署
+
+478
+00:25:00,400 --> 00:25:06,333
+to engineer solutions together that
+customers can deploy with confidence.
+
+479
+00:25:06,300 --> 00:25:15,500
+NVIDIA AI 使 AI 实现普及，让各个行业和公司都可以应用 AI 自我重塑
+
+480
+00:25:06,333 --> 00:25:15,533
+NVIDIA AI democratizes AI so that every industry
+and company can apply AI to reinvent themselves.
+
+481
+00:25:15,500 --> 00:25:20,300
+其中，数字生物学的革命尤为引人瞩目
+
+482
+00:25:15,533 --> 00:25:20,300
+One of the most impactful is the revolution in digital biology.
+
+483
+00:25:20,300 --> 00:25:30,000
+AI 加速了 DNA 测序、蛋白质结构预测、新型药物合成和虚拟药物测试
+
+484
+00:25:20,300 --> 00:25:30,033
+AI accelerates DNA sequencing, protein structure prediction, novel drug synthesis, and virtual drug testing.
+
+485
+00:25:30,000 --> 00:25:36,800
+在过去几年中，AI 药物研发初创公司获得了超过 400 亿美元的投资
+
+486
+00:25:30,033 --> 00:25:36,800
+Funding for AI drug discovery startups surpassed
+$40 billion in the past couple of years.
+
+487
+00:25:36,800 --> 00:25:43,800
+Insilico Medicine 刚刚将其首个由 AI 研发的药物送入人体临床试验阶段
+
+488
+00:25:36,800 --> 00:25:43,800
+Insilico Medicine has just sent its first AI
+discovered drug to enter human clinical trials.
+
+489
+00:25:43,800 --> 00:25:50,900
+发现新药和靶点仅用了不到 18 个月的时间，比之前快了数年
+
+490
+00:25:43,800 --> 00:25:50,933
+The novel drug and target was discovered in less than 18 months, years faster than previously possible.
+
+491
+00:25:50,900 --> 00:25:55,600
+数字生物学革命的条件已经成熟
+
+492
+00:25:50,933 --> 00:25:55,600
+The conditions are prime for the digital biology revolution.
+
+493
+00:25:55,600 --> 00:26:00,000
+这将是 NVIDIA AI 迄今为止最伟大的使命
+
+494
+00:25:55,600 --> 00:26:00,033
+I can't imagine a greater purpose for NVIDIA AI.
+
+495
+00:26:00,000 --> 00:26:05,300
+语音、对话、客户服务和推荐系统等 AI 应用
+
+496
+00:26:00,033 --> 00:26:05,333
+AI applications like speech, conversation,
+customer service, and recommenders
+
+497
+00:26:05,300 --> 00:26:08,800
+正在推动数据中心设计的根本性变化
+
+498
+00:26:05,333 --> 00:26:08,800
+are driving fundamental changes in data center design.
+
+499
+00:26:08,800 --> 00:26:15,900
+AI 数据中心会处理大量的连续数据来训练和完善 AI 模型
+
+500
+00:26:08,800 --> 00:26:15,933
+AI data centers process mountains of
+continuous data to train and refine AI models.
+
+501
+00:26:15,900 --> 00:26:20,900
+原始数据进入其中，经过提炼，最终得到智能结果
+
+502
+00:26:15,933 --> 00:26:20,900
+Raw data comes in, is refined, and intelligence goes out.
+
+503
+00:26:20,900 --> 00:26:26,800
+许多公司都致力于制造智能和运营大型 AI 工厂
+
+504
+00:26:20,900 --> 00:26:26,800
+Companies are manufacturing intelligence
+and operating giant AI factories.
+
+505
+00:26:26,800 --> 00:26:32,700
+工厂需要 24 小时不停歇的持续密集运作，质量上的细微改进
+
+506
+00:26:26,800 --> 00:26:32,733
+The factory operation is 24/7 and intense –
+minor improvements in quality
+
+507
+00:26:32,700 --> 00:26:37,900
+会使客户参与度和公司利润得到显著提高
+
+508
+00:26:32,733 --> 00:26:37,900
+drive a significant increase in customer
+engagement and company profits.
+
+509
+00:26:37,900 --> 00:26:42,900
+世界各地的公司中正在不断出现一个名为 MLOps 的新组织
+
+510
+00:26:37,900 --> 00:26:42,900
+New organizations called MLOps are
+showing up in companies around the world.
+
+511
+00:26:42,900 --> 00:26:52,700
+该组织的基本使命是高效、可靠地将数据转化为预测模型，也就是将其转化为智能
+
+512
+00:26:42,900 --> 00:26:52,700
+Their fundamental mission is to efficiently and reliably transform data into predictive models - into intelligence.
+
+513
+00:26:52,700 --> 00:27:00,700
+它们处理的数据会呈指数级增长，这是因为模型的预测能力越强，参与服务的客户就越多
+
+514
+00:26:52,700 --> 00:27:00,700
+The data they process is growing exponentially – the more predictive the model, the more customers engage the services,
+
+515
+00:27:00,700 --> 00:27:02,800
+收集的数据也会随之增长
+
+516
+00:27:00,700 --> 00:27:02,833
+the more data is collected.
+
+517
+00:27:02,800 --> 00:27:12,300
+计算基础架构是 MLOps 的基石，其引擎是采用 Ampere 架构的 A100
+
+518
+00:27:02,833 --> 00:27:12,333
+The computing infrastructure of MLOps is fundamental,
+and its engine is the Ampere-architecture A100.
+
+519
+00:27:16,000 --> 00:27:20,100
+今天，我们将发布新一代产品
+
+520
+00:27:16,000 --> 00:27:20,133
+Today we are announcing the next generation.
+
+521
+00:27:20,100 --> 00:27:26,400
+这是全球 AI 计算基础架构引擎的巨大飞跃
+
+522
+00:27:20,133 --> 00:27:26,400
+The engine of the world's AI computing
+infrastructure makes a giant leap.
+
+523
+00:27:26,400 --> 00:27:30,200
+隆重推出 NVIDIA H100
+
+524
+00:27:26,400 --> 00:27:30,200
+Introducing NVIDIA H100!
+
+525
+00:27:30,200 --> 00:27:37,500
+H100 是一款超大的芯片，采用 TSMC 4N 工艺，具有 800 亿个晶体管
+
+526
+00:27:30,200 --> 00:27:37,500
+The H100 is a massive 80 billion transistor chip
+using TSMC 4N process.
+
+527
+00:27:37,500 --> 00:27:46,200
+我们设计 H100 是为了用于纵向扩展和横向扩展，因此带宽，也就是内存、网络
+
+528
+00:27:37,500 --> 00:27:46,233
+We designed the H100 for scale-up and scale-out infrastructures, so bandwidth, memory, networking,
+
+529
+00:27:46,200 --> 00:27:49,900
+以及 NVLink 芯片之间的数据速率尤为重要
+
+530
+00:27:46,233 --> 00:27:49,900
+and NVLINK chip-to-chip data rates are vital.
+
+531
+00:27:49,900 --> 00:27:57,100
+H100 是首款支持 PCIe 5.0 标准的 GPU，也是首款采用 HBM3 标准的 GPU
+
+532
+00:27:49,900 --> 00:27:57,133
+H100 is the first Gen5 PCI-E GPU and the first HBM3 GPU.
+
+533
+00:27:57,100 --> 00:28:03,800
+单个 H100 可支持 40 Tb/s 的 IO 带宽
+
+534
+00:27:57,133 --> 00:28:03,800
+A single H100 sustains 40 terabits per second of IO bandwidth.
+
+535
+00:28:03,800 --> 00:28:13,100
+从另一个角度来说，20 块 H100 GPU 便可承托相当于全球互联网的流量
+
+536
+00:28:03,800 --> 00:28:13,100
+To put it in perspective, 20 H100s can sustain the
+equivalent of the entire world's internet traffic.
+
+537
+00:28:13,100 --> 00:28:16,800
+Hopper 架构较之前一代 Ampere 架构，是一个巨大的飞跃
+
+538
+00:28:13,100 --> 00:28:16,800
+The Hopper architecture is a giant leap over Ampere.
+
+539
+00:28:16,800 --> 00:28:21,400
+我来着重介绍 5 项突破性的创新
+
+540
+00:28:16,800 --> 00:28:21,433
+Let me highlight 5 groundbreaking inventions.
+
+541
+00:28:21,400 --> 00:28:26,400
+首先，H100 拥有强大的性能
+
+542
+00:28:21,433 --> 00:28:26,433
+First, the H100 has incredible performance.
+
+543
+00:28:26,400 --> 00:28:30,600
+新的 Tensor 处理格式：FP8
+
+544
+00:28:26,433 --> 00:28:30,633
+A new Tensor Processing format – FP8.
+
+545
+00:28:30,600 --> 00:28:31,700
+H100 具备以下运算能力：
+
+546
+00:28:30,633 --> 00:28:31,700
+H100 has:
+
+547
+00:28:31,700 --> 00:28:35,400
+4 PetaFLOPS 的 FP8
+
+548
+00:28:31,700 --> 00:28:35,433
+4 PetaFLOPS of FP8
+
+549
+00:28:35,400 --> 00:28:38,600
+2 PetaFLOPS 的 FP16
+
+550
+00:28:35,433 --> 00:28:38,600
+2 PetaFLOPS of FP16
+
+551
+00:28:38,600 --> 00:28:42,000
+1 PetaFLOPS 的 TF32
+
+552
+00:28:38,600 --> 00:28:42,000
+1 PetaFLOPS of TF32
+
+553
+00:28:42,000 --> 00:28:47,400
+60 TeraFLOPS 的 FP64 和 FP32
+
+554
+00:28:42,000 --> 00:28:47,433
+60 TeraFLOPS of FP64 and FP32
+
+555
+00:28:47,400 --> 00:28:57,000
+H100 采用风冷和液冷设计，是首个实现性能扩展至 700 瓦的 GPU
+
+556
+00:28:47,433 --> 00:28:57,033
+Designed for air and liquid cooling, H100 is also the
+first GPU to scale in performance to 700W.
+
+557
+00:28:57,000 --> 00:29:06,900
+在过去六年里，通过 Pascal、Volta、Ampere 和现在的 Hopper 架构，我们相继开发了使用 FP32、FP16
+
+558
+00:28:57,033 --> 00:29:06,900
+Over the past six years, through Pascal, Volta, Ampere, and now Hopper, we developed technologies to train with FP32,
+
+559
+00:29:06,900 --> 00:29:11,300
+和现在的 FP8 进行训练的技术
+
+560
+00:29:06,900 --> 00:29:11,300
+then FP16, and now FP8.
+
+561
+00:29:11,300 --> 00:29:23,900
+在 AI 处理方面，Hopper H100 FP8 的 4 PetaFLOPS 性能是 Ampere A100 FP16 的 6 倍
+
+562
+00:29:11,300 --> 00:29:23,900
+For AI processing, Hopper H100’s 4 PF of FP8 is an amazing six times the performance of Ampere A100’s FP16 -
+
+563
+00:29:23,900 --> 00:29:27,700
+这是一次巨大的代际飞跃
+
+564
+00:29:23,900 --> 00:29:27,733
+our largest generational leap ever.
+
+565
+00:29:27,700 --> 00:29:32,900
+Transformer 无疑是最重要的深度学习模型
+
+566
+00:29:27,733 --> 00:29:32,933
+The Transformer is unquestionably the most
+important deep learning model invented.
+
+567
+00:29:32,900 --> 00:29:36,900
+Hopper 引入了 Transformer 引擎
+
+568
+00:29:32,933 --> 00:29:36,900
+Hopper introduces a Transformer Engine.
+
+569
+00:29:36,900 --> 00:29:45,600
+Hopper Transformer 引擎将新的 Tensor Core 与能使用 FP8 和 FP16 数字格式的软件结合
+
+570
+00:29:36,900 --> 00:29:45,600
+The Hopper Transformer Engine combines a new Tensor Core and software that uses FP8 and FP16 numerical formats,
+
+571
+00:29:45,600 --> 00:29:49,400
+动态处理 Transformer 网络的各个层
+
+572
+00:29:45,600 --> 00:29:49,400
+ and dynamically processes layers of a Transformer network.
+
+573
+00:29:49,400 --> 00:29:54,800
+Transformer 模型训练时间可从数周缩短至数天
+
+574
+00:29:49,400 --> 00:29:54,800
+Transformer model training can be reduced from weeks to days.
+
+575
+00:29:54,800 --> 00:30:01,600
+在云计算方面，多租户基础架构能够直接转化为收益和服务成本
+
+576
+00:29:54,800 --> 00:30:01,633
+For cloud computing, multi-tenant infrastructure
+translates directly to revenues and cost of service.
+
+577
+00:30:01,600 --> 00:30:08,700
+一项服务可将 H100 划分为多达 7 个实例，Ampere 也可实现此操作
+
+578
+00:30:01,633 --> 00:30:08,700
+A service can partition H100 up to 7 instances –
+Ampere can also do this.
+
+579
+00:30:08,700 --> 00:30:16,500
+但是，Hopper 新增了完整的每实例隔离和每实例 IO 虚拟化
+
+580
+00:30:08,700 --> 00:30:16,500
+However, Hopper added complete per-instance
+isolation and per-instance IO virtualization
+
+581
+00:30:16,500 --> 00:30:19,700
+便于支持云端的多租户
+
+582
+00:30:16,500 --> 00:30:19,700
+to support multi-tenancy in the cloud.
+
+583
+00:30:19,700 --> 00:30:26,400
+H100 能够托管七个云租户，而 A100 仅能托管一个
+
+584
+00:30:19,700 --> 00:30:26,400
+H100 can host seven cloud tenants,
+while A100 can only host one.
+
+585
+00:30:26,400 --> 00:30:34,300
+每个 H100 实例的性能相当于两个完整的 T4 GPU（我们非常热门的云推理 GPU）
+
+586
+00:30:26,400 --> 00:30:34,300
+Each one is equivalent in performance to two full T4 GPUs,
+our most popular cloud inference GPU.
+
+587
+00:30:34,300 --> 00:30:40,800
+每个 Hopper 实例都支持在受信任执行环境中进行机密计算
+
+588
+00:30:34,300 --> 00:30:40,800
+Each Hopper multi-instance supports Confidential Computing with Trusted Execution Environment.
+
+589
+00:30:40,800 --> 00:30:48,500
+通常，敏感数据处于静态以及在网络中传输时会进行加密，但在使用期间却不受保护
+
+590
+00:30:40,800 --> 00:30:48,500
+Sensitive data is often encrypted at-rest and in-transit
+over the network but unprotected during use.
+
+591
+00:30:48,500 --> 00:30:55,500
+此类数据可以是一个 AI 模型，依托数百万美元的投资打造而成，基于多年的领域知识
+
+592
+00:30:48,500 --> 00:30:55,500
+Data can be an AI model that results from millions of dollars of investment, trained on years of domain knowledge or
+
+593
+00:30:55,500 --> 00:30:59,500
+或公司专有数据进行了训练，并且具有价值或机密性
+
+594
+00:30:55,500 --> 00:30:59,533
+company-proprietary data, and is valuable or secret.
+
+595
+00:30:59,500 --> 00:31:04,700
+Hopper 机密计算是处理器架构和软件的结合
+
+596
+00:30:59,533 --> 00:31:04,733
+Hopper Confidential Computing, a combination
+of processor architecture and software,
+
+597
+00:31:04,700 --> 00:31:10,700
+能够通过保护正在使用的数据和应用，弥合这一差距
+
+598
+00:31:04,733 --> 00:31:10,700
+addresses this gap by protecting
+both data and application during use.
+
+599
+00:31:10,700 --> 00:31:14,200
+目前，机密计算只能基于 CPU
+
+600
+00:31:10,700 --> 00:31:14,200
+Confidential Computing today is only CPU-based.
+
+601
+00:31:14,200 --> 00:31:19,000
+Hopper 实现了首个 GPU 机密计算
+
+602
+00:31:14,200 --> 00:31:19,033
+Hopper introduces the first GPU Confidential Computing.
+
+603
+00:31:19,000 --> 00:31:26,400
+Hopper 机密计算能够保护所有者的 AI 模型和算法的机密性和完整性
+
+604
+00:31:19,033 --> 00:31:26,400
+Hopper Confidential Computing protects the confidentiality and integrity of AI models and algorithms of the owners.
+
+605
+00:31:26,400 --> 00:31:33,000
+软件开发者和服务提供商现可在共享或远程基础架构上分发和部署宝贵的专有 AI 模型
+
+606
+00:31:26,400 --> 00:31:33,000
+Software developers and services can now distribute
+and deploy their proprietary and valuable AI models
+
+607
+00:31:33,000 --> 00:31:40,400
+保护其知识产权并扩展业务模式
+
+608
+00:31:33,000 --> 00:31:40,400
+on shared or remote infrastructure, protecting their
+intellectual property and scaling their business models.
+
+609
+00:31:40,400 --> 00:31:42,000
+此外，还有更多强大功能
+
+610
+00:31:40,400 --> 00:31:42,000
+And there’s more.
+
+611
+00:31:42,000 --> 00:31:53,300
+Hopper 引入了一组名为 DPX 的新指令集，旨在加速动态编程算法
+
+612
+00:31:42,000 --> 00:31:53,333
+Hopper introduces a new set of instructions called DPX. Designed to accelerate dynamic programming algorithms.
+
+613
+00:31:53,300 --> 00:31:59,500
+许多实际算法的组合复杂性或指数复杂性在不断的增长
+
+614
+00:31:53,333 --> 00:31:59,533
+Many real-world algorithms grow with
+combinatorial or exponential complexity.
+
+615
+00:31:59,500 --> 00:32:01,300
+比如：
+
+616
+00:31:59,533 --> 00:32:01,300
+Examples include -
+
+617
+00:32:01,300 --> 00:32:05,200
+著名的旅行商优化问题
+
+618
+00:32:01,300 --> 00:32:05,200
+The famous traveling salesperson optimization problems,
+
+619
+00:32:05,200 --> 00:32:10,200
+能够进行最短路径优化，以在绘图中使用的 Floyd-Warshall 算法
+
+620
+00:32:05,200 --> 00:32:10,200
+Floyd-Warshall for shortest
+route optimization used for mapping,
+
+621
+00:32:10,200 --> 00:32:16,400
+通过模式匹配进行基因测序和蛋白质折叠计算的 Smith-Waterman 算法
+
+622
+00:32:10,200 --> 00:32:16,433
+Smith-Waterman pattern-matching
+for gene sequencing and protein folding,
+
+623
+00:32:16,400 --> 00:32:19,200
+还有许多图优化算法
+
+624
+00:32:16,433 --> 00:32:19,233
+and many graph optimization algorithms.
+
+625
+00:32:19,200 --> 00:32:25,800
+动态编程能够将复杂问题分解为可递归式解决的更简单的子问题
+
+626
+00:32:19,233 --> 00:32:25,833
+Dynamic programming breaks complex problems down to simpler subproblems that are solved recursively,
+
+627
+00:32:25,800 --> 00:32:29,700
+从而将复杂性和计算时间缩减至多项式计算的级别
+
+628
+00:32:25,833 --> 00:32:29,700
+reducing complexity and time to polynomial scale.
+
+629
+00:32:29,700 --> 00:32:35,700
+Hopper DPX 指令集会使这些算法的速度加快多达 40 倍
+
+630
+00:32:29,700 --> 00:32:35,733
+Hopper DPX instructions will speed-up
+these algorithms up to 40 times.
+
+631
+00:32:35,700 --> 00:32:40,200
+H100 是 AI 基础架构的最新引擎
+
+632
+00:32:35,733 --> 00:32:40,200
+H100 is the newest engine of AI infrastructures.
+
+633
+00:32:40,200 --> 00:32:50,200
+H100 采用 TSMC CoWoS 2.5D 封装，搭载了 HBM3 显存，并与电压调节集成至
+
+634
+00:32:40,200 --> 00:32:50,200
+H100s are packaged with HBM3 memories using TSMC CoWoS 2.5D packaging and integrated with voltage regulation
+
+635
+00:32:50,200 --> 00:32:54,700
+名为 SXM 的超级芯片模组中
+
+636
+00:32:50,200 --> 00:32:54,700
+into a superchip module called SXM.
+
+637
+00:32:54,700 --> 00:32:59,500
+现在，我来向大家展示如何构建先进的 AI 计算基础架构
+
+638
+00:32:54,700 --> 00:32:59,500
+Let me now show you how we built up a
+state-of-the-art AI computing infrastructure.
+
+639
+00:32:59,500 --> 00:33:09,700
+8 个 H100 SXM 模组通过 HGX 主板上的 4 个 NVLink Switch 芯片相连
+
+640
+00:32:59,500 --> 00:33:09,700
+8 H100 SXM modules are connected by
+4 NVLINK Switch chips on the HGX system board.
+
+641
+00:33:09,700 --> 00:33:17,300
+这 4 个超高速 NVSwitch 芯片各具有 3.6 TFLOPS 的 SHARP 网络计算性能
+
+642
+00:33:09,700 --> 00:33:17,300
+The four-super high-speed NVSwitch chips each have 3.6 TFLOPS of SHARP in-network computing,
+
+643
+00:33:17,300 --> 00:33:21,100
+SHARP 技术最早在 Mellanox Quantum InfiniBand 交换机中被率先发明
+
+644
+00:33:17,300 --> 00:33:21,100
+first invented in Mellanox Quantum Infiniband Switches.
+
+645
+00:33:21,100 --> 00:33:26,000
+对于广泛用于深度学习和科学计算的 all-to-all reductions 计算
+
+646
+00:33:21,100 --> 00:33:26,000
+For all-to-all reductions, used extensively in
+deep learning and scientific computing,
+
+647
+00:33:26,000 --> 00:33:30,400
+SHARP 能够有效将带宽提高 3 倍
+
+648
+00:33:26,000 --> 00:33:30,433
+SHARP effectively boosts bandwidth by 3 times.
+
+649
+00:33:30,400 --> 00:33:36,400
+CPU 子系统由两个第 5 代 CPU 和两个网络模组组成
+
+650
+00:33:30,433 --> 00:33:36,400
+The CPU subsystem consists of dual
+Gen 5 CPUs and two networking modules,
+
+651
+00:33:36,400 --> 00:33:45,500
+两个模组各配备四个 400 Gbps 的 ConnectX-7 InfiniBand 或 400 Gbps 的以太网网络芯片
+
+652
+00:33:36,400 --> 00:33:45,533
+each with four 400Gbps CX7 IB or 400Gbps
+ethernet networking chips.
+
+653
+00:33:45,500 --> 00:33:52,300
+ConnectX-7 拥有 80 亿个晶体管，是全球最先进的网络芯片
+
+654
+00:33:45,533 --> 00:33:52,300
+CX7 has 8 billion transistors and is the
+world's most advanced networking chip.
+
+655
+00:33:52,300 --> 00:33:59,600
+总计 640 亿个晶体管能够实现 3.2 Tb/s 的网络传输
+
+656
+00:33:52,300 --> 00:33:59,633
+A total of 64 billion transistors deliver
+3.2 terabits per second of networking.
+
+657
+00:33:59,600 --> 00:34:07,200
+隆重发布 DGX H100 - 我们全新的 AI 计算系统
+
+658
+00:33:59,633 --> 00:34:07,233
+Introducing the DGX H100 - our new AI computing system.
+
+659
+00:34:07,200 --> 00:34:18,400
+DGX 取得了令人瞩目的成功，在《财富》10 强企业和 100 强企业中，
+分别有 8 家和 44 家企业使用 DGX 作为 AI 基础架构
+
+660
+00:34:07,233 --> 00:34:18,433
+DGX has been spectacularly successful and is the AI infrastructure for 8 of the top 10 and 44 of the Fortune 100.
+
+661
+00:34:18,400 --> 00:34:26,300
+借助 NVLink 连接，DGX 使八块 H100 成为了一个巨型 GPU：
+
+662
+00:34:18,433 --> 00:34:26,333
+Connected by NVLINK,
+DGX makes the eight H100s into one giant GPU:
+
+663
+00:34:26,300 --> 00:34:29,400
+6400 亿个晶体管
+
+664
+00:34:26,333 --> 00:34:29,400
+640 billion transistors
+
+665
+00:34:29,400 --> 00:34:32,100
+32 PetaFLOPS 的 AI 性能
+
+666
+00:34:29,400 --> 00:34:32,100
+32 petaflops of AI performance
+
+667
+00:34:32,100 --> 00:34:35,500
+640 GB HBM3 显存
+
+668
+00:34:32,100 --> 00:34:35,500
+640 GB of HBM3
+
+669
+00:34:35,500 --> 00:34:39,800
+以及 24 TB/s 的显存带宽
+
+670
+00:34:35,500 --> 00:34:39,800
+and 24 terabytes per second of memory bandwidth.
+
+671
+00:34:39,800 --> 00:34:44,699
+DGX H100 实现了巨大的飞跃
+
+672
+00:34:39,800 --> 00:34:44,733
+DGX H100 is a spectacular leap.
+
+673
+00:34:44,699 --> 00:34:46,099
+此外，还有更多强大功能！
+
+674
+00:34:44,733 --> 00:34:46,100
+And there's more!
+
+675
+00:34:46,100 --> 00:34:49,900
+我们采用全新方式扩展 DGX
+
+676
+00:34:46,100 --> 00:34:49,900
+We have a brand-new way to scale up DGX.
+
+677
+00:34:49,900 --> 00:34:54,300
+我们可以借助 NVLink 连接多达 32 个 DGX
+
+678
+00:34:49,900 --> 00:34:54,300
+We can connect up to 32 DGXs with NVLINK.
+
+679
+00:34:54,300 --> 00:34:59,500
+现在，我们宣布推出 NVIDIA NVLink Switch 系统
+
+680
+00:34:54,300 --> 00:34:59,533
+Today, we are announcing the NVIDIA NVLINK Switch system.
+
+681
+00:34:59,500 --> 00:35:04,200
+对于 AI 工厂而言，DGX 是最小的计算单元
+
+682
+00:34:59,533 --> 00:35:04,200
+For AI factories, DGX is the smallest unit of computing.
+
+683
+00:35:04,200 --> 00:35:14,300
+借助 NVLink Switch 系统，我们可以将其扩展为一个巨大的拥有 32 个节点、256 个 GPU 的 DGX POD
+
+684
+00:35:04,200 --> 00:35:14,300
+With NVLINK Switch system, we can scale up
+into one giant 32-node, 256-GPU DGX POD,
+
+685
+00:35:14,300 --> 00:35:25,400
+并且 HBM3 显存高达 20.5 TB，显存带宽高达 768 TB/s
+
+686
+00:35:14,300 --> 00:35:25,400
+with a whopping 20.5 terabytes of HBM3 memory, and 768 terabytes per second of memory bandwidth.
+
+687
+00:35:25,400 --> 00:35:29,000
+768 TB/s，可谓超高速！
+
+688
+00:35:25,400 --> 00:35:29,033
+768 terabytes per second!
+
+689
+00:35:29,000 --> 00:35:34,600
+相比之下，整个互联网不过只有 100 TB/s
+
+690
+00:35:29,033 --> 00:35:34,600
+In comparison, the entire internet is 100 terabytes per second.
+
+691
+00:35:34,600 --> 00:35:41,200
+每个 DGX 都可借助 4 端口光学收发器连接到 NVLink Switch
+
+692
+00:35:34,600 --> 00:35:41,200
+Each DGX connects to the NVLINK Switch
+with a Quad-Port Optical transceiver.
+
+693
+00:35:41,200 --> 00:35:50,600
+每个端口都有 8 个 100G-PAM4 通道，每秒能够传输 100 GB
+
+694
+00:35:41,200 --> 00:35:50,600
+Each port has eight channels of 100G-PAM4
+signaling carrying 100GB per second.
+
+695
+00:35:50,600 --> 00:35:57,300
+32 个 NVLink 收发器连接到 1 个机架单元的 NVLink Switch 系统
+
+696
+00:35:50,600 --> 00:35:57,300
+32 NVLINK transceivers connect to a
+one rack unit NVLINK Switch system.
+
+697
+00:35:57,300 --> 00:36:03,400
+本质上，H100 DGX POD 是一款令人振奋的 GPU：
+
+698
+00:35:57,300 --> 00:36:03,433
+The H100 DGX POD is essentially one mind-blowing GPU:
+
+699
+00:36:03,400 --> 00:36:05,900
+1 ExaFLOPS 的 AI 计算能力
+
+700
+00:36:03,433 --> 00:36:05,900
+1 exaflops of AI computing
+
+701
+00:36:05,900 --> 00:36:08,300
+20 TB 的 HBM3 显存
+
+702
+00:36:05,900 --> 00:36:08,300
+20 TB of HBM3
+
+703
+00:36:08,300 --> 00:36:13,000
+192 TF 的 SHARP 网络计算性能
+
+704
+00:36:08,300 --> 00:36:13,000
+192 TF of SHARP in-network computing
+
+705
+00:36:13,000 --> 00:36:21,600
+在 GPU 之间移动数据的对分带宽惊人，高达 70 TB/s
+
+706
+00:36:13,000 --> 00:36:21,633
+The bi-section bandwidth moving data
+between the GPUs is an amazing 70TB per second.
+
+707
+00:36:21,600 --> 00:36:32,800
+多个 H100 DGX POD 连接到我们新的 Quantum-2 400 Gbps InfiniBand 交换机，具有 SHARP 网络内计算技术
+
+708
+00:36:21,633 --> 00:36:32,833
+Multiple H100 DGX PODs connect to our new Quantum-2 400 Gbps Infiniband switch with SHARP in-network computing,
+
+709
+00:36:32,800 --> 00:36:42,800
+性能隔离和拥塞控制等功能特性，并且可扩展到具有数千个 H100 GPU 的 DGX SuperPOD
+
+710
+00:36:32,833 --> 00:36:42,800
+performance isolation, and congestion control to scale to DGX SuperPODS with thousands of H100 GPUs.
+
+711
+00:36:42,800 --> 00:36:52,600
+Quantum-2 交换机的芯片拥有 570 亿个晶体管，进而能够提供 64 个 400 Gbps 端口
+
+712
+00:36:42,800 --> 00:36:52,633
+Quantum-2 switch is a 57 billion transistor chip with the ability to connect 64 ports of 400gbps each.
+
+713
+00:36:52,600 --> 00:36:57,600
+DGX SuperPOD 是现代 AI 工厂
+
+714
+00:36:52,633 --> 00:36:57,600
+DGX SuperPODs are modern AI factories.
+
+715
+00:36:57,600 --> 00:37:06,800
+我们正在建造 EOS，这是 NVIDIA 打造的首个 Hopper AI 工厂，她将艳惊四座
+
+716
+00:36:57,600 --> 00:37:06,800
+We are building Eos, the first Hopper AI factory,
+at NVIDIA, and she's going to be a beauty.
+
+717
+00:37:06,800 --> 00:37:09,000
+18 个 DGX POD
+
+718
+00:37:06,800 --> 00:37:09,000
+18 DGX PODs
+
+719
+00:37:09,000 --> 00:37:11,700
+576 台 DGX
+
+720
+00:37:09,000 --> 00:37:11,700
+576 DGXs
+
+721
+00:37:11,700 --> 00:37:15,800
+4608 个 H100 GPU
+
+722
+00:37:11,700 --> 00:37:15,800
+4608 H100 GPUs
+
+723
+00:37:15,800 --> 00:37:26,500
+在传统的科学计算领域，EOS 的速度是 275 PetaFLOPS，若与 A100 驱动的美国速度最快的科学计算机 Summit 相比
+
+724
+00:37:15,800 --> 00:37:26,500
+At traditional scientific computing, Eos is 275 petaFLOPS or 1.4x faster than the fastest science computer in the US –
+
+725
+00:37:26,500 --> 00:37:29,100
+要快 1.4 倍
+
+726
+00:37:26,500 --> 00:37:29,133
+the A100 powered Summit.
+
+727
+00:37:29,100 --> 00:37:40,100
+在 AI 方面，EOS 的 AI 处理速度是 18.4 ExaFLOPS，若与全球最大的超级计算机 – 日本的 Fugaku 相比
+
+728
+00:37:29,133 --> 00:37:40,100
+At AI, Eos is 18.4 Exaflops or 4 times the AI processing
+of the world's largest supercomputer –
+
+729
+00:37:40,100 --> 00:37:42,600
+要快 4 倍
+
+730
+00:37:40,100 --> 00:37:42,600
+the Fugaku in Japan.
+
+731
+00:37:42,600 --> 00:37:47,500
+我们期待 EOS 成为全球运行速度最快的 AI 计算机系统
+
+732
+00:37:42,600 --> 00:37:47,533
+We expect Eos to be the fastest AI computer in the world.
+
+733
+00:37:47,500 --> 00:37:54,200
+对于我们的 OEM 和云合作伙伴而言，EOS 将会是先进 AI 基础架构的蓝图
+
+734
+00:37:47,533 --> 00:37:54,200
+Eos will be the blueprint for the most advanced AI infrastructure for our OEM and cloud partners.
+
+735
+00:37:54,200 --> 00:38:00,200
+合作伙伴可以整体采用 H100 DGX SuperPOD，或采用我们平台中四个层的
+
+736
+00:37:54,200 --> 00:38:00,200
+Partners can take H100 DGX SuperPOD
+as a whole or the technology components
+
+737
+00:38:00,200 --> 00:38:03,400
+任意一层的技术组件
+
+738
+00:38:00,200 --> 00:38:03,433
+at any of the four layers of our platform.
+
+739
+00:38:03,400 --> 00:38:08,100
+我们已在着手打造 EOS，将于数月后推出
+
+740
+00:38:03,433 --> 00:38:08,100
+We are standing up Eos now and will be online in a few months.
+
+741
+00:38:08,100 --> 00:38:10,800
+我们来看看 Hopper 的性能
+
+742
+00:38:08,100 --> 00:38:10,800
+Let's take a look at Hopper's performance.
+
+743
+00:38:10,800 --> 00:38:14,300
+与 Ampere 相比，Hopper 的性能提升令人惊艳
+
+744
+00:38:10,800 --> 00:38:14,300
+The performance boost over Ampere is incredible.
+
+745
+00:38:14,300 --> 00:38:20,400
+训练 Transformer 的模型、结合 Hopper 的原始性能
+
+746
+00:38:14,300 --> 00:38:20,433
+Training Transformer models, the compound benefits
+of Hopper's raw horsepower,
+
+747
+00:38:20,400 --> 00:38:24,000
+具有 FP8 Tensor Core 的 Hopper Transformer 引擎
+
+748
+00:38:20,433 --> 00:38:24,033
+Hopper Transformer engine with FP8 Tensor Core
+
+749
+00:38:24,000 --> 00:38:34,000
+采用 SHARP 网络计算技术的 NVLink、可连接 256 个 GPU 的 NVLink Switch、Quantum-2 InfiniBand
+
+750
+00:38:24,033 --> 00:38:34,000
+NVLINK with SHARP in-network computing, NVLINK Switch scale-up to 256 GPUs, and the Quantum-2 InfiniBand,
+
+751
+00:38:34,000 --> 00:38:40,000
+以及我们所有的软件，这些综合效益共同成就了 9 倍的速度提升！
+
+752
+00:38:34,000 --> 00:38:40,033
+and all of our software results in a 9X speed-up!
+
+753
+00:38:40,000 --> 00:38:42,900
+计算时间从数周缩短至几天
+
+754
+00:38:40,033 --> 00:38:42,900
+Weeks turn to days.
+
+755
+00:38:42,900 --> 00:38:50,900
+在推理大型语言模型方面，H100 的吞吐量比 A100 高 30 倍
+
+756
+00:38:42,900 --> 00:38:50,900
+For inferencing large language models, H100 throughput
+is up to 30 times higher over A100.
+
+757
+00:38:50,900 --> 00:38:55,300
+H100 是我们实现的巨大飞跃
+
+758
+00:38:50,900 --> 00:38:55,300
+H100 is the most significant leap we've ever delivered.
+
+759
+00:38:55,300 --> 00:39:02,100
+NVIDIA H100 是全球 AI 基础架构的新引擎
+
+760
+00:38:55,300 --> 00:39:02,133
+NVIDIA H100, the new engine of the world's AI infrastructure.
+
+761
+00:39:02,100 --> 00:39:06,200
+Hopper 也将成为主流系统游戏规则的改变者
+
+762
+00:39:02,133 --> 00:39:06,200
+Hopper is going to be a game-changer
+for mainstream systems as well.
+
+763
+00:39:06,200 --> 00:39:13,700
+正如您在 Hopper HGX 和 DGX 中看到的一样，网络和互连产品对于计算至关重要
+
+764
+00:39:06,200 --> 00:39:13,700
+As you've seen with Hopper HGX and DGX, networking and interconnects are critical to computing –
+
+765
+00:39:13,700 --> 00:39:18,800
+移动数据以保持超快速的 GPU 数据馈送值得高度关注
+
+766
+00:39:13,700 --> 00:39:18,800
+moving data to keep the lightning-fast GPUs
+fed is a most serious concern.
+
+767
+00:39:18,800 --> 00:39:23,900
+那么，我们如何将 Hopper 强大的计算能力引入主流服务器？
+
+768
+00:39:18,800 --> 00:39:23,933
+So, how do we bring Hopper's superfast
+compute to mainstream servers?
+
+769
+00:39:23,900 --> 00:39:31,500
+在传统服务器中移动数据会使 CPU 和系统内存过载，并受到 PCIe 的限制
+
+770
+00:39:23,933 --> 00:39:31,500
+Moving data in traditional servers’ overloads CPU and
+system memory and are bottlenecked by PCI-Express.
+
+771
+00:39:31,500 --> 00:39:36,200
+解决方案是将网络直接与 GPU 相连
+
+772
+00:39:31,500 --> 00:39:36,200
+The solution is to attach the network directly to the GPU.
+
+773
+00:39:36,200 --> 00:39:45,600
+这就是 H100 CNX，它将先进的 GPU 和强大的网络处理器 ConnectX-7
+
+774
+00:39:36,200 --> 00:39:45,600
+This is the H100 CNX, combining the most advanced GPU
+and the most advanced networking processor, CX7,
+
+775
+00:39:45,600 --> 00:39:47,600
+融合至一个模组中
+
+776
+00:39:45,600 --> 00:39:47,600
+into a single module.
+
+777
+00:39:47,600 --> 00:39:56,800
+网络数据通过 DMA 以 50 GB/s 的速度直接传输至 H100，从而避免 CPU
+
+778
+00:39:47,600 --> 00:39:56,800
+Data from the network is DMA'd directly to H100 at 50 gigabytes per second and avoids the bottlenecks at the CPU,
+
+779
+00:39:56,800 --> 00:40:01,200
+系统内存和 PCIe 等多个通道的限制
+
+780
+00:39:56,800 --> 00:40:01,200
+system memory, and multiple passes across PCI express.
+
+781
+00:40:01,200 --> 00:40:09,100
+H100 CNX 能够避免带宽瓶颈，同时释放 CPU 和系统内存，以便处理应用的其他部分
+
+782
+00:40:01,200 --> 00:40:09,133
+H100 CNX avoids bandwidth bottlenecks while freeing the CPU and system memory to process other parts of the application.
+
+783
+00:40:09,100 --> 00:40:15,300
+在一个为主流服务器设计的小巧封装中包含了大量令人难以置信的技术
+
+784
+00:40:09,133 --> 00:40:15,300
+An incredible amount of technology in a tiny
+little package designed for mainstream servers.
+
+785
+00:40:15,300 --> 00:40:23,500
+Hopper H100 支持各种规模的系统，包括用于主流服务器的 PCIe 加速器
+
+786
+00:40:15,300 --> 00:40:23,500
+Hopper H100 powers systems at every scale – from the PCI express accelerator for mainstream servers
+
+787
+00:40:23,500 --> 00:40:29,200
+以及 DGX、DGX POD 和 DGX SuperPOD
+
+788
+00:40:23,500 --> 00:40:29,200
+to DGX, DGX Pod, and DGX SuperPOD.
+
+789
+00:40:29,200 --> 00:40:36,900
+这些系统能够运行 NVIDIA HPC、NVIDIA AI 以及 CUDA 库的丰富生态系统
+
+790
+00:40:29,200 --> 00:40:36,933
+These systems run NVIDIA HPC and NVIDIA AI
+and the rich ecosystem of CUDA libraries.
+
+791
+00:40:36,900 --> 00:40:41,900
+下面我来介绍一下 Grace 的最新进展，这是我们的首款数据中心 CPU
+
+792
+00:40:36,933 --> 00:40:41,900
+Let me update you on Grace - our first data center CPU.
+
+793
+00:40:41,900 --> 00:40:48,000
+我很高兴地宣布，Grace 进展飞速，有望明年供货
+
+794
+00:40:41,900 --> 00:40:48,000
+I am pleased to report that Grace is progressing
+fantastically and on track to ship next year.
+
+795
+00:40:48,000 --> 00:40:52,800
+Grace 专为处理海量数据而设计
+
+796
+00:40:48,000 --> 00:40:52,800
+We designed Grace to process giant amounts of data.
+
+797
+00:40:52,800 --> 00:40:57,100
+它将成为 AI 工厂的理想 CPU
+
+798
+00:40:52,800 --> 00:40:57,100
+Grace will be the ideal CPU for AI factories.
+
+799
+00:40:57,100 --> 00:41:00,200
+这就是 Grace-Hopper
+
+800
+00:40:57,100 --> 00:41:00,200
+And this is Grace-Hopper.
+
+801
+00:41:00,200 --> 00:41:07,700
+它是单一超级芯片模组，能够在 CPU 和 GPU 之间进行芯片间的直接连接
+
+802
+00:41:00,200 --> 00:41:07,700
+A single superchip module with direct chip-to-chip
+connection between the CPU and GPU.
+
+803
+00:41:07,700 --> 00:41:15,800
+Grace-Hopper 的关键驱动技术之一是内存一致性芯片之间的 NVLink 互连
+
+804
+00:41:07,700 --> 00:41:15,833
+One of the critical enabling technologies of Grace-Hopper is the memory coherent chip-to-chip NVLINK interconnect –
+
+805
+00:41:15,800 --> 00:41:19,300
+每个链路的速度达 900 GB/s！
+
+806
+00:41:15,833 --> 00:41:19,300
+a 900 gigabytes per second link!
+
+807
+00:41:19,300 --> 00:41:22,100
+但前面我只讲了一半的故事
+
+808
+00:41:19,300 --> 00:41:22,100
+But I only told you half the story.
+
+809
+00:41:22,100 --> 00:41:25,900
+Grace 的一切都令人赞叹
+
+810
+00:41:22,100 --> 00:41:25,900
+The full Grace is truly amazing.
+
+811
+00:41:25,900 --> 00:41:36,800
+Grace CPU 也可以是由两个通过芯片之间的 NVLink 连接，保证一致性的 CPU 芯片组成的超级芯片
+
+812
+00:41:25,900 --> 00:41:36,800
+The Grace CPU can also be a superchip made up of two CPU chips connected, coherently, over NVLINK chip-to-chip.
+
+813
+00:41:36,800 --> 00:41:42,600
+Grace 超级芯片拥有 144 个 CPU 核心！
+
+814
+00:41:36,800 --> 00:41:42,600
+Grace superchip has 144 CPU cores!
+
+815
+00:41:42,600 --> 00:41:47,900
+而且，内存带宽高达 1 TB/s，速度之快着实惊人
+
+816
+00:41:42,600 --> 00:41:47,900
+And an insane 1 terabyte per second of memory bandwidth -
+
+817
+00:41:47,900 --> 00:41:54,600
+是尚未发布的第 5 代顶级 CPU 的 2 到 3 倍
+
+818
+00:41:47,900 --> 00:41:54,600
+over two to three times the top Gen 5 CPUs
+that have yet to even ship.
+
+819
+00:41:54,600 --> 00:42:05,000
+我们预估 Grace 超级芯片的 SPECint 2017 得分为 740，目前几乎没有任何产品可与之媲美
+
+820
+00:41:54,600 --> 00:42:05,033
+We estimate the Grace superchip to have a SPECint 2017
+rate of 740. Nothing close to that ships today.
+
+821
+00:42:05,000 --> 00:42:13,500
+令人惊叹的是，整个模组（包括 1 TB 内存）的功率仅为 500 瓦
+
+822
+00:42:05,033 --> 00:42:13,533
+And the amazing thing is the entire module,
+including a terabyte of memory, is only 500 Watts.
+
+823
+00:42:13,500 --> 00:42:19,300
+我们预计 Grace 超级芯片届时将是最强大的 CPU
+
+824
+00:42:13,533 --> 00:42:19,300
+We expect the Grace superchip to be the
+highest performance and twice the energy efficiency
+
+825
+00:42:19,300 --> 00:42:21,800
+拥有最高性能和两倍能效
+
+826
+00:42:19,300 --> 00:42:21,833
+of the best CPU at that time.
+
+827
+00:42:21,800 --> 00:42:28,900
+Grace 将在 AI、数据分析、科学计算和超大规模计算领域有着惊人的表现
+
+828
+00:42:21,833 --> 00:42:28,900
+Grace will be amazing at AI, data analytics,
+scientific computing, and hyperscale computing.
+
+829
+00:42:28,900 --> 00:42:40,500
+Grace 还将得到 NVIDIA 所有软件平台（NVIDIA RTX、HPC、NVIDIA AI 和 Omniverse）的支持
+
+830
+00:42:28,900 --> 00:42:40,500
+And Grace will be welcomed by all of NVIDIA's software platforms – NVIDIA RTX, HPC, NVIDIA AI, and Omniverse.
+
+831
+00:42:40,500 --> 00:42:47,300
+Grace-Hopper 和 Grace 超级芯片的推动因素是超节能、低延迟
+
+832
+00:42:40,500 --> 00:42:47,300
+The enabler for Grace-Hopper and Grace superchip
+is the ultra-energy-efficient, low-latency,
+
+833
+00:42:47,300 --> 00:42:52,200
+高速内存一致性 NVLink 芯片到芯片链路
+
+834
+00:42:47,300 --> 00:42:52,200
+high-speed memory coherent NVLINK chip-to-chip link.
+
+835
+00:42:52,200 --> 00:42:59,200
+借助从裸片之间、芯片之间以及系统之间的 NVLink 扩展
+
+836
+00:42:52,200 --> 00:42:59,200
+With NVLINK that scales from die-to-die,
+chip-to-chip, and system-to-system,
+
+837
+00:42:59,200 --> 00:43:04,800
+我们可以配置 Grace 和 Hopper，以便处理各种工作负载
+
+838
+00:42:59,200 --> 00:43:04,833
+we can configure Grace and Hopper
+to address a large diversity of workloads.
+
+839
+00:43:04,800 --> 00:43:06,500
+我们可以通过 Grace 和 Hopper 打造不同的系统：
+
+840
+00:43:04,833 --> 00:43:06,533
+We can create systems with:
+
+841
+00:43:06,500 --> 00:43:09,600
+2 个 Grace CPU 组成的超级芯片
+
+842
+00:43:06,533 --> 00:43:09,633
+A Two-Grace CPU Superchip
+
+843
+00:43:09,600 --> 00:43:13,500
+1 个 Grace 加 1 个 Hopper 组成的超级芯片
+
+844
+00:43:09,633 --> 00:43:13,500
+A One-Grace, One-Hopper Superchip
+
+845
+00:43:13,500 --> 00:43:17,300
+1 个 Grace 加 2 个 Hopper 的超级芯片
+
+846
+00:43:13,500 --> 00:43:17,300
+A One-Grace, Two-Hopper Superchip
+
+847
+00:43:17,300 --> 00:43:21,900
+搭载 2 个 Grace 和 2 个 Hopper 的系统
+
+848
+00:43:17,300 --> 00:43:21,900
+And systems with Two-Grace, Two Hoppers
+
+849
+00:43:21,900 --> 00:43:24,600
+2 个 Grace 加 4 个 Hopper 组成的系统
+
+850
+00:43:21,900 --> 00:43:24,633
+Two-Grace and Four Hoppers
+
+851
+00:43:24,600 --> 00:43:27,600
+2 个 Grace 加 8 个 Hopper 组成的系统
+
+852
+00:43:24,633 --> 00:43:27,633
+Two-Grace and Eight Hoppers
+
+853
+00:43:27,600 --> 00:43:35,900
+Grace 和 Hopper 的 NVLink 以及 ConnectX-7 中的 PCIe 5.0 交换机组合
+
+854
+00:43:27,633 --> 00:43:35,900
+The composability of Grace and Hopper’s NVLINK,
+and the Gen 5 PCI express switch inside CX7,
+
+855
+00:43:35,900 --> 00:43:41,400
+能够为我们提供大量方法，解决客户的各种计算需求
+
+856
+00:43:35,900 --> 00:43:41,400
+give us a vast number of ways to address
+customer’s diverse computing needs.
+
+857
+00:43:41,400 --> 00:43:52,800
+未来的 NVIDIA 芯片，如 CPU、GPU、DPU、NIC 和 SOC，将像 Grace 和 Hopper 一样集成 NVLink
+
+858
+00:43:41,400 --> 00:43:52,800
+Future NVIDIA chips – CPUs, GPUs, DPUs, NICs, and SOCs –
+will integrate NVLINK just like Grace and Hopper.
+
+859
+00:43:52,800 --> 00:43:55,500
+我们拥有十分出色的 SERDES 技术
+
+860
+00:43:52,800 --> 00:43:55,500
+Our SERDES technology is world-class.
+
+861
+00:43:55,500 --> 00:44:00,700
+凭借多年的高速显存位宽、NVLink 和网络交换机设计经验
+
+862
+00:43:55,500 --> 00:44:00,733
+From years of designing high-speed memory interfaces, NVLINKs, and networking switches,
+
+863
+00:44:00,700 --> 00:44:04,400
+NVIDIA 在高速 SERDES 方面掌握了出色的专业知识
+
+864
+00:44:00,733 --> 00:44:04,433
+NVIDIA has world-class expertise in high-speed SERDES.
+
+865
+00:44:04,400 --> 00:44:11,700
+NVIDIA 正在为那些希望采用连接到 NVIDIA 平台的定制芯片客户和合作伙伴
+
+866
+00:44:04,433 --> 00:44:11,733
+NVIDIA is making NVLINK and SERDES available to customers and partners who want to implement custom chips
+
+867
+00:44:11,700 --> 00:44:13,900
+提供 NVLink 和 SERDES
+
+868
+00:44:11,733 --> 00:44:13,933
+that connect to NVIDIA's platforms.
+
+869
+00:44:13,900 --> 00:44:21,500
+这些高速链路为通过 NVIDIA 计算构建半定制芯片和系统开辟了一个新的世界
+
+870
+00:44:13,933 --> 00:44:21,533
+These high-speed links have opened a new world to build semi-custom chips and systems with NVIDIA computing.
+
+871
+00:44:21,500 --> 00:44:31,300
+过去十年，NVIDIA 通过 GPU 加速算法、全栈优化和整个数据中心的扩展
+
+872
+00:44:21,533 --> 00:44:31,300
+NVIDIA has accelerated computing a Million-X
+over the past decade by GPU-accelerating algorithms,
+
+873
+00:44:31,300 --> 00:44:38,000
+使计算速度实现了 Million-X 百万倍加速
+
+874
+00:44:31,300 --> 00:44:38,033
+optimizing across the full-stack,
+and scaling across the entire data center.
+
+875
+00:44:38,000 --> 00:44:44,000
+计算机科学和工程在 NVIDIA SDK 中体现
+
+876
+00:44:38,033 --> 00:44:44,000
+The computer science and engineering
+is captured in NVIDIA SDKs.
+
+877
+00:44:44,000 --> 00:44:51,100
+具备 CUDA 库的 NVIDIA SDK 是加速计算的核心和灵魂
+
+878
+00:44:44,000 --> 00:44:51,133
+NVIDIA SDKs with CUDA libraries are the
+heart and soul of accelerated computing.
+
+879
+00:44:51,100 --> 00:44:58,400
+NVIDIA SDK 将我们与科学领域的新挑战和业界新机遇紧密相连
+
+880
+00:44:51,133 --> 00:44:58,400
+NVIDIA SDKs connect us to new challenges in
+science and new opportunities in industry.
+
+881
+00:44:58,400 --> 00:45:07,800
+RAPIDS 是一套 SDK，可供数据科学家将热门 Python API 用于 DataFrame、SQL、数组
+
+882
+00:44:58,400 --> 00:45:07,800
+RAPIDS is a suite of SDKs for data scientists using popular Python APIs for DataFrames, SQL, arrays,
+
+883
+00:45:07,800 --> 00:45:10,700
+机器学习和图分析
+
+884
+00:45:07,800 --> 00:45:10,700
+machine learning, and graph analytics.
+
+885
+00:45:10,700 --> 00:45:16,800
+RAPIDS 是 NVIDIA 备受欢迎的 NVIDIA SDK 之一，仅次于用于深度学习的 cuDNN
+
+886
+00:45:10,700 --> 00:45:16,800
+RAPIDS is one of NVIDIA’s most popular SDKs,
+second only to cuDNN for deep learning.
+
+887
+00:45:16,800 --> 00:45:23,500
+RAPIDS 的下载次数已达 200 万次，同比增长了 3 倍
+
+888
+00:45:16,800 --> 00:45:23,500
+RAPIDS has been downloaded 2M times
+and has grown 3 times year-over-year.
+
+889
+00:45:23,500 --> 00:45:29,100
+它已在超过 5000 个 GitHub 项目和 2000 多个 Kaggle notebooks 中使用
+
+890
+00:45:23,500 --> 00:45:29,100
+It is used by over 5,000 GitHub projects
+and over 2,000 Kaggle notebooks,
+
+891
+00:45:29,100 --> 00:45:33,800
+并集成至 35 个商业软件包中
+
+892
+00:45:29,100 --> 00:45:33,800
+and is integrated into 35 commercial software packages.
+
+893
+00:45:33,800 --> 00:45:38,500
+NVIDIA RAPIDS for Spark 是用于加速 Apache Spark 的插件
+
+894
+00:45:33,800 --> 00:45:38,533
+NVIDIA RAPIDS for Spark is a plug-in
+for accelerating Apache Spark.
+
+895
+00:45:38,500 --> 00:45:45,700
+Spark 是先进的数据处理引擎，80% 的《财富》500 强公司都在使用
+
+896
+00:45:38,533 --> 00:45:45,700
+Spark is the leading data processing engine used by 80%
+of the Fortune 500 companies.
+
+897
+00:45:45,700 --> 00:45:51,300
+Spark 用户可以透明地加速 Spark data-frame 和 SQL
+
+898
+00:45:45,700 --> 00:45:51,300
+Users of Spark can transparently
+accelerate Spark data-frame and SQL.
+
+899
+00:45:51,300 --> 00:45:55,300
+原本需要数小时完成的操作现在只需数分钟即可完成
+
+900
+00:45:51,300 --> 00:45:55,333
+Operations that take hours now take minutes.
+
+901
+00:45:55,300 --> 00:46:04,600
+NVIDIA cuOpt（之前称为 ReOpt）是一款 SDK，能够优化多代理、多约束的路线规划
+
+902
+00:45:55,333 --> 00:46:04,633
+NVIDIA cuOpt, previously called ReOpt, is an SDK for multi-agent, multi-constraint route planning optimization
+
+903
+00:46:04,600 --> 00:46:09,900
+用于仓库内的交付服务或自主移动机器人
+
+904
+00:46:04,633 --> 00:46:09,900
+used for delivery services or
+autonomous mobile robots inside warehouses.
+
+905
+00:46:09,900 --> 00:46:17,400
+借助 NVIDIA cuOpt，企业第一次可以在数秒内完成上千个包裹到上千个地点的实时规划
+
+906
+00:46:09,900 --> 00:46:17,400
+With NVIDIA cuOpt, businesses can, for the first time, do real-time planning of thousands of packages
+
+907
+00:46:17,400 --> 00:46:23,400
+并且具备超高准确率
+
+908
+00:46:17,400 --> 00:46:23,400
+to thousands of locations in
+seconds with world-record accuracy.
+
+909
+00:46:23,400 --> 00:46:28,000
+超过 175 家公司正在测试 NVIDIA cuOpt
+
+910
+00:46:23,400 --> 00:46:28,033
+Over 175 companies are testing NVIDIA cuOpt.
+
+911
+00:46:28,000 --> 00:46:36,900
+图是表示真实世界数据（如地图、社交网络、Web、蛋白质和分子以及金融交易）的
+
+912
+00:46:28,033 --> 00:46:36,900
+Graphs are one of the most used data structures to represent real-world data, like maps, social networks, the web,
+
+913
+00:46:36,900 --> 00:46:40,900
+常用数据结构之一
+
+914
+00:46:36,900 --> 00:46:40,933
+proteins and molecules, and financial transactions.
+
+915
+00:46:40,900 --> 00:46:48,900
+NVIDIA DGL 容器支持跨多个 GPU 和节点训练大型图神经网络
+
+916
+00:46:40,933 --> 00:46:48,900
+The NVIDIA DGL container lets you train large graph neural networks across multiple GPUs and nodes.
+
+917
+00:46:48,900 --> 00:46:54,200
+NVIDIA Morpheus 是用于网络安全的深度学习框架
+
+918
+00:46:48,900 --> 00:46:54,200
+NVIDIA Morpheus is a deep learning
+framework for cybersecurity.
+
+919
+00:46:54,200 --> 00:47:02,000
+Morpheus 能够帮助网络安全开发者构建和扩展解决方案，这些解决方案使用深度学习技术
+
+920
+00:46:54,200 --> 00:47:02,033
+Morpheus helps cybersecurity developers build and
+scale solutions that use deep learning to identify,
+
+921
+00:47:02,000 --> 00:47:06,800
+以前所未有的方式来识别、捕捉威胁并对威胁采取行动
+
+922
+00:47:02,033 --> 00:47:06,833
+capture, and act on threats previously impossible.
+
+923
+00:47:06,800 --> 00:47:11,300
+每家公司都需要改用零信任架构
+
+924
+00:47:06,833 --> 00:47:11,300
+Every company needs to move to a Zero Trust architecture.
+
+925
+00:47:11,300 --> 00:47:15,100
+NVIDIA 无疑可使用 Morpheus
+
+926
+00:47:11,300 --> 00:47:15,100
+NVIDIA can for sure use Morpheus.
+
+927
+00:47:15,100 --> 00:47:20,400
+cuQuantum 是一种用于加速量子电路仿真器的 SDK
+
+928
+00:47:15,100 --> 00:47:20,433
+cuQuantum is an SDK for accelerating
+Quantum Circuit Simulators
+
+929
+00:47:20,400 --> 00:47:24,600
+可让研究人员开发未来的量子算法
+
+930
+00:47:20,433 --> 00:47:24,633
+so researchers can develop quantum
+computing algorithms of the future
+
+931
+00:47:24,600 --> 00:47:29,500
+（目前在量子计算机上无法探索这些算法）
+
+932
+00:47:24,633 --> 00:47:29,533
+that are impossible to explore on quantum computers today.
+
+933
+00:47:29,500 --> 00:47:35,900
+cuQuantum 能加速多种先进的 QC 仿真器，包括 Google Cirq、IBM Qiskit
+
+934
+00:47:29,533 --> 00:47:35,933
+cuQuantum accelerates the top QC
+simulators Google Cirq, IBM Qiskit,
+
+935
+00:47:35,900 --> 00:47:42,700
+Xanadu 的 Pennylane、Quantinuum TKET 和橡树岭国家实验室的 ORNL ExaTN
+
+936
+00:47:35,933 --> 00:47:42,700
+Xanadu’s Pennylane, Quantinuum TKET,
+and Oak Ridge National Laboratory ExaTN.
+
+937
+00:47:42,700 --> 00:47:49,100
+DGX 上的 cuQuantum 是非常适合量子计算的开发系统
+
+938
+00:47:42,700 --> 00:47:49,100
+cuQuantum on DGX is the ideal
+development system for quantum computing.
+
+939
+00:47:49,100 --> 00:47:56,100
+Aerial 是一款适用于 CUDA 加速的软件定义的 5G 无线网络的 SDK
+
+940
+00:47:49,100 --> 00:47:56,100
+Aerial is an SDK for CUDA-accelerated
+software-defined 5G radio.
+
+941
+00:47:56,100 --> 00:48:03,000
+借助 Aerial，无论是数据中心、云、本地，还是边缘，均可成为 5G 无线网络
+
+942
+00:47:56,100 --> 00:48:03,000
+With Aerial, any data center, cloud, on-prem,
+or edge, can be a 5G radio network
+
+943
+00:48:03,000 --> 00:48:08,600
+并可为无 WIFI 服务的地方提供 5G AI 服务
+
+944
+00:48:03,000 --> 00:48:08,633
+and provision AI services on 5G to places not served by WIFI.
+
+945
+00:48:08,600 --> 00:48:12,900
+6G 标准将于 2026 年左右问世
+
+946
+00:48:08,633 --> 00:48:12,900
+The 6G standard will emerge around 2026.
+
+947
+00:48:12,900 --> 00:48:19,400
+6G 是大势所趋 – 数以千亿计的机器和机器人
+
+948
+00:48:12,900 --> 00:48:19,400
+The megatrends shaping 6G are clear -
+hundreds of billions of machines and robots
+
+949
+00:48:19,400 --> 00:48:22,400
+将成为网络用户中的主力军
+
+950
+00:48:19,400 --> 00:48:22,433
+will be the overwhelming users of the network.
+
+951
+00:48:22,400 --> 00:48:27,600
+6G 正围绕一些基础技术逐步形成雏形
+
+952
+00:48:22,433 --> 00:48:27,633
+6G is taking shape around a few foundational technologies.
+
+953
+00:48:27,600 --> 00:48:31,700
+与网络一样，6G 将很大程度上由软件定义
+
+954
+00:48:27,633 --> 00:48:31,700
+Like networking, 6G will be highly software-defined.
+
+955
+00:48:31,700 --> 00:48:34,400
+网络将由 AI 驱动
+
+956
+00:48:31,700 --> 00:48:34,400
+The network will be AI-driven.
+
+957
+00:48:34,400 --> 00:48:40,100
+基于光线追踪和 AI 的数字孪生将有助于优化网络
+
+958
+00:48:34,400 --> 00:48:40,100
+Digital twins performing ray tracing
+and AI will help optimize the network.
+
+959
+00:48:40,100 --> 00:48:42,900
+NVIDIA 可以在这些领域做出贡献
+
+960
+00:48:40,100 --> 00:48:42,900
+NVIDIA can make contributions in these areas.
+
+961
+00:48:42,900 --> 00:48:52,400
+我们很高兴地宣布推出新框架 Sionna，它是一种用于 6G 通信研究的 AI 框架
+
+962
+00:48:42,900 --> 00:48:52,400
+We are excited to announce a new framework, Sionna, an AI framework for 6G communications research.
+
+963
+00:48:52,400 --> 00:48:58,500
+Modulus 是用于开发 Physics–ML 模型的 AI 框架
+
+964
+00:48:52,400 --> 00:48:58,500
+Modulus is an AI framework for developing physics-ML models.
+
+965
+00:48:58,500 --> 00:49:06,500
+这些深度神经网络模型可以学习物理学，并做出符合物理定律的预测
+
+966
+00:48:58,500 --> 00:49:06,500
+These deep neural network models can learn physics
+and make predictions that obey the laws of physics
+
+967
+00:49:06,500 --> 00:49:12,000
+速度比数值方法快许多个数量级
+
+968
+00:49:06,500 --> 00:49:12,000
+at many orders of magnitude faster than numerical methods.
+
+969
+00:49:12,000 --> 00:49:16,000
+我们正使用 Modulus 构建 Earth-2 数字孪生
+
+970
+00:49:12,000 --> 00:49:16,000
+We are using Modulus to build the Earth-2 digital twin.
+
+971
+00:49:16,000 --> 00:49:20,200
+MONAI 是一个用于医疗影像的开源 AI 框架
+
+972
+00:49:16,000 --> 00:49:20,233
+Monai is an open-source AI framework for medical imaging.
+
+973
+00:49:20,200 --> 00:49:31,100
+NVIDIA MONAI 容器包含 2D 和 3D 模型的 AI 辅助标注、迁移学习和 AutoML 训练
+
+974
+00:49:20,233 --> 00:49:31,100
+The NVIDIA Monai container includes AI-assisted labeling for 2D and 3D models, transfer learning, and autoML training;
+
+975
+00:49:31,100 --> 00:49:34,100
+可通过 DICOM 轻松部署
+
+976
+00:49:31,100 --> 00:49:34,100
+and it’s easy to deploy through DICOM.
+
+977
+00:49:34,100 --> 00:49:42,000
+世界排名前 30 的学术医疗中心正在使用 MONAI，下载超过 25 万次
+
+978
+00:49:34,100 --> 00:49:42,000
+Monai is used by the world’s top 30 academic
+medical centers and has over 250,000 downloads.
+
+979
+00:49:42,000 --> 00:49:51,900
+FLARE 是用于联邦学习的 NVIDIA 开源 SDK，使研究人员能够以一种保护隐私的方式
+
+980
+00:49:42,000 --> 00:49:51,900
+FLARE is NVIDIA’s open-source SDK for federated learning, letting researchers collaborate in a privacy-preserving way –
+
+981
+00:49:51,900 --> 00:49:54,900
+（即共享模型而非数据）开展协作
+
+982
+00:49:51,900 --> 00:49:54,933
+sharing models but not data.
+
+983
+00:49:54,900 --> 00:50:02,400
+数百万开发者和成千上万的公司使用 NVIDIA SDK 来加速处理工作负载
+
+984
+00:49:54,933 --> 00:50:02,400
+Millions of developers and tens of thousands of companies use NVIDIA SDKs to accelerate their workload.
+
+985
+00:50:02,400 --> 00:50:09,100
+在本次 GTC 上我们更新了 60 个 SDK，加入了更多功能和加速技术
+
+986
+00:50:02,400 --> 00:50:09,100
+We updated 60 SDKs with more features
+and acceleration at this GTC.
+
+987
+00:50:09,100 --> 00:50:14,300
+现有的 NVIDIA 系统变得更快
+
+988
+00:50:09,100 --> 00:50:14,300
+The same NVIDIA systems you own just got faster
+
+989
+00:50:14,300 --> 00:50:21,200
+进行运筹学研究、量子算法研究、6G 研究或图分析的科学家
+
+990
+00:50:14,300 --> 00:50:21,200
+and scientists doing Operations Research,
+quantum algorithm research, 6G research,
+
+991
+00:50:21,200 --> 00:50:26,700
+将能首次使用 NVIDIA 加速技术
+
+992
+00:50:21,200 --> 00:50:26,733
+or graph analytics can tap into
+NVIDIA acceleration for the first time.
+
+993
+00:50:26,700 --> 00:50:30,400
+对于从事计算机辅助设计或工程的公司
+
+994
+00:50:26,733 --> 00:50:30,400
+And for the companies doing computer
+aided design or engineering,
+
+995
+00:50:30,400 --> 00:50:35,100
+他们所依赖的软件工具（由 Ansys、Altair
+
+996
+00:50:30,400 --> 00:50:35,100
+the software tools you depend on from Ansys, Altair,
+
+997
+00:50:35,100 --> 00:50:42,000
+Siemens、Synopsys、Cadence 等公司开发）将获得大幅的速度提升
+
+998
+00:50:35,100 --> 00:50:42,033
+Siemens, Synopsys, Cadence, and more,
+just got a massive speed-up.
+
+999
+00:50:42,000 --> 00:50:46,500
+亲身感受这些技术对工程技术实践带来的改变
+
+1000
+00:50:42,033 --> 00:50:46,500
+From first-hand experience, it has transformed our engineering.
+
+1001
+00:50:46,500 --> 00:50:55,000
+请前往 NGC (NVIDIA GPU Cloud)，下载经过全栈优化并提供数据中心级加速能力的
+
+1002
+00:50:46,500 --> 00:50:55,000
+So, go to NGC, NVIDIA GPU Cloud, and download our SDKs
+and frameworks that are full-stack optimized
+
+1003
+00:50:55,000 --> 00:50:58,400
+SDK 和框架
+
+1004
+00:50:55,000 --> 00:50:58,400
+and data-center-scale accelerated.
+
+1005
+00:51:04,500 --> 00:51:10,000
+当某条电线发生故障导致两个氧气罐中的一个发生爆炸时
+
+1006
+00:51:04,500 --> 00:51:10,033
+The Apollo 13 crew was
+136,000 miles from Earth
+
+1007
+00:51:10,000 --> 00:51:17,100
+阿波罗 13 号的船员与地球相距 136000 英里
+
+1008
+00:51:10,033 --> 00:51:17,100
+when a faulty electrical wire caused
+one of the two oxygen tanks to explode.
+
+1009
+00:51:17,100 --> 00:51:22,300
+NASA 在无线电中听到了至今羞于提及的一句话 –“休斯顿，我们遇到问题了。”
+
+1010
+00:51:17,100 --> 00:51:22,300
+And the now infamous words radioed back to NASA -
+“Houston, we’ve had a problem.”
+
+1011
+00:51:22,300 --> 00:51:28,400
+为了“解决问题”，NASA 工程师在奥德赛号宇宙飞船的复制品上测试了氧气保存
+
+1012
+00:51:22,300 --> 00:51:28,433
+To “work the problem”, NASA engineers tested oxygen-preserving and power-cycling procedures
+
+1013
+00:51:28,400 --> 00:51:31,800
+和开关机循环程序
+
+1014
+00:51:28,433 --> 00:51:31,800
+on a replica of the Odyssey spacecraft.
+
+1015
+00:51:31,800 --> 00:51:38,800
+如果没有在地球上建造的全功能复制品，阿波罗 13 号将会遭受灭顶之灾
+
+1016
+00:51:31,800 --> 00:51:38,833
+Apollo 13 would have ended in disaster if not
+for the fully functional replica on Earth.
+
+1017
+00:51:38,800 --> 00:51:41,700
+这是一个重要时刻
+
+1018
+00:51:38,833 --> 00:51:41,733
+This was an important moment.
+
+1019
+00:51:41,700 --> 00:51:48,200
+NASA 意识到了复制模拟的力量，但并非所有事物都能具有实体孪生
+
+1020
+00:51:41,733 --> 00:51:48,233
+NASA realized the power of the replica,
+but not everything can have a physical twin.
+
+1021
+00:51:48,200 --> 00:51:57,500
+因此，NASA 创造了术语“数字孪生”，用实时存在的虚拟物来表征物理实体
+
+1022
+00:51:48,233 --> 00:51:57,500
+So NASA coined the term “digital twin,” a living virtual representation of something physical.
+
+1023
+00:51:57,500 --> 00:52:06,000
+当扩展到极致时，数字孪生是一个与物理世界相连的虚拟世界
+
+1024
+00:51:57,500 --> 00:52:06,033
+Extended to vast scales, a digital twin is a
+virtual world that’s connected to the physical world.
+
+1025
+00:52:06,000 --> 00:52:10,900
+而在互联网背景下，它带来了下一次演进
+
+1026
+00:52:06,033 --> 00:52:10,900
+And in the context of the internet, it is the next evolution.
+
+1027
+00:52:10,900 --> 00:52:20,600
+这正是 NVIDIA Omniverse 的作用 – 数字孪生、虚拟世界以及互联网的下一次演进
+
+1028
+00:52:10,900 --> 00:52:20,600
+And that’s what NVIDIA Omniverse is about – digital twins, virtual worlds, and the next evolution of the internet.
+
+1029
+00:52:20,600 --> 00:52:30,000
+20 多年来，NVIDIA 在图形、物理学、仿真、AI 和计算技术领域深耕不辍，最终打造出 Omniverse
+
+1030
+00:52:20,600 --> 00:52:30,033
+Over 20 years of NVIDIA graphics, physics, simulation, AI, and computing technologies made Omniverse possible.
+
+1031
+00:52:30,000 --> 00:52:33,800
+模拟这个世界是一项终极挑战
+
+1032
+00:52:30,033 --> 00:52:33,800
+Simulating the world is the ultimate grand challenge.
+
+1033
+00:52:33,800 --> 00:52:37,500
+Omniverse 是虚拟世界的仿真引擎
+
+1034
+00:52:33,800 --> 00:52:37,533
+Omniverse is a simulation engine of virtual worlds.
+
+1035
+00:52:37,500 --> 00:52:42,400
+Omniverse 世界具备物理精准的特点，并且遵守物理学定律
+
+1036
+00:52:37,533 --> 00:52:42,400
+Omniverse worlds are physically accurate,
+obeying the laws of physics.
+
+1037
+00:52:42,400 --> 00:52:44,900
+Omniverse 在宏大的维度上运行
+
+1038
+00:52:42,400 --> 00:52:44,933
+Omniverse operates at vast scales.
+
+1039
+00:52:44,900 --> 00:52:50,800
+Omniverse 可共享，能将设计师、观看者、AI 和机器人连接起来
+
+1040
+00:52:44,933 --> 00:52:50,800
+And Omniverse is sharable, connecting designers,
+viewers, AIs, and robots.
+
+1041
+00:52:50,800 --> 00:52:53,200
+那么，Omniverse 有哪些应用场景？
+
+1042
+00:52:50,800 --> 00:52:53,200
+But what are the applications of Omniverse?
+
+1043
+00:52:53,200 --> 00:52:57,100
+今天，我将重点介绍几个直接用例：
+
+1044
+00:52:53,200 --> 00:52:57,100
+I will highlight several immediate use-cases today.
+
+1045
+00:52:57,100 --> 00:53:00,800
+使用不同工具的设计师之间的远程协作
+
+1046
+00:52:57,100 --> 00:53:00,800
+Remote Collaboration of designers using different tools.
+
+1047
+00:53:00,800 --> 00:53:04,700
+供 AI 和机器人学习的 Sim2Real Gym
+
+1048
+00:53:00,800 --> 00:53:04,700
+Sim2Real Gyms where AI and robots learn.
+
+1049
+00:53:04,700 --> 00:53:06,600
+还有工业数字孪生
+
+1050
+00:53:04,700 --> 00:53:06,633
+And industrial Digital Twins.
+
+1051
+00:53:06,600 --> 00:53:11,200
+不过，首先让我展示一些造就 Omniverse 的基础技术
+
+1052
+00:53:06,633 --> 00:53:11,200
+But first, let me show you the
+technologies that make Omniverse possible.
+
+1053
+00:54:26,100 --> 00:54:30,500
+Omniverse 技术将改变您的创作方式！
+
+1054
+00:54:26,100 --> 00:54:30,500
+Omniverse technology will transform the way you create!
+
+1055
+00:55:11,300 --> 00:55:16,300
+Omniverse 可从 RTX PC 扩展到大型系统
+
+1056
+00:55:11,300 --> 00:55:16,300
+Omniverse is scalable from RTX PCs to large systems.
+
+1057
+00:55:16,300 --> 00:55:23,400
+连接到托管 Omniverse Nucleus 的用户的 RTX PC 在性能上足以进行创意协作
+
+1058
+00:55:16,300 --> 00:55:23,400
+RTX PCs connected to someone hosting the Omniverse Nucleus are sufficient for creative collaboration.
+
+1059
+00:55:23,400 --> 00:55:29,200
+然而，工业数字孪生需要一种专门构建的新型计算机
+
+1060
+00:55:23,400 --> 00:55:29,200
+Industrial digital twins, however, need a new type
+of purpose-built computer.
+
+1061
+00:55:29,200 --> 00:55:36,700
+数字孪生仿真涉及多个自主系统在同一时空内进行交互
+
+1062
+00:55:29,200 --> 00:55:36,733
+Digital twin simulations involve multiple autonomous systems interacting in the same space-time.
+
+1063
+00:55:36,700 --> 00:55:42,800
+数据中心在尽可能短的时间内而不是按照精确的时间处理数据
+
+1064
+00:55:36,733 --> 00:55:42,800
+Data centers process data in the
+lowest possible time, not precise time.
+
+1065
+00:55:42,800 --> 00:55:52,000
+对于数字孪生，Omniverse 软件和计算机必须具备可扩展、低延迟和支持精确时间的特点
+
+1066
+00:55:42,800 --> 00:55:52,000
+So for digital twins, the Omniverse software and computer need to be scalable, low latency, and support precise time.
+
+1067
+00:55:52,000 --> 00:55:55,800
+我们需要建造同步的数据中心
+
+1068
+00:55:52,000 --> 00:55:55,800
+We need to create a synchronous data center.
+
+1069
+00:55:55,800 --> 00:56:01,900
+正如我们为 AI 提供 DGX 一样，我们现在为 Omniverse 提供 OVX
+
+1070
+00:55:55,800 --> 00:56:01,933
+Just as we have DGX for AI, we now have OVX for Omniverse.
+
+1071
+00:56:01,900 --> 00:56:13,700
+第一代 NVIDIA OVX Omniverse 计算机由
+8 个 NVIDIA A40 RTX GPU、3 个 ConnectX-6 200 Gbps 网卡 (NIC)
+
+1072
+00:56:01,933 --> 00:56:13,700
+The first-generation NVIDIA OVX Omniverse computer consists of eight NVIDIA A40 RTX GPUs, 3 CX6 200 Gbps NICs,
+
+1073
+00:56:13,700 --> 00:56:16,300
+和 2 个 Intel Ice Lake CPU 组成
+
+1074
+00:56:13,700 --> 00:56:16,300
+and dual Intel Ice Lake CPUs.
+
+1075
+00:56:16,300 --> 00:56:28,200
+利用 NVIDIA Spectrum-3 200 Gbps 交换机连接 32 台 OVX 服务器就构成了 OVX SuperPOD
+
+1076
+00:56:16,300 --> 00:56:28,233
+And the NVIDIA Spectrum-3 200 gigabytes per second switch fabric connects 32 OVX servers to form the OVX SuperPOD.
+
+1077
+00:56:28,200 --> 00:56:34,000
+最重要的是，网络和计算机使用精准时间协议进行同步
+
+1078
+00:56:28,233 --> 00:56:34,000
+Most importantly, the network and computers
+are synchronized using Precision Timing Protocol,
+
+1079
+00:56:34,000 --> 00:56:37,500
+而且 RDMA 可更大程度降低数据包传输延迟
+
+1080
+00:56:34,000 --> 00:56:37,533
+and RDMA minimizes packet transfer latency.
+
+1081
+00:56:37,500 --> 00:56:41,200
+现在，全球各大计算机制造商纷纷推出 OVX 服务器
+
+1082
+00:56:37,533 --> 00:56:41,200
+OVX servers are now available from
+the world’s top computer makers.
+
+1083
+00:56:41,200 --> 00:56:47,500
+对于想在 OVX 上试用 Omniverse 的客户，NVIDIA 在全球各地提供了 LaunchPad 计划
+
+1084
+00:56:41,200 --> 00:56:47,500
+And for customers wanting to try Omniverse on OVX,
+NVIDIA LaunchPads are located around the world.
+
+1085
+00:56:47,500 --> 00:56:52,500
+第一代 OVX 正由 NVIDIA 和早期客户运行
+
+1086
+00:56:47,500 --> 00:56:52,500
+Generation one OVX are running at NVIDIA and early customers.
+
+1087
+00:56:52,500 --> 00:56:57,300
+我们正在构建第二代 OVX – 从骨干网络开始
+
+1088
+00:56:52,500 --> 00:56:57,333
+We are building our second-generation OVX,
+starting with the backbone.
+
+1089
+00:56:57,300 --> 00:57:01,000
+今天，我们宣布推出 Spectrum-4 交换机
+
+1090
+00:56:57,333 --> 00:57:01,000
+Today, we are introducing the Spectrum-4 switch.
+
+1091
+00:57:01,000 --> 00:57:10,400
+带宽高达 51.2 Tbps 且具有 1000 亿个晶体管的 Spectrum-4 将成为非常先进的交换机
+
+1092
+00:57:01,000 --> 00:57:10,400
+At 51.2 terabytes per second, the 100-billion transistor Spectrum-4 is the most advanced switch ever built.
+
+1093
+00:57:10,400 --> 00:57:16,400
+Spectrum-4 可在所有端口之间公平分配带宽，并提供自适应路由
+
+1094
+00:57:10,400 --> 00:57:16,400
+Spectrum-4 introduces fair bandwidth
+distribution across all ports, adaptive routing,
+
+1095
+00:57:16,400 --> 00:57:20,700
+和拥塞控制功能，能显著提升数据中心的整体吞吐量
+
+1096
+00:57:16,400 --> 00:57:20,733
+and congestion control for the
+highest overall data center throughput.
+
+1097
+00:57:20,700 --> 00:57:27,000
+凭借 ConnectX-7 和 BlueField-3 适配器以及 DOCA 数据中心基础架构软件
+
+1098
+00:57:20,733 --> 00:57:27,033
+With CX7 and Bluefield-3 adaptors, and the
+DOCA data center infrastructure software,
+
+1099
+00:57:27,000 --> 00:57:35,400
+它们将组成世界上首个 400 Gbps 端到端网络平台
+
+1100
+00:57:27,033 --> 00:57:35,400
+this is the world’s first 400 gigabytes per second
+end-to-end networking platform.
+
+1101
+00:57:35,400 --> 00:57:39,900
+与典型数据中心数毫秒的抖动相比
+
+1102
+00:57:35,400 --> 00:57:39,933
+And Spectrum-4 can achieve timing
+precision to a few nanoseconds
+
+1103
+00:57:39,900 --> 00:57:49,600
+Spectrum-4 可以实现纳秒级计时精度 – 即 5 到 6 个数量级的改进
+
+1104
+00:57:39,933 --> 00:57:49,600
+versus the many milliseconds of jitter in a typical data center – that is a 5 to 6 orders of magnitude improvement.
+
+1105
+00:57:49,600 --> 00:57:56,700
+超大规模计算将享受到更高的吞吐量、更好的服务质量和更高的安全性，同时能降低功耗和成本
+
+1106
+00:57:49,600 --> 00:57:56,700
+Hyperscalers will enjoy increased throughput, quality of service, and security, while reducing power and cost.
+
+1107
+00:57:56,700 --> 00:58:04,300
+Spectrum-4 催生了一种新型计算机，用于在云和边缘数据中心支持 Omniverse 数字孪生
+
+1108
+00:57:56,700 --> 00:58:04,300
+Spectrum-4 enables a new class of computers for Omniverse digital twins in cloud and edge data centers.
+
+1109
+00:58:04,300 --> 00:58:10,100
+NVIDIA Spectrum-4 是世界领先的以太网网络平台
+
+1110
+00:58:04,300 --> 00:58:10,100
+NVIDIA Spectrum-4, the world’s most
+advanced ethernet networking platform
+
+1111
+00:58:10,100 --> 00:58:15,700
+也是 Omniverse 计算机的骨干网络，样机将在第 4 季度末发布
+
+1112
+00:58:10,100 --> 00:58:15,700
+and the backbone of our Omniverse
+computer, samples in late Q4.
+
+1113
+00:58:15,700 --> 00:58:20,000
+Omniverse 是一个连接虚拟世界的“网络中的网络”
+
+1114
+00:58:15,700 --> 00:58:20,000
+Omniverse is a network-of-networks connecting virtual worlds.
+
+1115
+00:58:20,000 --> 00:58:29,300
+当不同的生态系统通过 Omniverse 连接成一个统一的工作流程时，这张网络的价值就会放大
+
+1116
+00:58:20,000 --> 00:58:29,300
+The value of the network amplifies when diverse ecosystems connect through Omniverse into a unified workflow.
+
+1117
+00:58:29,300 --> 00:58:35,500
+自去年举行 GTC 以来，我们的连接软件数量从 8 个增加到 82 个
+
+1118
+00:58:29,300 --> 00:58:35,533
+Since last year’s GTC, we’ve increased connections from 8 to 82.
+
+1119
+00:58:35,500 --> 00:58:41,100
+与我们连接的包括：Chaos Vray、Autodesk Arnold 和 Blender
+
+1120
+00:58:35,533 --> 00:58:41,100
+We have connectors with Chaos Vray,
+Autodesk Arnold, and Blender.
+
+1121
+00:58:41,100 --> 00:58:47,000
+以及 Adobe 的 3D Substance Painter、Epic 的虚幻引擎 5 和 Maxon 的 Cinema 4D
+
+1122
+00:58:41,100 --> 00:58:47,033
+Adobe’s 3D Substance Painter, Epic’s Unreal Engine 5,
+and Maxon’s Cinema 4D.
+
+1123
+00:58:47,000 --> 00:58:52,700
+许多开发者希望 OEM 将 Omniverse 直接连接到他们的软件套件
+
+1124
+00:58:47,033 --> 00:58:52,700
+Many developers want to OEM and connect
+Omniverse directly into their software suite.
+
+1125
+00:58:52,700 --> 00:58:58,400
+Bentley Systems 是先进的基础架构设计、施工和管理平台
+
+1126
+00:58:52,700 --> 00:58:58,400
+Bentley Systems is the leading infrastructure design, construction, and management platform.
+
+1127
+00:58:58,400 --> 00:59:07,100
+他们将 Omniverse 集成到他们的 LumenRT 平台中，对大型基础架构数字孪生
+
+1128
+00:58:58,400 --> 00:59:07,100
+They integrated Omniverse into their LumenRT platform to do interactive, engineering-grade, millimeter-accurate,
+
+1129
+00:59:07,100 --> 00:59:12,100
+进行交互式、工程级、精确到毫米级的 4D 可视化
+
+1130
+00:59:07,100 --> 00:59:12,100
+4D visualization of massive infrastructure digital twins.
+
+1131
+00:59:12,100 --> 00:59:16,000
+Bentley 现已推出集成了 Omniverse 的 LumenRT
+
+1132
+00:59:12,100 --> 00:59:16,000
+Bentley’s LumenRT with Omniverse is available now.
+
+1133
+00:59:16,000 --> 00:59:18,700
+我们将在 GTC 上发布一个主要版本
+
+1134
+00:59:16,000 --> 00:59:18,733
+We are launching a major release at GTC.
+
+1135
+00:59:18,700 --> 00:59:24,800
+用于构建 Omniverse 扩展程序、应用和微服务的 Omniverse Kit
+
+1136
+00:59:18,733 --> 00:59:24,833
+Omniverse Kit for building Omniverse extensions,
+apps, and microservices.
+
+1137
+00:59:24,800 --> 00:59:32,500
+我们将发布 26 个制造业行业的格式转换器，以将工业工作流程连接到 Omniverse
+
+1138
+00:59:24,833 --> 00:59:32,500
+We are releasing 26 manufacturing format converters to connect industrial workflows to Omniverse.
+
+1139
+00:59:32,500 --> 00:59:42,000
+DeepSearch 是一个 AI 搜索引擎，可使用自然语言或图像来搜索未标记的大型 3D 素材库
+
+1140
+00:59:32,500 --> 00:59:42,033
+DeepSearch is an AI search engine for massive, untagged, 3D asset libraries using either natural language or images.
+
+1141
+00:59:42,000 --> 00:59:51,400
+Omniverse Replicator 框架用于生成物理属性准确的合成数据，以训练和测试 AI 模型
+
+1142
+00:59:42,033 --> 00:59:51,433
+Omniverse Replicator, a framework for generating physically accurate synthetic data to train and test AI models.
+
+1143
+00:59:51,400 --> 01:00:00,900
+Omnigraph 是多 GPU、多节点的计算引擎，用于运行数据中心级 Omniverse 应用
+
+1144
+00:59:51,433 --> 01:00:00,900
+And Omnigraph, a multi-GPU, multi-node, compute engine to run data-center-scale Omniverse applications.
+
+1145
+01:00:00,900 --> 01:00:08,900
+Omniverse Avatar 是一个非常大型的项目，提供用于构建虚拟形象或数字人的框架
+
+1146
+01:00:00,900 --> 01:00:08,900
+And, a very big project, Omniverse Avatar,
+a framework for building avatars, or digital humans.
+
+1147
+01:00:08,900 --> 01:00:15,400
+让我欢迎 Toy Jensen 归来，这是我们用 Omniverse Avatar 构建的应用
+
+1148
+01:00:08,900 --> 01:00:15,400
+Let me welcome back Toy Jensen,
+an application we built with Omniverse Avatar.
+
+1149
+01:00:15,400 --> 01:00:20,500
+请注意，Toy Jensen 并非录像。他是完全实时的
+
+1150
+01:00:15,400 --> 01:00:20,500
+Remember, Toy Jensen is not recorded.
+He is completely real-time.
+
+1151
+01:00:20,500 --> 01:00:26,600
+他能进行眼神交流和对话，而且完全动画化
+
+1152
+01:00:20,500 --> 01:00:26,600
+Making eye contact, making conversation, and fully animated.
+
+1153
+01:00:26,600 --> 01:00:31,400
+嘿，TJ！我想问你几个问题
+
+1154
+01:00:26,600 --> 01:00:31,400
+Hey TJ! I have a few questions for you.
+
+1155
+01:00:31,400 --> 01:00:33,700
+好的！有问必答
+
+1156
+01:00:31,400 --> 01:00:33,700
+Sure! Ask me anything.
+
+1157
+01:00:33,700 --> 01:00:35,900
+什么是合成生物学？
+
+1158
+01:00:33,700 --> 01:00:35,933
+What is synthetic biology?
+
+1159
+01:00:37,300 --> 01:00:44,000
+合成生物学是指在多个层级设计生物系统，包括单个分子、整个细胞
+
+1160
+01:00:37,300 --> 01:00:44,000
+Synthetic Biology is about designing biological systems at multiple levels from individual molecules up to whole cells
+
+1161
+01:00:44,000 --> 01:00:48,700
+甚至是组织和器官等多细胞组合，以执行特定功能
+
+1162
+01:00:44,000 --> 01:00:48,700
+and even multicellular assemblies like
+tissues and organs to perform specific functions.
+
+1163
+01:00:48,700 --> 01:00:53,200
+它也被称为 SynBio，代表“合成生命”
+
+1164
+01:00:48,700 --> 01:00:53,200
+It is also known as SynBio which stands for 'synthetic life'.
+
+1165
+01:00:53,200 --> 01:00:55,700
+能否举几个例子？
+
+1166
+01:00:53,200 --> 01:00:55,700
+Can you give me some examples?
+
+1167
+01:00:57,000 --> 01:01:03,900
+合成生物学目前的一些用途包括制作生物燃料；研制具有天然生物体所没有的实用特性的细菌；
+
+1168
+01:00:57,000 --> 01:01:03,933
+Some current uses of synthetic biology involve creating biofuels; engineering bacteria with useful properties not found
+
+1169
+01:01:03,900 --> 01:01:09,400
+开发能够检测环境细菌的生物传感器；
+
+1170
+01:01:03,933 --> 01:01:09,433
+in naturally occurring organisms; developing biosensors
+capable of detecting environmental toxins;
+
+1171
+01:01:09,400 --> 01:01:15,800
+生产生物制药；通过发酵（而不是石油化工）制造化学品
+
+1172
+01:01:09,433 --> 01:01:15,800
+producing biopharmaceuticals; and manufacturing chemicals via fermentation rather than petrochemicals.
+
+1173
+01:01:16,500 --> 01:01:19,900
+在医疗领域有哪些应用？
+
+1174
+01:01:16,533 --> 01:01:19,900
+What are its medical applications?
+
+1175
+01:01:19,900 --> 01:01:27,200
+合成生物学在医学领域应用广泛。例如，合成生物学用于研发新疫苗
+
+1176
+01:01:19,900 --> 01:01:27,200
+Synthetic biology has many medical applications. For example, synthetic biology is being used to develop new vaccines,
+
+1177
+01:01:27,200 --> 01:01:30,800
+新抗生素和癌症新疗法
+
+1178
+01:01:27,200 --> 01:01:30,833
+new antibiotics, and new treatments for cancer.
+
+1179
+01:01:30,800 --> 01:01:36,000
+TJ，这真的太棒了！能否说说你是如何制作出来的？
+
+1180
+01:01:30,833 --> 01:01:36,000
+TJ that was great! Can you tell us how you were made?
+
+1181
+01:01:36,000 --> 01:01:39,500
+Avatar 是一个基于 Omniverse 平台构建的框架
+
+1182
+01:01:36,000 --> 01:01:39,533
+Avatar is a framework built on the Omniverse platform.
+
+1183
+01:01:39,500 --> 01:01:44,700
+使用此框架，您可以快速构建和部署像我一样的虚拟形象，以用于各种用途
+
+1184
+01:01:39,533 --> 01:01:44,733
+It lets you quickly build and deploy
+Avatars like me for a wide range of uses.
+
+1185
+01:01:44,700 --> 01:01:50,200
+首先从我的声音开始。它完全由 Riva 的文本转语音 RADTTS 合成
+
+1186
+01:01:44,733 --> 01:01:50,200
+It starts with my voice. It is fully synthesized
+by Riva’s Text to Speech RADTTS
+
+1187
+01:01:50,200 --> 01:01:55,300
+而且可用于通过 Omniverse Audio2Face 驱动我的面部动画
+
+1188
+01:01:50,200 --> 01:01:55,333
+and is also used to drive my
+facial animation using Omniverse Audio2Face.
+
+1189
+01:01:55,300 --> 01:02:00,400
+接下来，Omniverse 动画的动画图形用于定义并控制我的动作
+
+1190
+01:01:55,333 --> 01:02:00,400
+Next, Omniverse animation’s animation graph
+is used to define and govern my movement,
+
+1191
+01:02:00,400 --> 01:02:04,400
+包括手和手臂的动作，以及细微的头部和身体运动
+
+1192
+01:02:00,400 --> 01:02:04,400
+from hand and arm movements to subtle head and body motion.
+
+1193
+01:02:04,400 --> 01:02:10,000
+NVIDIA 的开源材质定义语言 (MDL) 可增加触感，让我炫酷的夹克
+
+1194
+01:02:04,400 --> 01:02:10,000
+NVIDIA’s open-source Material Definition Language, MDL,
+adds the touches that make my cool jacket
+
+1195
+01:02:10,000 --> 01:02:17,000
+看起来就像合成皮革，而不仅仅是塑料，而 RTX 渲染器能实时以高保真度呈现我的形象
+
+1196
+01:02:10,000 --> 01:02:17,033
+look like synthetic leather and not just plastic, while the RTX renderer brings me to life in high-fidelity—in real-time.
+
+1197
+01:02:17,000 --> 01:02:22,700
+最后，得益于 Riva 中的最新对话式 AI 技术和 Megatron 530B NLP 模型
+
+1198
+01:02:17,033 --> 01:02:22,700
+Finally, I can listen and talk to you thanks to the latest in conversational AI technologies from Riva
+
+1199
+01:02:22,700 --> 01:02:30,100
+（我们训练过的最大语言模型之一），我可以听你讲，也可以跟你聊天
+
+1200
+01:02:22,700 --> 01:02:30,133
+and our Megatron 530B NLP model, one of the
+largest language models ever trained.
+
+1201
+01:02:30,100 --> 01:02:34,900
+Megatron 帮我回答了 Jensen 问我的所有难题
+
+1202
+01:02:30,133 --> 01:02:34,900
+Megatron helps me answer all those
+tough questions Jensen throws at me.
+
+1203
+01:02:34,900 --> 01:02:41,000
+同样令人兴奋的是，我可以从云、数据中心或其他任何分解系统运行
+
+1204
+01:02:34,900 --> 01:02:41,000
+What’s also exciting is that I can be run from the cloud,
+the data center, or any other disaggregated system,
+
+1205
+01:02:41,000 --> 01:02:43,000
+这都要归功于 Tokkio
+
+1206
+01:02:41,000 --> 01:02:43,000
+all thanks to Tokkio.
+
+1207
+01:02:43,000 --> 01:02:49,200
+Tokkio 是一款使用 Omniverse Avatar 构建的应用，它将客户服务 AI 引入零售店
+
+1208
+01:02:43,000 --> 01:02:49,200
+Tokkio is an application built with Omniverse Avatar
+and it brings customer service AI to retail stores,
+
+1209
+01:02:49,200 --> 01:02:51,700
+快餐餐厅，甚至网络
+
+1210
+01:02:49,200 --> 01:02:51,700
+quick-service restaurants, and even the web.
+
+1211
+01:02:51,700 --> 01:03:00,000
+它使用计算机视觉、Riva 语音 AI 和 NVIDIA NeMO 等 NVIDIA AI 模型和技术打造而成
+
+1212
+01:02:51,700 --> 01:03:00,033
+It comes to life using NVIDIA AI models and technology like computer vision, Riva speech AI, and NVIDIA NeMO.
+
+1213
+01:03:00,000 --> 01:03:05,900
+而且，由于 Tokkio 在我们的统一计算框架（或 UCF）上运行，因此可以从云端横向扩展
+
+1214
+01:03:00,033 --> 01:03:05,933
+And because it runs on our unified computing framework,
+or UCF, Tokkio can scale-out from the cloud
+
+1215
+01:03:05,900 --> 01:03:09,300
+当客户需要像我一样实用的虚拟形象时，满足他们的需求
+
+1216
+01:03:05,933 --> 01:03:09,333
+and go wherever customers need helpful avatars like me,
+
+1217
+01:03:09,300 --> 01:03:13,600
+并且 Tokkio 具有非常敏锐且响应灵敏的感知力，最重要的是，非常自然
+
+1218
+01:03:09,333 --> 01:03:13,633
+with senses that are fully acute
+and responsive, and above all, natural.
+
+1219
+01:03:13,600 --> 01:03:18,600
+下面请大家欣赏关于我的制作过程的简短视频。黄先生，您继续！
+
+1220
+01:03:13,633 --> 01:03:18,600
+I hope you enjoyed a quick overview of how I was made.
+Back to you, Jensen!
+
+1221
+01:03:19,600 --> 01:03:27,800
+如今的 AI 以感知和模式识别为中心，例如图像识别、语音理解
+
+1222
+01:03:19,600 --> 01:03:27,800
+Today’s AI centers around perception and pattern recognition, like recognizing an image, understanding speech,
+
+1223
+01:03:27,800 --> 01:03:32,400
+推荐视频节目或商品
+
+1224
+01:03:27,800 --> 01:03:32,433
+suggesting a video to watch, or recommending an item to buy.
+
+1225
+01:03:32,400 --> 01:03:39,400
+下一波 AI 浪潮是机器人，AI 也有相应的计划和行动
+
+1226
+01:03:32,433 --> 01:03:39,400
+The next wave of AI is robotics, where AI will also plan and act.
+
+1227
+01:03:39,400 --> 01:03:45,200
+NVIDIA 正在构建多个机器人平台 – 用于自动驾驶汽车的 DRIVE
+
+1228
+01:03:39,400 --> 01:03:45,233
+NVIDIA is building several robotics platforms –
+DRIVE for autonomous vehicles,
+
+1229
+01:03:45,200 --> 01:03:52,800
+用于操纵和控制系统的 Isaac、用于自主式基础架构的 Metropolis
+
+1230
+01:03:45,233 --> 01:03:52,833
+Isaac for maneuvering and manipulation systems,
+Metropolis for autonomous infrastructures,
+
+1231
+01:03:52,800 --> 01:03:57,200
+以及用于机器人医疗器械的 Holoscan
+
+1232
+01:03:52,833 --> 01:03:57,200
+and Holoscan for robotic medical instruments.
+
+1233
+01:03:57,200 --> 01:04:06,200
+正如 NASA 认识到的，我们需要数字孪生来操作远处的机器人舰队
+
+1234
+01:03:57,200 --> 01:04:06,233
+And just as NASA recognized, we will need digital twins in order to operate fleets of robots that are far away.
+
+1235
+01:04:06,200 --> 01:04:12,700
+机器人系统的工作流程很复杂。我将它简化为四个支柱：
+
+1236
+01:04:06,233 --> 01:04:12,700
+The workflow of a robotic system is complex.
+I’ve simplified it here to four pillars:
+
+1237
+01:04:12,700 --> 01:04:15,900
+收集和生成真值数据；
+
+1238
+01:04:12,700 --> 01:04:15,900
+Collecting and generating ground truth data,
+
+1239
+01:04:15,900 --> 01:04:17,900
+创建 AI 模型；
+
+1240
+01:04:15,900 --> 01:04:17,933
+creating the AI model,
+
+1241
+01:04:17,900 --> 01:04:20,600
+使用数字孪生进行仿真；
+
+1242
+01:04:17,933 --> 01:04:20,633
+simulating with a digital twin,
+
+1243
+01:04:20,600 --> 01:04:22,700
+操作机器人
+
+1244
+01:04:20,633 --> 01:04:22,733
+operating the robot.
+
+1245
+01:04:22,700 --> 01:04:25,500
+Omniverse 是整个工作流程的核心
+
+1246
+01:04:22,733 --> 01:04:25,533
+Omniverse is central throughout.
+
+1247
+01:04:25,500 --> 01:04:31,800
+DRIVE 是我们的自动驾驶汽车系统，本质上是 AI 司机
+
+1248
+01:04:25,533 --> 01:04:31,800
+DRIVE is our autonomous vehicle system,
+it’s essentially an AI chauffeur.
+
+1249
+01:04:31,800 --> 01:04:37,200
+与我们所有的平台一样，NVIDIA DRIVE 是全栈的端到端平台
+
+1250
+01:04:31,800 --> 01:04:37,200
+As with all of our platforms,
+NVIDIA DRIVE is full-stack, end-to-end,
+
+1251
+01:04:37,200 --> 01:04:41,600
+并且对开发者开放，让他们既可使用整个平台，也可使用其中的一部分
+
+1252
+01:04:37,200 --> 01:04:41,600
+and open for developers to use in-whole or in-parts.
+
+1253
+01:04:41,600 --> 01:04:49,500
+对于真值数据，我们使用 DeepMap 高精地图、人工标记数据和 Omniverse Replicator
+
+1254
+01:04:41,600 --> 01:04:49,500
+For ground truth data, we use our DeepMap HD mapping, human-labeled data, and Omniverse Replicator.
+
+1255
+01:04:49,500 --> 01:04:54,600
+为了训练 AI 模型，我们使用 NVIDIA AI 和 DGX
+
+1256
+01:04:49,500 --> 01:04:54,633
+To train the AI models, we use NVIDIA AI and DGX.
+
+1257
+01:04:54,600 --> 01:04:59,800
+Omniverse 中的 DRIVE Sim 在 OVX 上运行，是数字孪生
+
+1258
+01:04:54,633 --> 01:04:59,833
+DRIVE Sim in Omniverse, running on OVX, is the digital twin.
+
+1259
+01:04:59,800 --> 01:05:07,600
+DRIVE AV 是一款运行在车载 Orin 计算平台上的自动驾驶应用
+
+1260
+01:04:59,833 --> 01:05:07,600
+And DRIVE AV is the autonomous driving application
+running on our Orin computer in the car.
+
+1261
+01:05:07,600 --> 01:05:11,700
+让我们通过最新版 NVIDIA Drive 来享受驾驶吧
+
+1262
+01:05:07,600 --> 01:05:11,700
+Let’s enjoy a ride with the latest build of NVIDIA Drive.
+
+1263
+01:05:11,700 --> 01:05:15,300
+我们将带您沿着圣何塞的高速公路和市区路线行驶
+
+1264
+01:05:11,700 --> 01:05:15,300
+We will take you through a highway and urban route in San Jose.
+
+1265
+01:05:15,300 --> 01:05:19,300
+您可以在可信度渲染视图中看到汽车看见的场景
+
+1266
+01:05:15,300 --> 01:05:19,333
+You can see what the car sees
+from the confidence view rendering
+
+1267
+01:05:19,300 --> 01:05:24,300
+我们将在复杂场景中驾驶，例如拥挤的交叉路口
+
+1268
+01:05:19,333 --> 01:05:24,300
+We will navigate complex situations
+such as crowded intersections,
+
+1269
+01:05:24,300 --> 01:05:29,100
+AI 司机将会是您友善的驾驶伙伴
+
+1270
+01:05:24,300 --> 01:05:29,100
+And your AI chauffeur will be a friendly driving companion.
+
+1271
+01:05:45,300 --> 01:05:49,300
+欢迎 Daniel。我看到 Hubert 发来一条短信
+
+1272
+01:05:45,300 --> 01:05:49,300
+Welcome Daniel. I see a text from Hubert asking,
+
+1273
+01:05:49,300 --> 01:05:53,300
+“你能在圣何塞市中心接我吗？” 要我带您去吗？
+
+1274
+01:05:49,300 --> 01:05:53,333
+“Can you pick me up from the San Jose Civic?”
+Should I take you there?
+
+1275
+01:05:53,300 --> 01:05:54,266
+是的，谢谢
+
+1276
+01:05:53,333 --> 01:05:54,933
+Yes, please.
+
+1277
+01:05:54,466 --> 01:05:56,766
+好的，带您去圣何塞市中心
+
+1278
+01:05:55,333 --> 01:05:58,400
+Okay, taking you to San Jose Civic.
+
+1279
+01:05:57,900 --> 01:05:59,033
+启动 DRIVE Pilot
+
+1280
+01:05:59,200 --> 01:06:00,700
+StartDRIVE Pilot.
+
+1281
+01:05:59,200 --> 01:06:01,666
+好的，启动 DRIVE Pilot
+
+1282
+01:06:00,900 --> 01:06:03,800
+OK, starting DRIVE Pilot.
+
+1283
+01:06:07,666 --> 01:06:10,066
+能否告诉 Hubert 我们已在路上？
+
+1284
+01:06:08,900 --> 01:06:10,600
+Can you tell Hubert we’re on our way?
+
+1285
+01:06:10,433 --> 01:06:12,700
+当然，我会给他发条短信
+
+1286
+01:06:11,600 --> 01:06:13,900
+Sure, I’ll send him a text.
+
+1287
+01:06:42,733 --> 01:06:44,800
+我看到 Hubert 了
+
+1288
+01:06:44,000 --> 01:06:45,700
+I see Hubert.
+
+1289
+01:06:48,900 --> 01:06:51,500
+能带我去 Rivermark Hotel 吗？
+
+1290
+01:06:49,933 --> 01:06:52,500
+Can you please take me to Rivermark Hotel?
+
+1291
+01:06:51,500 --> 01:06:54,400
+好的，带您去 Rivermark Hotel
+
+1292
+01:06:52,500 --> 01:06:55,433
+Okay, taking you to Rivermark Hotel.
+
+1293
+01:06:54,400 --> 01:06:55,700
+谢谢你来接我！
+
+1294
+01:06:55,433 --> 01:06:56,700
+Thanks for picking me up!
+
+1295
+01:06:55,700 --> 01:06:58,600
+好的。启动 DRIVE Pilot
+
+1296
+01:06:56,700 --> 01:06:59,600
+Definitely. Start DRIVE Pilot.
+
+1297
+01:06:58,600 --> 01:07:01,000
+好的，启动 DRIVE Pilot
+
+1298
+01:06:59,600 --> 01:07:02,000
+Ok, starting DRIVE Pilot.
+
+1299
+01:07:04,400 --> 01:07:06,300
+那里是什么建筑？
+
+1300
+01:07:05,700 --> 01:07:07,433
+What building is that there?
+
+1301
+01:07:06,300 --> 01:07:09,600
+那是圣何塞表演艺术中心
+
+1302
+01:07:07,433 --> 01:07:10,633
+That building is San Jose Center for the Performing Arts
+
+1303
+01:07:09,600 --> 01:07:11,300
+那里在上演什么节目？
+
+1304
+01:07:10,633 --> 01:07:12,600
+What shows are playing there?
+
+1305
+01:07:11,300 --> 01:07:13,300
+今晚演出的节目是《猫》
+
+1306
+01:07:12,600 --> 01:07:14,600
+Cats is playing tonight.
+
+1307
+01:07:13,300 --> 01:07:16,300
+可以给我买两张星期六晚上的票吗？
+
+1308
+01:07:14,600 --> 01:07:17,600
+Can you get me two tickets for Saturday night?
+
+1309
+01:07:16,300 --> 01:07:18,100
+好的
+
+1310
+01:07:17,600 --> 01:07:19,400
+Yes I can.
+
+1311
+01:07:43,233 --> 01:07:45,166
+您已抵达目的地
+
+1312
+01:07:44,633 --> 01:07:46,733
+You have arrived at your destination.
+
+1313
+01:07:45,566 --> 01:07:47,433
+请停车
+
+1314
+01:07:46,733 --> 01:07:48,800
+Please park the vehicle.
+
+1315
+01:07:47,833 --> 01:07:51,533
+好的，找到停车位
+
+1316
+01:07:49,233 --> 01:07:52,933
+OK, finding a parking spot.
+
+1317
+01:08:14,000 --> 01:08:23,100
+Hyperion 8 是我们自动驾驶汽车的硬件架构，同时它也是整个 DRIVE 平台的构建基础
+
+1318
+01:08:14,000 --> 01:08:23,100
+Hyperion 8 is the hardware architecture of our self-driving car and it’s what we build our entire DRIVE platform on.
+
+1319
+01:08:23,100 --> 01:08:31,600
+它由以下硬件组成：多个传感器、多个网络、
+两台司机自动驾驶计算机、一台服务员 AI 计算机、一个任务记录器
+
+1320
+01:08:23,100 --> 01:08:31,600
+It consists of sensors, networks, two chauffeur AV computers, one concierge AI computer, a mission recorder,
+
+1321
+01:08:31,600 --> 01:08:34,100
+以及安全和网络安全系统
+
+1322
+01:08:31,600 --> 01:08:34,100
+and safety and cybersecurity systems.
+
+1323
+01:08:34,100 --> 01:08:36,500
+它是开放式架构
+
+1324
+01:08:34,100 --> 01:08:36,500
+And it’s open.
+
+1325
+01:08:36,500 --> 01:08:46,800
+Hyperion 8 可以使用 360 度摄像头、雷达、激光雷达和超声传感器套件实现全自动驾驶
+
+1326
+01:08:36,500 --> 01:08:46,800
+Hyperion 8 can achieve full self-driving with a 360-degree camera, radar, lidar, and ultrasonic sensor suite.
+
+1327
+01:08:46,800 --> 01:08:54,500
+Hyperion 8 将从 2024 年起搭载到梅赛德斯-奔驰汽车中，
+然后在 2025 年搭载到捷豹路虎汽车中
+
+1328
+01:08:46,800 --> 01:08:54,500
+Hyperion 8 will ship in Mercedes Benz cars starting in 2024, followed by Jaguar Land Rover in 2025.
+
+1329
+01:08:54,500 --> 01:09:01,200
+今天，我们宣布 Hyperion 9 将从 2026 年起搭载到汽车中
+
+1330
+01:08:54,500 --> 01:09:01,200
+Today, we are announcing Hyperion 9
+for cars shipping starting in 2026.
+
+1331
+01:09:01,200 --> 01:09:08,600
+Hyperion 9 将拥有 14 个摄像头、9 个雷达、3 个激光雷达和 20 个超声传感器
+
+1332
+01:09:01,200 --> 01:09:08,633
+Hyperion 9 will have 14 cameras,
+9 radars, 3 lidars, and 20 ultrasonics.
+
+1333
+01:09:08,600 --> 01:09:15,600
+总体而言，Hyperion 9 处理的传感器数据量将两倍于 Hyperion 8
+
+1334
+01:09:08,633 --> 01:09:15,600
+Overall, Hyperion 9 will process twice the amount
+of sensor data compared to Hyperion 8,
+
+1335
+01:09:15,600 --> 01:09:21,700
+从而进一步增强安全性并扩大全自动驾驶的工作领域
+
+1336
+01:09:15,600 --> 01:09:21,700
+further enhancing safety and extending the
+operating domains of full self-driving.
+
+1337
+01:09:21,700 --> 01:09:28,800
+NVIDIA DRIVE Map 是一种多模态地图引擎，包括摄像头、雷达和激光雷达的数据
+
+1338
+01:09:21,700 --> 01:09:28,832
+NVIDIA DRIVE Map is a multi-modal map engine
+and includes camera, radar, and lidar.
+
+1339
+01:09:28,800 --> 01:09:35,200
+您可以单独定位到地图的每一层，这将提供多样性和冗余性
+
+1340
+01:09:28,832 --> 01:09:35,232
+You can localize to each layer of the map independently,
+which provides diversity and redundancy
+
+1341
+01:09:35,200 --> 01:09:37,399
+以实现最高级别的安全性
+
+1342
+01:09:35,233 --> 01:09:37,399
+for the highest level of safety.
+
+1343
+01:09:37,399 --> 01:09:45,299
+Drive Map 有两个地图引擎：真值测绘地图和众包车队地图
+
+1344
+01:09:37,399 --> 01:09:45,332
+Drive Map has two map engines – ground truth survey mapping and crowdsourced fleet mapping.
+
+1345
+01:09:45,300 --> 01:09:54,400
+到 2024 年底，我们预计绘制并创建北美、西欧和亚洲所有主要公路的数字孪生
+
+1346
+01:09:45,332 --> 01:09:54,433
+By the end of 2024, we expect to map and create a digital twin of all major highways in North America, Western Europe,
+
+1347
+01:09:54,400 --> 01:09:59,000
+– 总长度约为 50 万公里
+
+1348
+01:09:54,433 --> 01:09:59,000
+and Asia – about 500,000 kilometers.
+
+1349
+01:09:59,000 --> 01:10:03,600
+数百万辆乘用车将不断扩展和更新该地图
+
+1350
+01:09:59,000 --> 01:10:03,600
+The map will be expanded and updated
+by millions of passenger cars.
+
+1351
+01:10:04,500 --> 01:10:11,300
+我们正在构建地球级别的自动驾驶车队数字孪生，以探索新的算法和设计
+
+1352
+01:10:04,533 --> 01:10:11,300
+We are building an earth-scale digital twin of our AV fleet
+to explore new algorithms and designs,
+
+1353
+01:10:11,300 --> 01:10:15,000
+并在部署到车队之前测试软件
+
+1354
+01:10:11,300 --> 01:10:15,033
+and test software before deploying to the fleet.
+
+1355
+01:10:15,000 --> 01:10:21,100
+我们正在开发两种场景仿真方法，每种都以不同方式重建整个世界
+
+1356
+01:10:15,033 --> 01:10:21,100
+We are developing two methods to simulate scenarios – each reconstructs the world in different ways.
+
+1357
+01:10:21,100 --> 01:10:26,200
+其中一种方法从 NVIDIA Drive Map 开始，这种多模态地图引擎
+
+1358
+01:10:21,100 --> 01:10:26,200
+One method starts from NVIDIA Drive Map,
+a multi-modal map engine
+
+1359
+01:10:26,200 --> 01:10:31,100
+可为整个世界创建高度精确的 3D 表现形式
+
+1360
+01:10:26,200 --> 01:10:31,133
+that creates a highly accurate 3D representation of the world.
+
+1361
+01:10:31,100 --> 01:10:34,100
+地图加载到 Omniverse 中
+
+1362
+01:10:31,133 --> 01:10:34,133
+The map is loaded into Omniverse.
+
+1363
+01:10:38,100 --> 01:10:43,800
+建筑、植被和其他路边目标均会生成
+
+1364
+01:10:38,100 --> 01:10:43,800
+Buildings, vegetation, and
+other roadside objects are generated.
+
+1365
+01:10:48,100 --> 01:10:54,300
+系统对之前驾驶过程中遇到的运动目标、汽车和行人进行推理和定位
+
+1366
+01:10:48,100 --> 01:10:54,300
+From previous drives, the dynamic objects, cars, and pedestrians, are inferred, localized,
+
+1367
+01:10:54,300 --> 01:10:57,700
+然后放入数字孪生中
+
+1368
+01:10:54,300 --> 01:10:57,700
+and placed into the digital twin.
+
+1369
+01:11:02,600 --> 01:11:09,200
+我们可以将每个运动目标生成动画，或向其分配 AI 行为模型
+
+1370
+01:11:02,600 --> 01:11:09,233
+Each dynamic object can be animated or
+assigned an AI behavior model.
+
+1371
+01:11:12,600 --> 01:11:19,700
+还可以应用域随机化来生成多样化且合理的挑战性场景
+
+1372
+01:11:12,600 --> 01:11:19,733
+Domain randomization can be applied to generate
+diverse and plausible challenging scenarios.
+
+1373
+01:11:26,600 --> 01:11:34,100
+第二种方法使用神经图形 AI 和 Omniverse，将预先录制的驾驶视频
+
+1374
+01:11:26,600 --> 01:11:34,133
+A second approach uses Neural Graphics AI and
+Omniverse to transform a pre-recorded drive video
+
+1375
+01:11:34,100 --> 01:11:38,200
+转换为可回放和可修改的驾驶过程
+
+1376
+01:11:34,133 --> 01:11:38,200
+into a reenactable and modifiable drive.
+
+1377
+01:11:38,200 --> 01:11:41,800
+我们首先重建 3D 场景
+
+1378
+01:11:38,200 --> 01:11:41,800
+We start by reconstructing the scene in 3D.
+
+1379
+01:11:41,800 --> 01:11:46,700
+系统会识别并移除运动的目标，背景被恢复
+
+1380
+01:11:41,800 --> 01:11:46,733
+Dynamic objects are recognized and removed,
+and the background is restored.
+
+1381
+01:11:46,700 --> 01:11:51,900
+重建场景后，我们可以改变现有车辆的行为
+
+1382
+01:11:46,733 --> 01:11:51,933
+After scene reconstruction, we can
+change the behavior of existing vehicles
+
+1383
+01:11:51,900 --> 01:11:57,000
+或添加可完全控制、在交通环境下真实反应的车辆
+
+1384
+01:11:51,933 --> 01:11:57,000
+or add fully controllable vehicles
+that behave realistically to traffic.
+
+1385
+01:11:57,000 --> 01:12:05,100
+重新生成的驾驶过程，结合 3D 几何图形和基于物理效果的材质，让我们可以为场景重新打光
+
+1386
+01:11:57,000 --> 01:12:05,133
+The regenerated drive, with 3D geometry, and physically based materials, allow us to properly re-illuminate the scene,
+
+1387
+01:12:05,100 --> 01:12:09,100
+应用物理效果和仿真激光雷达等传感器
+
+1388
+01:12:05,133 --> 01:12:09,133
+apply physics, and simulate sensors, like LIDAR.
+
+1389
+01:12:09,100 --> 01:12:16,300
+现在，可以重新运行预先录制的场景，并运用于闭环仿真和测试
+
+1390
+01:12:09,133 --> 01:12:16,300
+The pre-recorded scene is now reenactable and can be
+used for closed-loop simulation and testing.
+
+1391
+01:12:17,000 --> 01:12:24,300
+DRIVE Map 和 DRIVE Sim 包含 NVIDIA 研究工作取得的突破性 AI 成果，
+展示了 Omniverse 数字孪生
+
+1392
+01:12:17,000 --> 01:12:24,300
+DRIVE Map and DRIVE Sim, with AI breakthroughs by NVIDIA research, showcase the power of Omniverse digital twin
+
+1393
+01:12:24,300 --> 01:12:27,400
+在推动自动驾驶汽车开发方面的力量
+
+1394
+01:12:24,300 --> 01:12:27,433
+to advance the development of autonomous vehicles.
+
+1395
+01:12:29,200 --> 01:12:38,200
+NVIDIA DRIVE Map、DRIVE Sim、搭载 Orin 的 Hyperion 8 和 DRIVE AV 栈
+
+1396
+01:12:29,200 --> 01:12:38,200
+NVIDIA DRIVE Map, DRIVE Sim,
+Hyperion 8 with Orin, and DRIVE AV stacks
+
+1397
+01:12:38,200 --> 01:12:41,900
+既可单独使用，也可作为一个整体使用
+
+1398
+01:12:38,200 --> 01:12:41,900
+are available independently or together as a whole.
+
+1399
+01:12:41,900 --> 01:12:46,200
+电动汽车已促使业界对汽车架构进行彻底的重新设计
+
+1400
+01:12:41,900 --> 01:12:46,200
+Electric vehicles have forced a
+complete redesign of car architectures.
+
+1401
+01:12:46,200 --> 01:12:54,500
+未来的汽车将高度可编程，从内置许多嵌入式控制器发展为高度集中式的计算平台
+
+1402
+01:12:46,200 --> 01:12:54,500
+Future cars will be highly programmable, evolving from many embedded controllers to highly centralized computers.
+
+1403
+01:12:54,500 --> 01:13:01,200
+AI 和自动驾驶功能将在软件中提供，并在汽车生命周期内不断增强
+
+1404
+01:12:54,500 --> 01:13:01,200
+The AI and AV functionalities will be delivered in
+software and enhanced for the life of the car.
+
+1405
+01:13:01,200 --> 01:13:06,500
+NVIDIA Orin 携手多家公司共同打造这样的未来，已经取得巨大成功
+
+1406
+01:13:01,200 --> 01:13:06,500
+NVIDIA Orin has been enormously
+successful with companies building this future.
+
+1407
+01:13:06,500 --> 01:13:14,600
+Orin 是理想的集中式自动驾驶和 AI 计算平台，也是新一代电动汽车
+
+1408
+01:13:06,500 --> 01:13:14,600
+Orin is the ideal centralized AV and AI computer
+and is the engine of new-generation EVs,
+
+1409
+01:13:14,600 --> 01:13:17,500
+无人驾驶出租车、公共汽车和卡车的引擎
+
+1410
+01:13:14,600 --> 01:13:17,500
+robotaxis, shuttles, and trucks.
+
+1411
+01:13:17,500 --> 01:13:20,800
+Orin 本月开始发售
+
+1412
+01:13:17,500 --> 01:13:20,800
+Orin started shipping this month.
+
+1413
+01:13:20,800 --> 01:13:28,600
+今天，我们很高兴地宣布，全球第二大电动汽车制造商比亚迪
+
+1414
+01:13:20,800 --> 01:13:28,600
+Today we are thrilled to announce that BYD,
+the second-largest EV maker globally,
+
+1415
+01:13:28,600 --> 01:13:36,100
+将为 2023 年上半年开始投产的汽车搭载 DRIVE Orin 计算平台
+
+1416
+01:13:28,600 --> 01:13:36,100
+will adopt the DRIVE Orin computer for cars
+starting production in the first half of 2023.
+
+1417
+01:13:36,100 --> 01:13:42,400
+NVIDIA 自动驾驶车载计算机、软件和机器人 AI 基本上
+
+1418
+01:13:36,100 --> 01:13:42,400
+NVIDIA’s self-driving car computer, software,
+and robotics AI is essentially
+
+1419
+01:13:42,400 --> 01:13:47,800
+是与新一代医疗系统相同的计算管线
+
+1420
+01:13:42,400 --> 01:13:47,800
+ the same computing pipeline as
+next-generation medical systems.
+
+1421
+01:13:47,800 --> 01:13:54,300
+请允许我为大家展示 Holoscan 可以为一台名为光片显微镜的惊人仪器做些什么
+
+1422
+01:13:47,800 --> 01:13:54,300
+Let me show you what Holoscan can do for an incredible instrument called a lightsheet microscope.
+
+1423
+01:13:54,300 --> 01:14:01,600
+光片显微镜由诺贝尔奖得主 Eric Betzig 发明，可利用高分辨率荧光
+
+1424
+01:13:54,300 --> 01:14:01,633
+Invented by Nobel laureate Eric Betzig,
+lightsheet microscopes use high-resolution fluorescence
+
+1425
+01:14:01,600 --> 01:14:09,200
+创建细胞移动和分裂的影片，使得研究人员能够研究运动中的生物学
+
+1426
+01:14:01,633 --> 01:14:09,200
+to create a movie of cells moving and dividing, giving researchers the ability to study biology in motion.
+
+1427
+01:14:09,200 --> 01:14:22,100
+问题在于光片显微镜每小时可产生 3TB 的数据，这相当于 30 部 4K 电影的数据量
+
+1428
+01:14:09,200 --> 01:14:22,100
+The problem is that lightsheet microscopes produce 3TB
+of data per hour – the equivalent of 30 4K movies.
+
+1429
+01:14:22,100 --> 01:14:26,100
+处理 3TB 的数据需要长达一天的时间
+
+1430
+01:14:22,100 --> 01:14:26,100
+It takes up to a day to process the 3TB of data.
+
+1431
+01:14:26,100 --> 01:14:32,000
+借助 NVIDIA Clara Holoscan，我们可以对这些数据进行实时处理
+
+1432
+01:14:26,100 --> 01:14:32,000
+With NVIDIA Clara Holoscan,
+we can process the data in real-time.
+
+1433
+01:14:34,100 --> 01:14:41,300
+现在，借助 Clara Holoscan 和 NVIDIA Index，我们可以实时可视化大量活细胞
+
+1434
+01:14:34,100 --> 01:14:41,333
+Now with Clara Holoscan and NVIDIA index we can
+visualize the entire large volume of living cells in real time
+
+1435
+01:14:41,300 --> 01:14:45,000
+这些数据是直接从显微镜记录下来的
+
+1436
+01:14:41,333 --> 01:14:45,000
+as the data is being recorded directly from the microscope.
+
+1437
+01:14:45,000 --> 01:14:49,500
+通过观察这些活的癌细胞的移动情况，我们可以同时看到正常、健康的生物特征
+
+1438
+01:14:45,000 --> 01:14:49,533
+Watching these living cancer cells move about,
+we can see normal healthy biology
+
+1439
+01:14:49,500 --> 01:14:52,400
+及其恶化过程
+
+1440
+01:14:49,533 --> 01:14:52,400
+and maligent processes at the same time.
+
+1441
+01:14:52,400 --> 01:14:59,300
+蓝色荧光标记的细胞核从一个细胞分裂为两个细胞
+
+1442
+01:14:52,400 --> 01:14:59,300
+The fluorescent marker rendered in blue marks nuclei,
+which we see splitting to form two cells from one cell.
+
+1443
+01:14:59,300 --> 01:15:06,500
+癌症的一个标志是，与正常的健康细胞相比，细胞分裂更频繁，错误检查更少
+
+1444
+01:14:59,300 --> 01:15:06,533
+A hallmark of cancer is cell division occurring more frequently and with less error checking than normal, healthy cells.
+
+1445
+01:15:06,500 --> 01:15:10,700
+加州大学伯克利分校的晶格光片显微镜具有超高分辨率
+
+1446
+01:15:06,533 --> 01:15:10,733
+Using Berkeley’s lattice light sheet microscope,
+the ultimate-high resolution
+
+1447
+01:15:10,700 --> 01:15:16,700
+借此科学家能够发现隐藏在普通光学器件中的东西，这是 使用传统显微镜无法观察到的
+
+1448
+01:15:10,733 --> 01:15:16,733
+allows scientists to see what is hidden to normal light optics – not seen using traditional microscopes.
+
+1449
+01:15:16,700 --> 01:15:23,400
+当我们放大时，观察到一个对于癌细胞系来说都非常罕见的情况 –
+
+1450
+01:15:16,733 --> 01:15:23,433
+As we zoom in, watch cancer cells display what is thought to be a rare event even for cancer cell lines –
+
+1451
+01:15:23,400 --> 01:15:26,200
+发现一个细胞分裂成 3 个细胞
+
+1452
+01:15:23,433 --> 01:15:26,233
+see one cell split into 3 cells.
+
+1453
+01:15:26,200 --> 01:15:32,500
+这一现象仅在一些科学出版物中有过零星报道
+
+1454
+01:15:26,233 --> 01:15:32,500
+This phenomenon has only been reported
+anecdotally in a couple of scientific publications.
+
+1455
+01:15:32,500 --> 01:15:39,400
+科学家尚不知道我们将看到什么，但现在借助实时处理和可视化技术
+
+1456
+01:15:32,500 --> 01:15:39,400
+Scientists do not yet know what we will see – but this technique, enabled with real-time processing and visualization,
+
+1457
+01:15:39,400 --> 01:15:44,600
+科学界可以发现此类的未见过的事件
+
+1458
+01:15:39,400 --> 01:15:44,600
+now allows the scientific community
+to discover new unseen events like this.
+
+1459
+01:15:44,600 --> 01:15:47,400
+我们来看看未来的发展情况
+
+1460
+01:15:44,600 --> 01:15:47,400
+Let’s see what the future has in store.
+
+1461
+01:15:47,400 --> 01:15:52,800
+Clara Holoscan 是一个开放、可扩展的机器人平台
+
+1462
+01:15:47,400 --> 01:15:52,800
+Clara Holoscan is an open, scalable robotics platform.
+
+1463
+01:15:52,800 --> 01:16:00,600
+Clara Holoscan 的设计符合 IEC-62304 医疗级规格
+
+1464
+01:15:52,800 --> 01:16:00,600
+Clara Holoscan is designed to the
+IEC-62304 medical-grade specification
+
+1465
+01:16:00,600 --> 01:16:04,300
+并达到极高的设备安全和保障级别
+
+1466
+01:16:00,600 --> 01:16:04,300
+and for the highest device safety and security level.
+
+1467
+01:16:04,300 --> 01:16:13,100
+Holoscan 的计算量惊人。其核心计算机为 Orin 和 ConnectX-7，并可选配 GPU
+
+1468
+01:16:04,300 --> 01:16:13,100
+The amount of computation in Holoscan is insane.
+The core computer is Orin and CX7, with an optional GPU.
+
+1469
+01:16:13,100 --> 01:16:19,700
+Holoscan 开发平台目前向早期体验客户开放，正式上市时间为 5 月
+
+1470
+01:16:13,100 --> 01:16:19,733
+Holoscan development platforms are available for early
+access customers today, general availability in May,
+
+1471
+01:16:19,700 --> 01:16:24,400
+并在 2023 年第一季度完成医疗级准备
+
+1472
+01:16:19,733 --> 01:16:24,400
+and medical-grade readiness in Q1 2023.
+
+1473
+01:16:24,400 --> 01:16:30,300
+未来的医疗设备将是 AI 仪器的天下，用于辅助诊断或手术
+
+1474
+01:16:24,400 --> 01:16:30,300
+Future medical devices will be AI instruments,
+assisting diagnostics or surgery.
+
+1475
+01:16:30,300 --> 01:16:40,000
+正如 NVIDIA DRIVE 是机器人车辆平台一样，Clara Holoscan 也是一个机器人医疗仪器平台
+
+1476
+01:16:30,300 --> 01:16:40,000
+Just as NVIDIA DRIVE is a platform for robotic vehicles, Clara Holoscan is a platform for robotic medical instruments.
+
+1477
+01:16:40,000 --> 01:16:45,800
+我们很高兴看到业界对 Holoscan 的热情，也很乐于与领先的医疗设备制造商
+
+1478
+01:16:40,000 --> 01:16:45,833
+We are delighted to see the enthusiasm around Holoscan
+and to partner with leading medical device makers
+
+1479
+01:16:45,800 --> 01:16:48,300
+和机器人手术公司合作
+
+1480
+01:16:45,833 --> 01:16:48,300
+and robotic surgery companies.
+
+1481
+01:16:48,300 --> 01:16:52,900
+对机器人和自动化的需求正呈指数级增长
+
+1482
+01:16:48,300 --> 01:16:52,933
+The demand for robotics and
+automation is increasing exponentially.
+
+1483
+01:16:52,900 --> 01:16:58,000
+一些机器人会移动，而其他机器人则会观察移动的目标
+
+1484
+01:16:52,933 --> 01:16:58,000
+Some robots move, and other robots watch things that move.
+
+1485
+01:16:58,000 --> 01:17:05,700
+NVIDIA 与数千客户和开发者合作构建机器人，广泛用于制造、零售、医疗健康
+
+1486
+01:16:58,000 --> 01:17:05,733
+NVIDIA is working with thousands of customers and developers, building robots for manufacturing, retail, healthcare,
+
+1487
+01:17:05,700 --> 01:17:10,900
+农业、建筑、机场和整个城市
+
+1488
+01:17:05,733 --> 01:17:10,900
+agriculture, construction, airports, and entire cities.
+
+1489
+01:17:10,900 --> 01:17:15,700
+NVIDIA 的机器人平台由 Metropolis 和 Isaac 组成 –
+
+1490
+01:17:10,900 --> 01:17:15,733
+NVIDIA’s robotics platforms consist of Metropolis and Isaac –
+
+1491
+01:17:15,700 --> 01:17:19,400
+Isaac 是一个为移动机器打造的平台
+
+1492
+01:17:15,733 --> 01:17:19,400
+Isaac is a platform for things that move.
+
+1493
+01:17:19,400 --> 01:17:24,400
+Metropolis 是一个跟踪移动目标的静止机器人
+
+1494
+01:17:19,400 --> 01:17:24,400
+Metropolis is a stationary robot tracking moving things.
+
+1495
+01:17:24,400 --> 01:17:34,300
+Metropolis 和 Isaac 平台（如同 DRIVE）包含 4 大核心：真值生成、AI 模型训练
+
+1496
+01:17:24,400 --> 01:17:34,300
+Metropolis and Isaac platforms, like DRIVE, consist of 4 pillars – Ground Truth generation, AI model training,
+
+1497
+01:17:34,300 --> 01:17:40,900
+Omniverse 数字孪生，以及配备了软件和计算机的机器人
+
+1498
+01:17:34,300 --> 01:17:40,900
+Omniverse digital twin, and the robot with
+robotic software and computer.
+
+1499
+01:17:40,900 --> 01:17:49,500
+Metropolis 已经取得了非凡的成绩 – 下载量达 30 万次，拥有 1000 多个生态系统合作伙伴
+
+1500
+01:17:40,900 --> 01:17:49,500
+Metropolis has been a phenomenal success – has been downloaded 300,000 times, has over 1,000 ecosystem partners,
+
+1501
+01:17:49,500 --> 01:17:55,700
+并在超过 100 万个设施中运营，其中包括 USPS、沃尔玛超市
+
+1502
+01:17:49,500 --> 01:17:55,733
+and operates in over a million facilities,
+including USPS, Walmart,
+
+1503
+01:17:55,700 --> 01:18:04,700
+特拉维夫和伦敦等城市、希思罗机场、Veolia 回收工厂和吉列橄榄球场
+
+1504
+01:17:55,733 --> 01:18:04,700
+cities including Tel Aviv and London, the Heathrow airport, Veolia recycling plants, and the Gillette football stadium.
+
+1505
+01:18:04,700 --> 01:18:13,300
+现在，客户可以使用 Omniverse 创建其架构的数字孪生，以提升安全性和效率
+
+1506
+01:18:04,700 --> 01:18:13,300
+And now, customers can use Omniverse to create digital twins of their facilities to drive better safety and efficiency.
+
+1507
+01:18:13,300 --> 01:18:18,100
+我们来看看百事公司是如何使用 Metropolis 和 Omniverse 的
+
+1508
+01:18:13,300 --> 01:18:18,133
+Let’s take a look at how the Pepsi company
+is using Metropolis and Omniverse.
+
+1509
+01:18:18,100 --> 01:18:21,600
+百事的产品每天在全球有超过 10 亿次的消费
+
+1510
+01:18:18,133 --> 01:18:21,600
+PepsiCo’s products are enjoyed
+1B times a day around the world.
+
+1511
+01:18:21,600 --> 01:18:27,600
+将如此多的产品分销至 200 多个区域市场需要 600 多个配送中心
+
+1512
+01:18:21,600 --> 01:18:27,633
+Getting this many products to their 200 regional markets requires over 600 distribution centers.
+
+1513
+01:18:27,600 --> 01:18:33,400
+提高供应链效率和环境可持续性是百事一直以来的重要目标
+
+1514
+01:18:27,633 --> 01:18:33,400
+Improving the efficiency and environmental sustainability of their supply chain is a key goal for Pepsi Co.
+
+1515
+01:18:33,400 --> 01:18:37,700
+为实现这一目标，他们采用 NVIDIA Omniverse 和 Metropolis 构建数字孪生
+
+1516
+01:18:33,400 --> 01:18:37,700
+To achieve this, they are building digital twins to
+simulate their packaging and distribution centers
+
+1517
+01:18:37,700 --> 01:18:40,400
+模拟包装和配送中心
+
+1518
+01:18:37,700 --> 01:18:40,400
+using NVIDIA Omniverse and Metropolis.
+
+1519
+01:18:40,400 --> 01:18:45,000
+这样他们能够在进行实物投资之前测试布局变化
+
+1520
+01:18:40,400 --> 01:18:45,000
+This allows them to test variations in layout
+and optimize workflows to accelerate throughput
+
+1521
+01:18:45,000 --> 01:18:47,300
+优化工作流程以加速吞吐量
+
+1522
+01:18:45,000 --> 01:18:47,300
+before making any physical investments.
+
+1523
+01:18:47,300 --> 01:18:52,300
+随着新产品和流程的推出，可以使用 Omniverse Replicator 和 NVIDIA TAO
+
+1524
+01:18:47,300 --> 01:18:52,333
+As new products and processes are introduced, Omniverse Replicator and NVIDIA TAO can be used to create
+
+1525
+01:18:52,300 --> 01:18:57,200
+创建逼真的合成数据，然后重新训练实时 AI 模型
+
+1526
+01:18:52,333 --> 01:18:57,233
+photorealistic synthetic data to re-train the real-time AI models.
+
+1527
+01:18:57,200 --> 01:19:01,500
+这些新模型和优化被转移到现实世界
+
+1528
+01:18:57,233 --> 01:19:01,500
+These updated models and optimizations
+are then transferred to the physical world.
+
+1529
+01:19:01,500 --> 01:19:06,500
+通过 NVIDIA Metropolis 应用（使用 AI 计算机视觉）实时监控和优化传送带速度
+
+1530
+01:19:01,500 --> 01:19:06,500
+From here, NVIDIA Metropolis applications monitor
+and adjust conveyer belt speed in real-time
+
+1531
+01:19:06,500 --> 01:19:12,700
+防止在长达数英里的传送带上发生堵塞和宕机
+
+1532
+01:19:06,500 --> 01:19:12,700
+using AI enabled computer vision helping prevent
+congestion and downtime across miles of conveyor belts.
+
+1533
+01:19:12,700 --> 01:19:17,000
+此外，借助 NVIDIA Fleet Command，所有这些应用均可从一个集中式控制平面
+
+1534
+01:19:12,700 --> 01:19:17,000
+What’s more, with NVIDIA Fleet Command,
+all these applications can be securely deployed
+
+1535
+01:19:17,000 --> 01:19:21,100
+安全部署于数百个配送中心并进行管理
+
+1536
+01:19:17,000 --> 01:19:21,100
+and managed across hundreds of
+distribution centers from one central plane.
+
+1537
+01:19:21,100 --> 01:19:27,000
+通过利用 NVIDIA Omniverse、Metropolis 和 Fleet Command，
+百事公司正在简化供应链运营
+
+1538
+01:19:21,100 --> 01:19:27,000
+By leveraging NVIDIA Omniverse, Metropolis, and Fleet Command, PepsiCo is streamlining supply chain operations,
+
+1539
+01:19:27,000 --> 01:19:31,500
+减少能源消耗和浪费，并推动可持续发展的使命
+
+1540
+01:19:27,000 --> 01:19:31,500
+reducing energy usage, and advancing
+their mission towards sustainability.
+
+1541
+01:19:34,800 --> 01:19:41,900
+机器人发展最快的领域之一是自主移动机器人 (AMR)
+
+1542
+01:19:34,800 --> 01:19:41,900
+One of the fastest-growing segments of robotics is AMR – autonomous mobile robots –
+
+1543
+01:19:41,900 --> 01:19:45,200
+本质上是室内的无人驾驶车
+
+1544
+01:19:41,900 --> 01:19:45,200
+essentially driverless cars for indoors.
+
+1545
+01:19:45,200 --> 01:19:49,300
+速度较低，但环境高度非结构化
+
+1546
+01:19:45,200 --> 01:19:49,333
+The speed is lower, but the environment is highly unstructured.
+
+1547
+01:19:49,300 --> 01:19:53,500
+目前有数千万个工厂、商店和餐厅
+
+1548
+01:19:49,333 --> 01:19:53,500
+There are 10’s of millions of factories, stores, and restaurants.
+
+1549
+01:19:53,500 --> 01:19:59,000
+以及面积达数亿平方英尺的仓储和运营中心
+
+1550
+01:19:53,500 --> 01:19:59,000
+And 100’s of millions of square feet of
+warehouse and fulfillment centers.
+
+1551
+01:19:59,000 --> 01:20:05,600
+今天，我们将发布 Isaac 的一个重要版本，即 Isaac for AMR
+
+1552
+01:19:59,000 --> 01:20:05,600
+Today, we have a major release of Isaac – Isaac for AMRs.
+
+1553
+01:20:05,600 --> 01:20:08,700
+我将着重介绍一下该版本的一些关键点
+
+1554
+01:20:05,600 --> 01:20:08,733
+Let me highlight some of the key elements of the release.
+
+1555
+01:20:08,700 --> 01:20:18,900
+与 DRIVE 平台一样，Isaac for AMR 也有四大核心，每个都单独可用，并且完全开放
+
+1556
+01:20:08,733 --> 01:20:18,900
+Isaac for AMRs, like the DRIVE platform, has four major pillars, each individually available, and completely open.
+
+1557
+01:20:18,900 --> 01:20:28,800
+用于真值生成的新 NVIDIA DeepMap、用于训练模型的 NVIDIA AI、搭载 Orin 的 AMR 机器人参考设计
+
+1558
+01:20:18,900 --> 01:20:28,800
+New NVIDIA DeepMap for Ground Truth generation, NVIDIA AI for training models, a reference AMR robot powered by Orin,
+
+1559
+01:20:28,800 --> 01:20:35,900
+Isaac 机器人技术堆栈中的新 Gem，以及基于 Omniverse 的新版 Isaac Sim.
+
+1560
+01:20:28,800 --> 01:20:35,933
+new gems in the Isaac robot stack,
+and the new Isaac Sim on Omniverse.
+
+1561
+01:20:35,900 --> 01:20:46,700
+首先，与 DRIVE Hyperion 一样，Isaac Nova 是一个 AMR 机器人系统参考设计，
+整个 Isaac 堆栈都基于此构建
+
+1562
+01:20:35,933 --> 01:20:46,700
+First, Isaac Nova, like DRIVE Hyperion, is a reference AMR robot system on which the entire Isaac stack is built.
+
+1563
+01:20:46,700 --> 01:20:54,700
+Nova 拥有 2 个摄像头、2 个激光雷达、8 个超声波雷达和 4 个鱼眼摄像头用于远程操作
+
+1564
+01:20:46,700 --> 01:20:54,700
+Nova has 2 cameras, 2 lidars, 8 ultrasonics,
+and 4 fisheye cameras for teleoperation.
+
+1565
+01:20:54,700 --> 01:21:01,500
+今天，我们宣布推出 Jetson Orin 开发者套件
+
+1566
+01:20:54,700 --> 01:21:01,500
+We’re announcing Jetson Orin developer
+kits are available today.
+
+1567
+01:21:01,500 --> 01:21:04,700
+Nova AMR 将于第二季度上市
+
+1568
+01:21:01,500 --> 01:21:04,700
+Nova AMR will be available in Q2.
+
+1569
+01:21:04,700 --> 01:21:12,000
+Nova AMR 配备 NVIDIA 新的 DeepMap LIDAR 制图系统，您可以扫描
+
+1570
+01:21:04,700 --> 01:21:12,033
+Nova AMRs can be outfitted with NVIDIA’s new
+DeepMap LIDAR mapping system so you can scan
+
+1571
+01:21:12,000 --> 01:21:17,700
+和重建环境，以进行路线规划和数字孪生仿真
+
+1572
+01:21:12,033 --> 01:21:17,700
+and reconstruct your environment for route
+planning and digital twin simulations.
+
+1573
+01:21:17,700 --> 01:21:27,000
+Isaac 机器人 SDK 包括感知、定位、建图、规划和导航模块
+
+1574
+01:21:17,700 --> 01:21:27,000
+Isaac robot SDK includes perception, localization,
+mapping, planning, and navigation modules.
+
+1575
+01:21:27,000 --> 01:21:32,600
+今天，我们宣布用于构建 AMR 的重要更新
+
+1576
+01:21:27,000 --> 01:21:32,633
+And today we’re announcing major updates to build an AMR.
+
+1577
+01:21:32,600 --> 01:21:36,500
+Isaac Gems 包括目标和人员检测
+
+1578
+01:21:32,633 --> 01:21:36,500
+Isaac includes gems like object and person detection,
+
+1579
+01:21:36,500 --> 01:21:42,100
+3D 位姿估计、LIDAR 和视觉 SLAM 定位和建图
+
+1580
+01:21:36,500 --> 01:21:42,133
+3D pose estimation, LIDAR and
+visual SLAM localization and mapping,
+
+1581
+01:21:42,100 --> 01:21:49,100
+3D 环境重建、自由空间感知、使用强化学习的小车对接
+
+1582
+01:21:42,133 --> 01:21:49,100
+3D environment reconstruction, free space perception,
+dolly docking using reinforcement learning,
+
+1583
+01:21:49,100 --> 01:21:55,500
+导航堆栈、与 NVIDIA cuOpt 集成以进行实时规划
+
+1584
+01:21:49,100 --> 01:21:55,500
+a navigation stack, integration with
+NVIDIA cuOpt for real-time planning,
+
+1585
+01:21:55,500 --> 01:22:00,200
+以及机械臂运动规划和机器人运动学等重要功能
+
+1586
+01:21:55,500 --> 01:22:00,200
+and robotic arm motion planning and kinematics, and more.
+
+1587
+01:22:00,200 --> 01:22:03,000
+还有一个用于远程操作的 SDK
+
+1588
+01:22:00,200 --> 01:22:03,033
+There is even an SDK for teleoperation.
+
+1589
+01:22:03,000 --> 01:22:08,700
+最后，Omniverse 可支持构建 Isaac Replicator（用于生成合成数据）
+
+1590
+01:22:03,033 --> 01:22:08,700
+Finally, Omniverse is used to build
+Isaac Replicator for synthetic data generation,
+
+1591
+01:22:08,700 --> 01:22:14,400
+Isaac Gym（用于训练机器人），以及 Isaac Sim（用于数字孪生）
+
+1592
+01:22:08,700 --> 01:22:14,400
+Isaac Gym to train robots, and Isaac Sim for digital twins.
+
+1593
+01:22:14,400 --> 01:22:18,600
+Isaac 开发流程全程集成了 Omniverse
+
+1594
+01:22:14,400 --> 01:22:18,600
+The Isaac development flow integrates Omniverse throughout.
+
+1595
+01:22:18,600 --> 01:22:23,800
+Isaac Gym 强调了 Omniverse 的物理仿真精度的重要性
+
+1596
+01:22:18,600 --> 01:22:23,833
+Isaac Gym highlights the importance of
+Omniverse’s physics simulation accuracy.
+
+1597
+01:22:23,800 --> 01:22:31,100
+在 Isaac Gym 中，一个新机器人通过使用深度强化学习执行数千到数百万次学习
+
+1598
+01:22:23,833 --> 01:22:31,133
+In Isaac Gym, a new robot learns a new skill
+by performing it thousands to millions of times
+
+1599
+01:22:31,100 --> 01:22:33,600
+来掌握一项新技能
+
+1600
+01:22:31,133 --> 01:22:33,600
+using deep reinforcement learning.
+
+1601
+01:22:33,600 --> 01:22:42,700
+然后，经过训练的 AI 大脑被下载到物理机器人中。由于 Omniverse在物理上是精确的，因此机器人
+
+1602
+01:22:33,600 --> 01:22:42,700
+The trained AI brain is then downloaded into the physical robot. And since Omniverse is physically accurate, the robot,
+
+1603
+01:22:42,700 --> 01:22:48,500
+在获得其方位后，将掌握其在数字孪生中的技能
+
+1604
+01:22:42,700 --> 01:22:48,500
+after getting its bearings,
+should adopt the skills of its digital twin.
+
+1605
+01:22:48,500 --> 01:22:49,800
+一起来看一下
+
+1606
+01:22:48,500 --> 01:22:49,800
+Let’s take a look.
+
+1607
+01:22:50,300 --> 01:22:55,400
+成功开发、训练和测试适用于现实世界应用的复杂机器人
+
+1608
+01:22:50,300 --> 01:22:55,400
+Successful development, training, and testing of
+complex robots for real-world applications
+
+1609
+01:22:55,400 --> 01:22:59,100
+需要高保真仿真和准确的物理效果
+
+1610
+01:22:55,400 --> 01:22:59,100
+demand high-fidelity simulation and accurate physics.
+
+1611
+01:22:59,100 --> 01:23:06,000
+Isaac Sim 基于 NVIDIA 的 Omniverse 平台构建，将沉浸式虚拟现实的、物理属性准确的、逼真的环境
+
+1612
+01:22:59,100 --> 01:23:06,000
+Built on NVIDIA's Omniverse platform, Isaac Sim combines immersive, physically accurate, photorealistic environments
+
+1613
+01:23:06,000 --> 01:23:08,700
+与复杂的虚拟机器人相结合
+
+1614
+01:23:06,000 --> 01:23:08,700
+with complex virtual robots.
+
+1615
+01:23:08,700 --> 01:23:15,000
+我们来看看合作伙伴使用 Isaac Sim 开发的三种截然不同的 AI 机器人
+
+1616
+01:23:08,700 --> 01:23:15,033
+Let’s look at three very different AI-based robots being developed by our partners using Isaac Sim.
+
+1617
+01:23:15,000 --> 01:23:22,800
+Fraunhofer IML 是物流领域的技术领导者，使用 NVIDIA Isaac Sim 来虚拟开发 Obelix
+
+1618
+01:23:15,033 --> 01:23:22,800
+Fraunhofer IML, a technology leader in logistics, uses NVIDIA Isaac Sim for the virtual development of Obelix—
+
+1619
+01:23:22,800 --> 01:23:27,900
+这是一种高度动态的室内/室外自主移动机器人 (AMR)
+
+1620
+01:23:22,800 --> 01:23:27,933
+a highly dynamic indoor/outdoor
+Autonomous Mobile Robot, or AMR.
+
+1621
+01:23:27,900 --> 01:23:32,900
+从 CAD 导入逾 5400 个零件并借助 Omniverse PhysX 进行装配后
+
+1622
+01:23:27,933 --> 01:23:32,933
+After importing over 5400 parts from CAD
+and rigging with Omniverse PhysX,
+
+1623
+01:23:32,900 --> 01:23:38,100
+虚拟机器人在仿真环境中的移动与在现实世界中一样灵巧
+
+1624
+01:23:32,933 --> 01:23:38,100
+the virtual robot moves just as deftly in
+simulation as it does in the real world.
+
+1625
+01:23:38,100 --> 01:23:44,000
+这不仅可加快虚拟开发速度，还能够扩展至更大的场景
+
+1626
+01:23:38,100 --> 01:23:44,000
+This not only accelerates virtual development,
+but also enables scaling to larger scenarios.
+
+1627
+01:23:44,000 --> 01:23:50,000
+接下来要介绍的是以工业自动化闻名的 Festo。该公司使用 Isaac Sim
+
+1628
+01:23:44,000 --> 01:23:50,000
+Next, Festo, well known for industrial automation,
+uses Isaac Sim to develop intelligent skills
+
+1629
+01:23:50,000 --> 01:23:57,300
+为协作机器人（简称 cobot）开发智能技能，需要对其人类伙伴和任务有敏锐的认识
+
+1630
+01:23:50,000 --> 01:23:57,300
+for collaborative robots, or cobots, requiring acute awareness of their environment, human partners, and tasks.
+
+1631
+01:23:57,300 --> 01:24:03,900
+使用 Cortex（一款 Isaac Sim 工具），Festo 可显著简化 cobot 技能的编程
+
+1632
+01:23:57,300 --> 01:24:03,900
+Festo uses Cortex, an Isaac Sim tool that
+dramatically simplifies programming cobot skills.
+
+1633
+01:24:03,900 --> 01:24:11,500
+为实现感知，此任务中使用的 AI 模型仅使用由 Isaac Replicator 生成的合成数据进行训练
+
+1634
+01:24:03,900 --> 01:24:11,500
+For perception, AI models used in this task were trained using only synthetic data generated by Isaac Replicator.
+
+1635
+01:24:11,500 --> 01:24:19,200
+最后，要为您介绍机器狗 Anymal，
+由苏黎世联邦理工学院（ETH Zurich）和 Swiss-Mile 的一个领先的机器人研究小组开发
+
+1636
+01:24:11,500 --> 01:24:19,233
+Finally, there is Anymal, a robot dog developed by a leading robotics research group from ETH Zurich and Swiss-Mile.
+
+1637
+01:24:19,200 --> 01:24:25,100
+借助 GPU 加速的端到端强化学习，Anymal 的脚被轮子取代
+
+1638
+01:24:19,233 --> 01:24:25,133
+Using end-to-end GPU accelerated Reinforcement Learning, Anymal, whose feet were replaced with wheels,
+
+1639
+01:24:25,100 --> 01:24:31,100
+然后使用 NVIDIA 的 Isaac Gym 训练工具，
+只需几分钟就可学会在城市地形上“行走”，而无需花费几周时间
+
+1640
+01:24:25,133 --> 01:24:31,100
+learned to 'walk' over urban terrain within minutes rather
+than weeks using NVIDIA's Isaac Gym training tool.
+
+1641
+01:24:31,100 --> 01:24:36,500
+运动策略在 Isaac Sim 中进行验证后，才会部署在真实的 Anymal 上
+
+1642
+01:24:31,100 --> 01:24:36,500
+The locomotion policy was verified in
+Isaac Sim and deployed on a real Anymal.
+
+1643
+01:24:36,500 --> 01:24:41,300
+这是一个针对真实部署进行的引人入胜的模拟器训练演示
+
+1644
+01:24:36,500 --> 01:24:41,300
+This is a compelling demonstration of
+simulator training for real-world-deployment.
+
+1645
+01:24:41,300 --> 01:24:47,800
+从训练感知和策略到硬件在环，Isaac Sim 工具可构建 AI 机器人
+
+1646
+01:24:41,300 --> 01:24:47,833
+From training perception and policies to hardware-in-loop,
+Isaac Sim is the tool to build AI-based robots
+
+1647
+01:24:47,800 --> 01:24:53,000
+这些机器人在仿真中诞生，在现实世界中工作（娱乐）
+
+1648
+01:24:47,833 --> 01:24:53,000
+that are born in simulation to work and play in the real-world.
+
+1649
+01:24:54,100 --> 01:25:03,700
+现代仓储运营中心正在演变为技术奇迹，设备由人类和机器人协同操作
+
+1650
+01:24:54,100 --> 01:25:03,733
+Modern fulfillment centers are evolving into technical marvels – facilities operated by humans and robots working together.
+
+1651
+01:25:03,700 --> 01:25:13,000
+仓库也是一个机器人，负责协调内部物料的运输和 AMR 的路径优化
+
+1652
+01:25:03,733 --> 01:25:13,033
+The warehouse is also a robot, orchestrating the flow of materials and the route plans of the AMRs inside.
+
+1653
+01:25:13,000 --> 01:25:16,600
+我们来看看 Amazon 如何使用 Omniverse 数字孪生技术
+
+1654
+01:25:13,033 --> 01:25:16,600
+Let’s look at how Amazon uses Omniverse digital twin
+
+1655
+01:25:16,600 --> 01:25:21,500
+来设计和优化令人惊叹的仓储运营中心
+
+1656
+01:25:16,600 --> 01:25:21,500
+to design and optimize their incredible
+fulfillment center operations.
+
+1657
+01:25:22,400 --> 01:25:26,900
+每一天，亚马逊的数百个运营中心需处理数千万个包裹
+
+1658
+01:25:22,400 --> 01:25:26,900
+Every day, hundreds of Amazon’s facilities
+handle tens of millions of packages,
+
+1659
+01:25:26,900 --> 01:25:30,800
+而其中超过三分之二的客户订单由机器人处理
+
+1660
+01:25:26,900 --> 01:25:30,800
+with more than two thirds of these
+customer orders handled by robots.
+
+1661
+01:25:30,800 --> 01:25:36,200
+为了支持这种高度复杂的操作，我们部署了数十万个自主移动机器人
+
+1662
+01:25:30,800 --> 01:25:36,200
+To support this highly complex operation,
+we deployed hundreds of thousands mobile drive robots,
+
+1663
+01:25:36,200 --> 01:25:38,100
+和相关的存储舱
+
+1664
+01:25:36,200 --> 01:25:38,100
+and associated storage pods,
+
+1665
+01:25:38,100 --> 01:25:42,300
+这使我们能够在仓库中存储远高于传统货架的库存
+
+1666
+01:25:38,100 --> 01:25:42,300
+which allow us to store far more inventory
+in our buildings than traditional shelving.
+
+1667
+01:25:42,300 --> 01:25:46,500
+这帮助我们以更安全、更高效的方式移动库存
+
+1668
+01:25:42,300 --> 01:25:46,500
+And which help us move inventory in a safer, more efficient way.
+
+1669
+01:25:46,500 --> 01:25:49,800
+扩展的关键在于我们模拟这些建筑的能力
+
+1670
+01:25:46,500 --> 01:25:49,800
+Key to the scaling has been our
+ability to simulate these buildings
+
+1671
+01:25:49,800 --> 01:25:53,100
+以及在构建之前了解它们的性能
+
+1672
+01:25:49,800 --> 01:25:53,133
+and understand their performance before we build them.
+
+1673
+01:25:53,100 --> 01:25:59,900
+我们来看看 NVIDIA Omniverse 如何助力优化和简化这些复杂的流程
+
+1674
+01:25:53,133 --> 01:25:59,900
+Let’s look at how NVIDIA Omniverse is helping us
+optimize and simplify these processes.
+
+1675
+01:25:59,900 --> 01:26:06,900
+在 Amazon Robotics，我们可以在 NVIDIA Omniverse 中创建相同比例的仓库“数字孪生”
+
+1676
+01:25:59,900 --> 01:26:06,900
+At Amazon Robotics, we are able create full-scale “digital twins” of our warehouses in NVIDIA Omniverse,
+
+1677
+01:26:06,900 --> 01:26:14,000
+帮助我们优化仓库设计、训练更智能的机器人助手，并提升运营效率
+
+1678
+01:26:06,900 --> 01:26:14,000
+helping us optimize warehouse design, train more intelligent robot assistants, and gain operational efficiencies.
+
+1679
+01:26:14,000 --> 01:26:19,400
+在 Omniverse 中，我们能够以特有的方式整合来自不同 CAD 应用的数据集
+
+1680
+01:26:14,000 --> 01:26:19,433
+In Omniverse, we are uniquely able to aggregate
+datasets from many different CAD applications
+
+1681
+01:26:19,400 --> 01:26:23,100
+并在 Omniverse 的 RTX 加速光线追踪、材质和物理效果的推动下
+
+1682
+01:26:19,433 --> 01:26:23,133
+and visualize these massive models in full-fidelity realism,
+
+1683
+01:26:23,100 --> 01:26:29,700
+高度真实地呈现这些大型模型
+
+1684
+01:26:23,133 --> 01:26:29,700
+enabled by Omniverse's RTX-accelerated
+ray tracing, materials, and physics.
+
+1685
+01:26:29,700 --> 01:26:33,300
+数字孪生是未来仓库和工厂不可或缺的组成部分
+
+1686
+01:26:29,700 --> 01:26:33,300
+Digital twins are an integral part of
+future warehouses and factories,
+
+1687
+01:26:33,300 --> 01:26:37,100
+可实现持续集成和交付
+
+1688
+01:26:33,300 --> 01:26:37,100
+enabling continuous integration and continuous delivery.
+
+1689
+01:26:37,100 --> 01:26:39,500
+对于软件和仓库布局的每一次新优化
+
+1690
+01:26:37,100 --> 01:26:39,533
+With each new software and layout optimization,
+
+1691
+01:26:39,500 --> 01:26:43,400
+我们都可以先在数字孪生中进行测试，然后再发布至物理仓库
+
+1692
+01:26:39,533 --> 01:26:43,433
+we can test in the digital twin before
+releasing to the physical warehouse,
+
+1693
+01:26:43,400 --> 01:26:48,700
+这样既可防止系统停机或故障，也可最大限度地提高运营效率
+
+1694
+01:26:43,433 --> 01:26:48,733
+preventing system downtime or failure
+while maximizing operational efficiencies.
+
+1695
+01:26:48,700 --> 01:26:56,200
+然后，各种形状、尺寸、重量和材质的包裹都可以在我们的仓储中心迅速移动
+
+1696
+01:26:48,733 --> 01:26:56,233
+Next, packages of every shape, size, weight, and material
+move rapidly through our fulfillment centers.
+
+1697
+01:26:56,200 --> 01:27:02,100
+我们使用 NVIDIA Omniverse 更好地训练自主机器人分类和拣选解决方案
+
+1698
+01:26:56,233 --> 01:27:02,100
+We use NVIDIA Omniverse to better train
+autonomous robotic sorting and picking solutions.
+
+1699
+01:27:02,100 --> 01:27:07,300
+训练这些机器人的感知系统以使其具有足够的准确性以避免系统故障
+
+1700
+01:27:02,100 --> 01:27:07,300
+Training these robots' perception systems
+accurately enough to prevent system failures
+
+1701
+01:27:07,300 --> 01:27:14,700
+需要大量高质量的数据，但通常可能没有数据或者数据量不够
+
+1702
+01:27:07,300 --> 01:27:14,700
+requires massive amounts of high-quality data, but often,
+the data doesn't exist, or there isn't enough.
+
+1703
+01:27:14,700 --> 01:27:20,500
+当我们的包装材料中包含很多反光胶带时，感知系统会失误
+
+1704
+01:27:14,700 --> 01:27:20,500
+When we introduced more reflective tape to our packing materials, the perception systems failed.
+
+1705
+01:27:20,500 --> 01:27:26,200
+我们使用在 Omniverse 中生成的物理属性准确、逼真的合成数据以重新训练模型
+
+1706
+01:27:20,500 --> 01:27:26,233
+We retrained the models with physically accurate, photoreal synthetic data generated in Omniverse -
+
+1707
+01:27:26,200 --> 01:27:33,500
+这些数据与真实数据别无二致，从而可以节省数周的重新训练时间，并提高模型准确性
+
+1708
+01:27:26,233 --> 01:27:33,500
+indistinguishable from reality - saving weeks of
+retraining time and increasing model accuracy.
+
+1709
+01:27:33,500 --> 01:27:40,400
+最后，借助我们运营中心的数字孪生，以及快速、准确训练机器人感知系统的能力
+
+1710
+01:27:33,500 --> 01:27:40,400
+Finally, with digital twins of our facilities and the ability to quickly and accurately train robot perception systems
+
+1711
+01:27:40,400 --> 01:27:48,000
+我们还可以更好地配置人机工作站，更好地模拟人体工程学
+
+1712
+01:27:40,400 --> 01:27:48,000
+we can also better configure human-robot workstations, simulating opportunities for better employee ergonomics.
+
+1713
+01:27:48,000 --> 01:27:54,700
+亚马逊正借助 NVIDIA Omniverse 数字孪生端到端地重塑仓库物流
+
+1714
+01:27:48,000 --> 01:27:54,700
+At Amazon Robotics, NVIDIA Omniverse digital twins are helping us as we reimagine warehouse logistics from end-to-end;
+
+1715
+01:27:54,700 --> 01:28:02,100
+并大幅提升运营效率，从而为客户提供更多价值
+
+1716
+01:27:54,700 --> 01:28:02,100
+and capturing a significant operational efficiencies which
+enable us to deliver more value to our customers.
+
+1717
+01:28:04,700 --> 01:28:11,700
+与 NASA 和 Amazon 一样，我们在机器人和工业自动化领域的客户
+
+1718
+01:28:04,733 --> 01:28:11,700
+Just like NASA and Amazon, our customers
+in robotics and industrial automation
+
+1719
+01:28:11,700 --> 01:28:18,400
+也意识到了数字孪生的重要性，并且正通过 Omniverse 完成令人惊叹的任务
+
+1720
+01:28:11,700 --> 01:28:18,400
+are realizing the importance of digital twins
+and are doing amazing things in Omniverse.
+
+1721
+01:28:18,400 --> 01:28:24,000
+您可以看到 Omniverse 在 NVIDIA 整个 AI 和机器人领域工作中的重要性
+
+1722
+01:28:18,400 --> 01:28:24,000
+You can see how important Omniverse is
+throughout NVIDIA's work in AI and robotics.
+
+1723
+01:28:24,000 --> 01:28:30,500
+下一波 AI 浪潮（机器人系统）需要 Omniverse 这样的平台
+
+1724
+01:28:24,000 --> 01:28:30,533
+The next wave of AI - robotic systems -
+needs a platform like Omniverse.
+
+1725
+01:28:30,500 --> 01:28:41,200
+我们希望 Omniverse 能够为数千万设计师、创作者、机器人专家和 AI 研究人员提供帮助
+
+1726
+01:28:30,533 --> 01:28:41,233
+We want Omniverse to reach every one of the 10’s of millions of designers, creators, roboticists, and AI researchers.
+
+1727
+01:28:41,200 --> 01:28:46,400
+今天，我们将宣布推出 Omniverse Cloud
+
+1728
+01:28:41,233 --> 01:28:46,400
+So, today, we are announcing Omniverse Cloud.
+
+1729
+01:28:46,400 --> 01:28:51,500
+只需点击几下，您和您的协作者就可以完成连接
+
+1730
+01:28:46,400 --> 01:28:51,500
+Just a few clicks and you and your collaborators are connected.
+
+1731
+01:28:51,500 --> 01:28:59,500
+在这个演示中，您将看到 4 位设计师，他们都在远程工作，通过 Omniverse Cloud 连接
+
+1732
+01:28:51,500 --> 01:28:59,500
+In this demo, you are going to see 4 designers, all working remotely, connected by Omniverse Cloud,
+
+1733
+01:28:59,500 --> 01:29:02,600
+并协作创建一个虚拟世界
+
+1734
+01:28:59,500 --> 01:29:02,600
+and collaborating to create a virtual world.
+
+1735
+01:29:02,600 --> 01:29:05,500
+我们来看看这有多么简单
+
+1736
+01:29:02,600 --> 01:29:05,533
+Let’s take a look at how easy it works.
+
+1737
+01:29:06,700 --> 01:29:13,500
+3D 设计是一项复杂的团队工作，涉及不同的艺术家、应用和硬件，且工作地点通常各不相同
+
+1738
+01:29:06,733 --> 01:29:13,500
+3D design is a complex team sport, with different artists, apps and hardware, often working in different locations.
+
+1739
+01:29:13,500 --> 01:29:16,900
+借助 Omniverse Cloud，这将变得更加简单
+
+1740
+01:29:13,500 --> 01:29:16,900
+With Omniverse Cloud, it’s much easier.
+
+1741
+01:29:16,900 --> 01:29:23,100
+使用 NVIDIA RTX PC、笔记本电脑和工作站，设计师可实时协同工作
+
+1742
+01:29:16,900 --> 01:29:23,133
+Using NVIDIA RTX PCs, laptops, and workstations,
+designers can work together in real-time.
+
+1743
+01:29:23,100 --> 01:29:29,800
+如果您没有 RTX 计算机，只需点击一下即可从 GeForce Now 上启动 Omniverse
+
+1744
+01:29:23,133 --> 01:29:29,800
+And if you don’t have an RTX computer, you can stream Omniverse from GeForce Now with just a single click.
+
+1745
+01:29:29,800 --> 01:29:35,300
+让我们看看一个建筑设计团队在网络会议中使用 Omniverse View 来评审项目
+
+1746
+01:29:29,800 --> 01:29:35,300
+Let's watch as an architectural design team reviews a project using Omniverse View in a web conference.
+
+1747
+01:29:36,100 --> 01:29:38,700
+好的，这里是 5 楼的露台
+
+1748
+01:29:36,100 --> 01:29:38,700
+Alright, right here is the 5th floor patio.
+
+1749
+01:29:39,200 --> 01:29:43,400
+为了更好地感受光照，我们来看看中午时候这个地方的样子
+
+1750
+01:29:39,200 --> 01:29:43,433
+To get a better feel for the lighting,
+let’s see what this space looks like at noon.
+
+1751
+01:29:43,900 --> 01:29:45,400
+好的！
+
+1752
+01:29:43,900 --> 01:29:45,433
+Sure!
+
+1753
+01:29:48,400 --> 01:29:53,400
+嗯，有一点阳光了。我们来对棚架进行一些调整
+
+1754
+01:29:48,433 --> 01:29:53,400
+Hmm... it’s a little sunny.
+Let’s make some adjustments to the trellis.
+
+1755
+01:29:53,400 --> 01:29:54,700
+稍等
+
+1756
+01:29:53,400 --> 01:29:54,733
+One sec…
+
+1757
+01:29:55,700 --> 01:29:56,800
+现在如何？
+
+1758
+01:29:55,733 --> 01:29:56,800
+How’s that?
+
+1759
+01:29:56,800 --> 01:29:59,700
+好多了，我们来看看能否连线 Teresa
+
+1760
+01:29:56,800 --> 01:29:59,700
+Much better, let’s see if we can get Teresa on.
+
+1761
+01:29:59,700 --> 01:30:03,100
+好的，正在发送链接
+
+1762
+01:29:59,700 --> 01:30:03,100
+Yep, sending that link now.
+
+1763
+01:30:04,800 --> 01:30:05,800
+嗨，两位好！
+
+1764
+01:30:04,800 --> 01:30:05,833
+Hey you two!
+
+1765
+01:30:05,800 --> 01:30:12,100
+你好！我们做了中午的光线模拟，决定增加一些阴影。你有什么想法？
+
+1766
+01:30:05,833 --> 01:30:12,133
+Hi! So we did a sun study at mid-day and decided
+it needed more shade. What do you think?
+
+1767
+01:30:12,100 --> 01:30:16,000
+看起来很棒，但我觉得还额外需要一点什么
+
+1768
+01:30:12,133 --> 01:30:16,033
+Yeah that looks great but I still feel like it needs a little more.
+
+1769
+01:30:16,000 --> 01:30:18,200
+如果添加一些树，会怎么样？
+
+1770
+01:30:16,033 --> 01:30:18,233
+What if we add some trees?
+
+1771
+01:30:18,200 --> 01:30:20,700
+好，请 TJ 帮我们完成吧
+
+1772
+01:30:18,233 --> 01:30:20,733
+Yeah, let’s get TJ to help with that.
+
+1773
+01:30:21,100 --> 01:30:23,000
+大家好，需要我做点什么？
+
+1774
+01:30:21,133 --> 01:30:23,000
+Hi, how can I help?
+
+1775
+01:30:23,000 --> 01:30:28,000
+嗨，TJ，你能在桌子附近的花盆里加些中等大小的树吗？
+
+1776
+01:30:23,000 --> 01:30:28,033
+Hey TJ, can you add some medium-sized
+trees in planters near the tables?
+
+1777
+01:30:28,400 --> 01:30:30,800
+没问题，我来添加一下
+
+1778
+01:30:28,400 --> 01:30:30,800
+Sure, let me add that for you.
+
+1779
+01:30:31,400 --> 01:30:32,800
+这样看起来如何？
+
+1780
+01:30:31,400 --> 01:30:32,800
+How does this look?
+
+1781
+01:30:32,800 --> 01:30:38,500
+很赞！但我们可以让树木呈现更多差异吗？比如大小和种类？
+
+1782
+01:30:32,800 --> 01:30:38,500
+Nice!... but TJ can we vary the trees, say size and type?
+
+1783
+01:30:38,500 --> 01:30:40,000
+好，就是这样
+
+1784
+01:30:38,500 --> 01:30:40,033
+OK, here you go.
+
+1785
+01:30:40,700 --> 01:30:43,900
+嗨，TJ，我们到吧台来看看晚上的效果
+
+1786
+01:30:40,733 --> 01:30:43,933
+Hey TJ, let's go to the bar
+and see what it looks like at night.
+
+1787
+01:30:43,900 --> 01:30:45,600
+就是这样
+
+1788
+01:30:43,933 --> 01:30:45,600
+You got it!
+
+1789
+01:30:47,100 --> 01:30:48,400
+哇，看起来很棒哦！
+
+1790
+01:30:47,100 --> 01:30:48,400
+Yeah, that looks great.
+
+1791
+01:30:48,400 --> 01:30:51,500
+我将发送链接以供审批
+
+1792
+01:30:48,400 --> 01:30:51,500
+I’ll send the link out for approval.
+
+1793
+01:30:56,200 --> 01:30:58,300
+相聚 Omniverse，不见不散！
+
+1794
+01:30:56,200 --> 01:30:58,333
+See you in Omniverse.
+
+1795
+01:30:59,633 --> 01:31:04,033
+您可能已经注意到，其中一个设计师是 AI
+
+1796
+01:30:59,666 --> 01:31:04,066
+You may have noticed one of the designers is an AI.
+
+1797
+01:31:04,033 --> 01:31:10,633
+随着 AI 技能的不断发展，我们不仅能利用它们来帮助我们设计建筑和工厂
+
+1798
+01:31:04,066 --> 01:31:10,666
+As AIs develop skills, we will not only invite them
+to help us design buildings and factories,
+
+1799
+01:31:10,633 --> 01:31:17,333
+同时还可用于餐厅订单服务，帮助客户，甚至回答有关我们健康的问题
+
+1800
+01:31:10,666 --> 01:31:17,366
+but also take orders at restaurants, help customers,
+and even answer questions about our health.
+
+1801
+01:31:17,333 --> 01:31:21,033
+Omniverse，为下一波的 AI 浪潮而生
+
+1802
+01:31:17,366 --> 01:31:21,066
+Omniverse, for the next wave of AI.
+
+1803
+01:31:21,033 --> 01:31:25,700
+我们已经介绍了很多内容，让我快速回顾一下
+
+1804
+01:31:21,066 --> 01:31:25,700
+We covered a lot of ground so let me do a fast recap.
+
+1805
+01:31:25,700 --> 01:31:29,700
+我们宣布推出 NVIDIA 四层技术栈中的新产品：
+
+1806
+01:31:25,700 --> 01:31:29,700
+We announced new products across NVIDIA’s four-layer stack:
+
+1807
+01:31:29,700 --> 01:31:34,833
+硬件，系统软件和库，软件平台
+
+1808
+01:31:29,700 --> 01:31:34,866
+hardware, system software and libraries, software platforms
+
+1809
+01:31:34,833 --> 01:31:43,900
+（NVIDIA HPC、NVIDIA AI 和 NVIDIA Omniverse），以及 AI 和机器人应用框架
+
+1810
+01:31:34,866 --> 01:31:43,900
+NVIDIA HPC, NVIDIA AI, and NVIDIA Omniverse;
+and AI and robotics application frameworks.
+
+1811
+01:31:43,900 --> 01:31:52,300
+这些产品正引领着五个态势去塑造我们的行业 - Million-X 百万倍的计算加速、Transformer 增强 AI
+
+1812
+01:31:43,900 --> 01:31:52,300
+These are driving five dynamics shaping our industry - Million-X computing speed-up, Transformers turbocharging AI,
+
+1813
+01:31:52,300 --> 01:31:58,833
+让数据中心成为 AI 工厂、对机器人系统的需求呈指数增长
+
+1814
+01:31:52,300 --> 01:31:58,866
+data centers becoming AI Factories,
+exponentially increasing demand for robotics systems,
+
+1815
+01:31:58,833 --> 01:32:02,833
+以及下一个 AI 时代的数字孪生
+
+1816
+01:31:58,866 --> 01:32:02,866
+and digital twins for the next era of AI.
+
+1817
+01:32:02,833 --> 01:32:06,333
+四层技术栈，五大态势
+
+1818
+01:32:02,866 --> 01:32:06,366
+Four layers, five dynamics.
+
+1819
+01:32:06,333 --> 01:32:13,900
+NVIDIA 加速计算、数据中心级全栈工程优化，使计算速度提高了百万倍
+
+1820
+01:32:06,366 --> 01:32:13,900
+NVIDIA accelerated computing, full-stack engineering at data center scale, has sped-up computing by a Million-X.
+
+1821
+01:32:13,900 --> 01:32:20,900
+Million-X 百万倍加速为应对药物研发和气候科学等重大挑战提供了契机
+
+1822
+01:32:13,900 --> 01:32:20,900
+A Million-X opens the opportunities to tackle grand challenges, like drug discovery and climate science.
+
+1823
+01:32:20,900 --> 01:32:26,933
+随着自主学习 Transformer 的发明，AI 的发展速度跃上新高
+
+1824
+01:32:20,900 --> 01:32:26,966
+And with the invention of self-learning Transformers,
+AI jumped to warp speed.
+
+1825
+01:32:26,933 --> 01:32:33,033
+AI 已从根本上改变了软件的能力以及开发软件的方式
+
+1826
+01:32:26,966 --> 01:32:33,066
+AI has fundamentally changed what software
+can make and how you make software.
+
+1827
+01:32:33,033 --> 01:32:42,400
+公司通过处理和提炼数据来打造 AI、构建智能，其数据中心就是 AI 工厂
+
+1828
+01:32:33,066 --> 01:32:42,400
+Companies build AI by processing and refining data to manufacture intelligence - their data centers are AI factories.
+
+1829
+01:32:42,400 --> 01:32:47,633
+NVIDIA H100 是全球 AI 基础架构的新引擎
+
+1830
+01:32:42,400 --> 01:32:47,666
+NVIDIA H100 is the new engine of the world’s AI infrastructure.
+
+1831
+01:32:47,633 --> 01:32:57,700
+NVIDIA 的 NVLink Switch 系统可将最多 32 个 DGX 连接成一个高达 1 ExaFLOPS 算力的模块，
+作为 AI 工厂的基础单元
+
+1832
+01:32:47,666 --> 01:32:57,700
+NVIDIA’s NVLINK Switch system connects up to 32 DGXs into a massive 1 exaflops building block of the AI factory.
+
+1833
+01:32:57,700 --> 01:33:06,733
+Hopper H100 是有史以来最大的代际性能提升，其大规模训练性能是 A100 的 9 倍
+
+1834
+01:32:57,700 --> 01:33:06,766
+Hopper H100 is the biggest generational leap ever - 9 times at-scale training performance over A100
+
+1835
+01:33:06,733 --> 01:33:11,200
+大型语言模型推理的吞吐量是 A100 的 30 倍
+
+1836
+01:33:06,766 --> 01:33:11,200
+and 30 times large-language-model inference throughput.
+
+1837
+01:33:11,200 --> 01:33:14,833
+Hopper 还可以加速主流服务器
+
+1838
+01:33:11,200 --> 01:33:14,866
+Hopper also accelerates mainstream servers.
+
+1839
+01:33:14,833 --> 01:33:20,933
+NVIDIA H100 CNX 通过最先进的网络芯片 – NVIDIA ConnectX-7
+
+1840
+01:33:14,866 --> 01:33:20,966
+NVIDIA H100 CNX connects the
+network directly into H100
+
+1841
+01:33:20,933 --> 01:33:25,233
+将网络直接连接到 H100
+
+1842
+01:33:20,966 --> 01:33:25,266
+through the most advanced networking chip – NVIDIA CX7.
+
+1843
+01:33:25,233 --> 01:33:31,433
+NVIDIA H100 是全球 AI 基础架构的引擎
+
+1844
+01:33:25,266 --> 01:33:31,466
+NVIDIA H100, the engine of the world’s AI infrastructures.
+
+1845
+01:33:31,433 --> 01:33:36,533
+H100 已经投产，将从第三季度开始供货
+
+1846
+01:33:31,466 --> 01:33:36,566
+H100 is in production, with availability starting in Q3.
+
+1847
+01:33:36,533 --> 01:33:39,400
+Grace 有望在明年投入生产
+
+1848
+01:33:36,566 --> 01:33:39,400
+Grace is on track for production next year.
+
+1849
+01:33:39,400 --> 01:33:46,233
+Grace 是一款令人惊艳的超级芯片：2 个 CPU 通过 900 GB/s 的 NVLink 芯片到芯片的互连
+
+1850
+01:33:39,400 --> 01:33:46,266
+Grace is an amazing superchip –
+two CPUs connected over a 900 gigabytes per second
+
+1851
+01:33:46,233 --> 01:33:58,733
+从而构成一个内存带宽为 1 TB/s 的 144 核 CPU
+
+1852
+01:33:46,266 --> 01:33:58,766
+NVLINK chip-to-chip interconnect to make a 144-core CPU
+with 1 terabytes per second of memory bandwidth.
+
+1853
+01:33:58,733 --> 01:34:03,933
+Grace，全球 AI 基础架构的理想 CPU
+
+1854
+01:33:58,766 --> 01:34:03,966
+Grace is the ideal CPU for the world’s AI infrastructures.
+
+1855
+01:34:03,933 --> 01:34:10,733
+NVLink 现在应用于裸片之间、芯片之间和系统之间的互联
+
+1856
+01:34:03,966 --> 01:34:10,766
+NVLINK now spans die-to-die,
+chip-to-chip, and system-to-system,
+
+1857
+01:34:10,733 --> 01:34:15,033
+并为我们提供了多种 Grace-Hopper 系统配置
+
+1858
+01:34:10,766 --> 01:34:15,066
+and gives us a multitude of
+Grace-Hopper system configurations–
+
+1859
+01:34:15,033 --> 01:34:21,400
+从 2 个 Grace、1 个 Grace 加 1 个 Hopper、到 2 个 Grace 加 8 个 Hopper
+
+1860
+01:34:15,066 --> 01:34:21,400
+from dual-Grace, to one-Grace one-Hopper,
+to dual-Grace and eight Hoppers.
+
+1861
+01:34:21,400 --> 01:34:29,333
+未来的所有 NVIDIA 芯片都将支持 NVLink，包括 CPU、GPU、DPU 和 SOC
+
+1862
+01:34:21,400 --> 01:34:29,366
+NVLINK will be coming to all future NVIDIA chips –
+CPUs, GPUs, DPUs, and SOCs.
+
+1863
+01:34:29,333 --> 01:34:35,433
+我们还将为客户和合作伙伴提供 NVLink，以构建配套芯片
+
+1864
+01:34:29,366 --> 01:34:35,466
+We will also make NVLINK available to customers
+and partners to build companion chips.
+
+1865
+01:34:35,433 --> 01:34:42,500
+NVLink 为客户打开了新世界的大门，让他们可以利用 NVIDIA 平台和生态系统
+
+1866
+01:34:35,466 --> 01:34:42,500
+NVLINK opens a new world of opportunities for
+customers to build semi-custom chips and systems
+
+1867
+01:34:42,500 --> 01:34:46,500
+构建半定制芯片和系统
+
+1868
+01:34:42,500 --> 01:34:46,500
+that leverage NVIDIA’s platforms and ecosystems.
+
+1869
+01:34:46,500 --> 01:34:53,433
+全球超过 25000 家公司使用的 NVIDIA AI 平台将进行重大更新
+
+1870
+01:34:46,500 --> 01:34:53,466
+NVIDIA AI platform, used by over 25,000 companies worldwide, got major updates.
+
+1871
+01:34:53,433 --> 01:35:02,733
+NVIDIA Omniverse 平台适合虚拟世界、数字孪生和机器人系统，将掀起下一波 AI 浪潮
+
+1872
+01:34:53,466 --> 01:35:02,766
+NVIDIA Omniverse is a platform for virtual worlds, digital twins, and robotic systems - the next wave of AI.
+
+1873
+01:35:02,733 --> 01:35:08,100
+正如 TensorFlow 和 PyTorch 是面向感知的 AI 的基本框架一样
+
+1874
+01:35:02,766 --> 01:35:08,100
+Just as Tensorflow and PyTorch are essential
+frameworks for perception-oriented AI,
+
+1875
+01:35:08,100 --> 01:35:12,333
+Omniverse 也将成为面向动作的 AI 的不可或缺的一部分
+
+1876
+01:35:08,100 --> 01:35:12,366
+Omniverse will be integral for action-oriented AI.
+
+1877
+01:35:12,333 --> 01:35:20,533
+DGX 是 AI 工厂的基础架构，OVX 将成为数字孪生的基础架构
+
+1878
+01:35:12,366 --> 01:35:20,566
+And as DGX is the infrastructure of AI factories,
+OVX will be the infrastructure of digital twins.
+
+1879
+01:35:20,533 --> 01:35:27,833
+OVX 运行 Omniverse 数字孪生，用于大规模仿真
+
+1880
+01:35:20,566 --> 01:35:27,866
+OVX runs Omniverse digital twins for large-scale
+simulations with multiple autonomous systems
+
+1881
+01:35:27,833 --> 01:35:30,000
+多个自主系统在同一个时空运行
+
+1882
+01:35:27,866 --> 01:35:30,000
+operating in the same space-time.
+
+1883
+01:35:30,000 --> 01:35:34,333
+OVX 的基础是网络结构
+
+1884
+01:35:30,000 --> 01:35:34,366
+The backbone of OVX is its networking fabric.
+
+1885
+01:35:34,333 --> 01:35:40,600
+我们宣布推出了 NVIDIA Spectrum-4 51.2 Tb/s 的交换机
+
+1886
+01:35:34,366 --> 01:35:40,600
+We announced NVIDIA Spectrum-4
+51.2 terabits per second switch,
+
+1887
+01:35:40,600 --> 01:35:49,133
+凭借 ConnectX-7 和 BlueField-3 ，它将成为首款 400 Gbps 的端到端网络平台
+
+1888
+01:35:40,600 --> 01:35:49,166
+and with CX7 and Bluefield-3, will be the first end-to-end 400 gigabytes per second networking platform.
+
+1889
+01:35:49,133 --> 01:35:52,033
+Spectrum-4 的样品将于第三季度问世
+
+1890
+01:35:49,166 --> 01:35:52,066
+Spectrum-4 will sample in Q3.
+
+1891
+01:35:52,033 --> 01:35:57,500
+能够感知、规划并采取行动的机器人系统将引领下一波 AI 浪潮
+
+1892
+01:35:52,066 --> 01:35:57,500
+The next wave of AI is robotic systems that
+perceive, plan, and act.
+
+1893
+01:35:57,500 --> 01:36:07,433
+NVIDIA Avatar、Drive、Metropolis、Isaac 和 Holoscan 是基于四大支柱构建的端到端全栈机器人平台
+
+1894
+01:35:57,500 --> 01:36:07,466
+NVIDIA Avatar, Drive, Metropolis, Isaac, and Holoscan are robotics platforms built end-to-end and full-stack
+
+1895
+01:36:07,433 --> 01:36:16,900
+四大支柱即真值数据生成、AI 模型训练、机器人技术栈和 Omniverse 数字孪生
+
+1896
+01:36:07,466 --> 01:36:16,900
+around four pillars – ground truth data generation, AI model training, the robotic stack, and Omniverse digital twin.
+
+1897
+01:36:16,900 --> 01:36:21,200
+开发者可以部分采用这些平台，也可以整体采用
+
+1898
+01:36:16,900 --> 01:36:21,200
+The platforms are open for developers
+to adopt in part or in whole.
+
+1899
+01:36:21,200 --> 01:36:24,433
+Omniverse 是我们机器人平台的中心
+
+1900
+01:36:21,200 --> 01:36:24,466
+Omniverse is central to our robotics platforms.
+
+1901
+01:36:24,433 --> 01:36:30,300
+与 NASA 和 Amazon 一样，我们在机器人和工业自动化领域的客户
+
+1902
+01:36:24,466 --> 01:36:30,300
+And like NASA and Amazon, we and our
+customers in robotics and industrial automation
+
+1903
+01:36:30,300 --> 01:36:33,633
+也意识到了数字孪生和 Omniverse 的重要性
+
+1904
+01:36:30,300 --> 01:36:33,666
+realize the importance of digital twins and Omniverse.
+
+1905
+01:36:33,633 --> 01:36:36,133
+Drive Orin 已全面投产
+
+1906
+01:36:33,666 --> 01:36:36,166
+Drive Orin is in full production.
+
+1907
+01:36:36,133 --> 01:36:38,933
+Issac Orin 开发者套件现已上市
+
+1908
+01:36:36,166 --> 01:36:38,966
+ Issac Orin developer kits are available now.
+
+1909
+01:36:38,933 --> 01:36:42,433
+Clara Holoscan 开发者套件将于 5 月上市
+
+1910
+01:36:38,966 --> 01:36:42,466
+Clara Holoscan devkits are available in May.
+
+1911
+01:36:42,433 --> 01:36:45,600
+我们在本届 GTC 上更新了 60 个 SDK
+
+1912
+01:36:42,466 --> 01:36:45,600
+We updated 60 SDKs at this GTC.
+
+1913
+01:36:45,600 --> 01:36:48,933
+对于我们的 300 万开发者、科学家和 AI 研究人员
+
+1914
+01:36:45,600 --> 01:36:48,966
+For our three million developers, scientists, and AI researchers,
+
+1915
+01:36:48,933 --> 01:36:51,900
+以及数万家初创公司和成熟企业而言
+
+1916
+01:36:48,966 --> 01:36:51,900
+and 10’s of thousands of startups and enterprises,
+
+1917
+01:36:51,900 --> 01:36:56,633
+这表示着其一直以来运行的 NVIDIA 系统的速度会越来越快
+
+1918
+01:36:51,900 --> 01:36:56,666
+the same NVIDIA systems you run just got faster.
+
+1919
+01:36:56,633 --> 01:37:05,333
+NVIDIA SDK 服务于医疗健康、能源、交通、零售、金融、媒体和娱乐等
+
+1920
+01:36:56,666 --> 01:37:05,366
+NVIDIA SDKs serve healthcare, energy, transportation, retail, finance, media, and entertainment –
+
+1921
+01:37:05,333 --> 01:37:09,233
+总价值达 100 万亿美元的行业
+
+1922
+01:37:05,366 --> 01:37:09,266
+a combined $100 trillion of industries.
+
+1923
+01:37:09,233 --> 01:37:13,633
+通过在全栈和数据中心级实现加速
+
+1924
+01:37:09,266 --> 01:37:13,666
+Accelerating across the full-stack and at data center scale,
+
+1925
+01:37:13,633 --> 01:37:17,733
+我们将力争在未来十年内再实现百万倍的提速
+
+1926
+01:37:13,666 --> 01:37:17,766
+we will strive for yet another Million-X in the next decade.
+
+1927
+01:37:17,733 --> 01:37:21,233
+我迫不及待地想知道下一个 Million-X 百万倍会带来怎样的变化
+
+1928
+01:37:17,766 --> 01:37:21,266
+I can’t wait to see what the next Million-X brings.
+
+1929
+01:37:21,233 --> 01:37:28,200
+我要感谢 NVIDIA 开发者、合作伙伴、客户和 NVIDIA 的家人们
+
+1930
+01:37:21,266 --> 01:37:28,200
+I want to thank NVIDIA developers,
+partners, customers, and the NVIDIA families
+
+1931
+01:37:28,200 --> 01:37:32,100
+感谢你们为塑造世界所做的出色工作
+
+1932
+01:37:28,200 --> 01:37:32,100
+for the amazing work you do to shape the world.
+
+1933
+01:37:32,100 --> 01:37:39,700
+不过，请暂时不要离开。Omniverse 生成了您今天看到的每一个渲染和仿真
+
+1934
+01:37:32,100 --> 01:37:39,700
+But don’t leave just yet. Omniverse generated
+every rendering and simulation you saw today.
+
+1935
+01:37:39,700 --> 01:37:47,033
+NVIDIA 卓越的创意团队希望带您再一次体验 Omniverse
+
+1936
+01:37:39,700 --> 01:37:47,066
+NVIDIA’s amazing creative team would like to take
+you on one more trip into Omniverse.
+
+1937
+01:37:47,033 --> 01:37:49,000
+敬请感受
+
+1938
+01:37:47,066 --> 01:37:49,000
+Engage.
+
