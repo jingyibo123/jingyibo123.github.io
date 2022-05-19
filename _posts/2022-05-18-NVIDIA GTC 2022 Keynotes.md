@@ -26,7 +26,7 @@ GPU 使 AI 发生了革命性的转变。现在，基于 GPU 的 AI 正在革新
 
 类似于一个计算堆栈或神经网络，我们从四个层级来构建 NVIDIA：**硬件、系统软件、平台软件和应用**。每一层都对计算机制造商、服务提供商和开发者开放，让他们以更适合的方式集成到其产品当中。今天，我将在每一层级都宣布对应的新产品，让我们开始吧。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia_stack.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia_stack.png)
 
 AI 的进步令人惊叹，Transformer 模型开启了自监督学习，并解除了人工标记数据的需求。因此我们可以使用庞大的训练集来训练 Transformer 模型学习更充分且可靠的特征。得益于 Transformer，模型和数据的规模皆已扩大增长，而模型技能和准确性也因此快速提升。用于语言理解的 Google BERT，用于药物研发的 NVIDIA MegaMolBart，以及 DeepMind 的 AlphaFold都是基于 Transformer 模型的突破性成果。
 
@@ -34,7 +34,7 @@ Transformer 让自监督学习成为可能，也令 AI 飞速发展。自然语�
 
 如同 FourCastNet 和 Orbnet，**Physics-ML**模型也正在学习物理学和量子物理学，这些是取得重大科学突破的首要条件；**生成模型**正在改变创意设计、帮助构建虚拟世界，并将革新通信方式；如同 **NeRF**，从 2D 图像中学习 3D 表征的神经图形网络，将扩大摄影应用场景，并帮助我们创造属于我们世界的数字孪生。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DeepLearningAdvancements.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DeepLearningAdvancements.png)
 
 AI 正在各个方向加速发展，包括新的架构、新的学习策略、更大和更可靠的模型，新的科学、新的应用、新的行业，所有这些都在同时进行。
 
@@ -88,7 +88,7 @@ NVIDIA Maxine 利用 AI 的强大功能重塑了实时视频通信.
 
 我们怎么能够从这些海量信息中找到需要的内容呢？推荐系统学习物品的特征、您的显性或隐形偏好，然后为您推荐可能感兴趣的内容，这就是个性化互联网。先进的推荐引擎推动着全球消费互联网服务的发展，未来，它还将推动金融服务、医疗健康服务、旅游等行业的发展。NVIDIA Merlin 是用于推荐系统的 AI 框架。Merlin 由推荐系统流程的端到端组件组成，包括特征转换、召回和模型排序。通过 NVIDIA Merlin，公司可以快速构建、部署和扩展先进的深度学习推荐系统。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaMerlin.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaMerlin.png)
 
 Snap 使用 Merlin 来改善广告和内容推荐，在降低 50% 成本的同时，服务延迟也缩短了一半。腾讯微信基于 Merlin 将短视频推荐延迟缩短为原来的四分之一，并将吞吐量提升了十倍。从 CPU 迁移到 GPU，腾讯在该业务上的成本减少了一半。在这次 GTC，我们将正式发布 Merlin 的 1.0 版本。
 
@@ -97,7 +97,7 @@ Snap 使用 Merlin 来改善广告和内容推荐，在降低 50% 成本的同�
 Transformer 彻底革新了自然语言处理。训练大型语言模型需要极大的勇气，因为这是一项巨大的计算机科学挑战。OpenAI 的 GPT-3 有 1750 亿个参数。NVIDIA Megatron 有 5300 亿个；Google 的新版 Switch Transformer 有 1.6 万亿个参数。
 Nemo Megatron 是一款专门用于训练大型语言模型的 AI 框架，其支持的参数规模可高达数万亿。为了在目标基础架构上实现最佳性能，Nemo Megatron 可以自动执行数据、张量及流水线并行、编排和调度，并且自动适应不同精度。Nemo Megatron 现已支持各类 NVIDIA 系统，自动超参数调优，针对您的目标基础架构。Nemo Megatron 也是云原生的框架，现已支持 Azure，很快会支持 AWS。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NemoMegatron.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NemoMegatron.png)
 
 ## NVIDIA AI Accelerated Program
 
@@ -113,13 +113,13 @@ NVIDIA AI 使 AI 实现普及，让各个行业和公司都可以应用 AI 自�
 
 今天，我们将发布新一代产品，这是全球 AI 计算基础架构引擎的巨大飞跃。隆重推出 NVIDIA H100。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/H100Chip.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/H100Chip.png)
 
 H100 是一款超大的芯片，**采用 TSMC 4N 工艺，具有 800 亿个晶体管**。我们设计 H100 是为了用于纵向扩展和横向扩展，因此带宽，也就是内存、网络以及 NVLink 芯片之间的数据速率尤为重要。H100 是首款**支持 PCIe 5.0 标准**的 GPU，也是首款采用HBM3标准的 GPU。**单个 H100 可支持 40 Tb/s 的 IO 带宽**。从另一个角度来说，**20 块 H100 GPU 便可承托相当于全球互联网的流量**。Hopper 架构较之前一代 Ampere 架构，是一个巨大的飞跃。
 
 我来着重介绍 5 项突破性的创新。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/H100Inventions.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/H100Inventions.png)
 
 首先，H100 拥有强大的性能。新的 Tensor 处理格式：**FP8**。H100 具备以下运算能力：
 
@@ -128,23 +128,23 @@ H100 是一款超大的芯片，**采用 TSMC 4N 工艺，具有 800 亿个晶�
 - **1 PetaFLOPS 的 TF32**
 - **60 TeraFLOPS 的 FP64 和 FP32**
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/H100FLOPS.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/H100FLOPS.png)
 
 H100 采用风冷和液冷设计，是首个实现性能扩展至 **700 瓦**的 GPU。在过去六年里，通过 Pascal、Volta、Ampere 和现在的 Hopper 架构，我们相继开发了使用 FP32、FP16和现在的 FP8 进行训练的技术。在 AI 处理方面，Hopper H100 FP8 的 4 PetaFLOPS 性能是 Ampere A100 FP16 的 6 倍，这是一次巨大的代际飞跃。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/H100TransformerEngine.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/H100TransformerEngine.png)
 
 Transformer 无疑是最重要的深度学习模型。Hopper 引入了**Transformer 引擎**，Hopper Transformer 引擎将新的 Tensor Core 与能使用 FP8 和 FP16 数字格式的软件结合，动态处理 Transformer 网络的各个层，Transformer 模型训练时间可从数周缩短至数天。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/H100MultiInstance.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/H100MultiInstance.png)
 
 在云计算方面，多租户基础架构能够直接转化为收益和服务成本。一项服务可将 H100 划分为**多达 7 个实例**，Ampere 也可实现此操作。但是，Hopper 新增了完整的每实例隔离和每实例 IO 虚拟化，便于支持云端的多租户。H100 能够托管七个云租户，而 A100 仅能托管一个。每个 H100 实例的**性能相当于两个完整的 T4 GPU**（我们非常热门的云推理 GPU）。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/H100ConfidentialComputing.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/H100ConfidentialComputing.png)
 
 每个 Hopper 实例都支持在受信任执行环境中进行机密计算。通常，敏感数据处于静态以及在网络中传输时会进行加密，但在使用期间却不受保护。此类数据可以是一个 AI 模型，依托数百万美元的投资打造而成，基于多年的领域知识或公司专有数据进行了训练，并且具有价值或机密性。Hopper 机密计算是处理器架构和软件的结合，能够通过保护正在使用的数据和应用，弥合这一差距。目前，机密计算只能基于 CPU，Hopper 实现了**首个 GPU 机密计算**。Hopper 机密计算能够保护所有者的 AI 模型和算法的机密性和完整性。软件开发者和服务提供商现可在共享或远程基础架构上分发和部署宝贵的专有 AI 模型，保护其知识产权并扩展业务模式。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/H100DPX.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/H100DPX.png)
 
 此外，还有更多强大功能：Hopper 引入了一组名为 DPX 的新指令集，旨在**加速动态编程算法**。许多实际算法的组合复杂性或指数复杂性在不断的增长，比如：
 
@@ -155,7 +155,7 @@ Transformer 无疑是最重要的深度学习模型。Hopper 引入了**Transfor
 
 动态编程能够将复杂问题分解为可递归式解决的更简单的子问题，从而将复杂性和计算时间缩减至多项式计算的级别。Hopper DPX 指令集会使这些算法的速度加快**多达 40 倍**。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/H100Packaging.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/H100Packaging.png)
 
 H100 是 AI 基础架构的最新引擎，H100 采用 TSMC CoWoS 2.5D 封装，搭
 载了 HBM3 显存，并与电压调节集成至名为 SXM 的超级芯片模组中。
@@ -165,13 +165,13 @@ H100 是 AI 基础架构的最新引擎，H100 采用 TSMC CoWoS 2.5D 封装，�
 现在，我来向大家展示如何构建先进的 AI 计算基础架构：
 **8 个 H100 SXM 模组**通过 HGX 主板上的**4 个 NVLink Switch 芯片**相连，这 4 个超高速 NVSwitch 芯片各具有**3.6 TFLOPS**的 SHARP 网络计算性能。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DGX_H100.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DGX_H100.png)
 
 SHARP 技术最早在 Mellanox Quantum InfiniBand 交换机中被率先发明，对于广泛用于深度学习和科学计算的 all-to-all reductions 计算，SHARP 能够有效将**带宽提高 3 倍**。
 
 CPU 子系统由两个第 5 代 CPU 和两个网络模组组成,两个模组各配备四个 400 Gbps 的 ConnectX-7 InfiniBand 或 400 Gbps 的以太网网络芯片。ConnectX-7 拥有 80 亿个晶体管，是全球最先进的网络芯片。总计 640 亿个晶体管能够实现 3.2 Tb/s 的网络传输。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DGXNetworkingModule.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DGXNetworkingModule.png)
 
 隆重发布 DGX H100 - 我们全新的 AI 计算系统。
 DGX 取得了令人瞩目的成功，在《财富》10 强企业和 100 强企业中，分别有 8 家和 44 家企业使用 DGX 作为 AI 基础架构。
@@ -183,14 +183,14 @@ DGX 取得了令人瞩目的成功，在《财富》10 强企业和 100 强企�
 - **640 GB HBM3 显存**
 - **24 TB/s 的显存带宽**
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DGX_H100_view.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DGX_H100_view.png)
 
 DGX H100 实现了巨大的飞跃，此外，还有更多强大功能！
 
 我们采用全新方式扩展 DGX：我们可以借助 NVLink 连接多达 32 个 DGX。
 现在，我们宣布推出 NVIDIA NVLink Switch 系统。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NVLinkSwitch.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NVLinkSwitch.png)
 
 对于 AI 工厂而言，DGX 是最小的计算单元。借助 NVLink Switch 系统，我们可以将其扩展为一个巨大的拥有 **32 个节点、256 个 GPU 的 DGX POD**。并且 **HBM3 显存高达 20.5 TB，显存带宽高达 768 TB/s**。768 TB/s，可谓超高速！相比之下，整个互联网不过只有 100 TB/s。每个 DGX 都可借助 4 端口光学收发器连接到 NVLink Switch，每个端口都有 8 个 100G-PAM4 通道，每秒能够传输 100 GB。32 个 NVLink 收发器连接到 1 个机架单元的 NVLink Switch 系统。本质上，H100 DGX POD 是一款令人振奋的 GPU：
 
@@ -199,13 +199,13 @@ DGX H100 实现了巨大的飞跃，此外，还有更多强大功能！
 - **192 TF 的 SHARP 网络计算性能**
 - 在 GPU 之间移动数据的对分带宽惊人，高达**70 TB/s**
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DGX_POD.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DGX_POD.png)
 
 多个 H100 DGX POD 连接到我们新的 Quantum-2 400 Gbps InfiniBand 交换机，具有 SHARP 网络内计算技术，性能隔离和拥塞控制等功能特性，可扩展到具有**数千个 H100 GPU** 的 DGX SuperPOD。Quantum-2 交换机的芯片拥有 **570 亿个晶体管**，进而能够提供 **64 个 400 Gbps 端口**。
 
 DGX SuperPOD 是现代 AI 工厂。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DGX_SuperPOD.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DGX_SuperPOD.png)
 
 我们正在建造 EOS，这是 NVIDIA 打造的首个 Hopper AI 工厂，她将艳惊四座：
 
@@ -213,7 +213,7 @@ DGX SuperPOD 是现代 AI 工厂。
 - 576 台 DGX
 - 4608 个 H100 GPU
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia_EOS.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia_EOS.png)
 
 在传统的科学计算领域，EOS 的速度是 275 PetaFLOPS，若与 A100 驱动的美国速度最快的科学计算机 Summit 相比要快 1.4 倍。在 AI 方面，EOS 的 AI 处理速度是 18.4 ExaFLOPS，若与全球最大的超级计算机 – 日本的 Fugaku 相比要快 4 倍。我们期待 EOS 成为全球运行速度最快的 AI 计算机系统。
 
@@ -227,7 +227,7 @@ DGX SuperPOD 是现代 AI 工厂。
 
 在推理大型语言模型方面，H100 的吞吐量比 A100 高 30 倍。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaH100Performance.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaH100Performance.png)  
 
 H100 是我们实现的巨大飞跃。
 
@@ -237,31 +237,31 @@ NVIDIA H100 是全球 AI 基础架构的新引擎，Hopper 也将成为主流系
 
 它将先进的 GPU 和强大的网络处理器 ConnectX-7融合至一个模组中。网络数据通过 DMA 以 50 GB/s 的速度直接传输至 H100，从而避免 CPU系统内存和 PCIe 等多个通道的限制。H100 CNX 能够避免带宽瓶颈，同时释放 CPU 和系统内存，以便处理应用的其他部分，在一个为主流服务器设计的小巧封装中包含了大量令人难以置信的技术。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaH100CNX.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaH100CNX.png)  
 
 Hopper H100 支持各种规模的系统，包括用于主流服务器的 PCIe 加速器以及 DGX、DGX POD 和 DGX SuperPOD。
 
 这些系统能够运行 NVIDIA HPC、NVIDIA AI 以及 CUDA 库的丰富生态系统。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaH100Ecosystem.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaH100Ecosystem.png)  
 
 下面我来介绍一下 Grace 的最新进展，这是我们的首款数据中心 CPU。
 我很高兴地宣布，Grace 进展飞速，有望明年供货。
 
 Grace 专为处理海量数据而设计，它将成为 AI 工厂的理想 CPU，这就是 Grace-Hopper。它是单一超级芯片模组，能够在 CPU 和 GPU 之间进行芯片间的直接连接。Grace-Hopper 的关键驱动技术之一是内存一致性芯片之间的 NVLink 互连，每个链路的速度达 900 GB/s！
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaGraceHopper.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaGraceHopper.png)  
 
 但前面我只讲了一半的故事，Grace 的一切都令人赞叹。
 
 Grace CPU 也可以是由两个通过芯片之间的 NVLink 连接，保证一致性的 CPU 芯片组成的超级芯片。
 Grace 超级芯片拥有 144 个 CPU 核心！而且，内存带宽高达 1 TB/s，速度之快着实惊人，是尚未发布的第 5 代顶级 CPU 的 2 到 3 倍。我们预估 Grace 超级芯片的 SPECint 2017 得分为 740，目前几乎没有任何产品可与之媲美。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaGraceHopper2.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaGraceHopper2.png)  
 
 令人惊叹的是，整个模组（包括 1 TB 内存）的功率仅为 500 瓦。我们预计 Grace 超级芯片届时将是最强大的 CPU，拥有最高性能和两倍能效。Grace 将在 AI、数据分析、科学计算和超大规模计算领域有着惊人的表现，Grace 还将得到 NVIDIA 所有软件平台（NVIDIA RTX、HPC、NVIDIA AI 和 Omniverse）的支持。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaNVLink.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaNVLink.png)  
 
 Grace-Hopper 和 Grace 超级芯片的推动因素是超节能、低延迟、高速内存一致性 NVLink 芯片到芯片链路。借助从裸片之间、芯片之间以及系统之间的 NVLink 扩展，我们可以配置 Grace 和 Hopper，以便处理各种工作负载，我们可以通过 Grace 和 Hopper 打造不同的系统：
 
@@ -272,11 +272,11 @@ Grace-Hopper 和 Grace 超级芯片的推动因素是超节能、低延迟、高
 - 2 个 Grace 加 4 个 Hopper 组成的系统
 - 2 个 Grace 加 8 个 Hopper 组成的系统
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaGraceHopperSystems.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaGraceHopperSystems.png)  
 
 Grace 和 Hopper 的 NVLink 以及 ConnectX-7 中的 PCIe 5.0 交换机组合，能够为我们提供大量方法，解决客户的各种计算需求。未来的 NVIDIA 芯片，如 CPU、GPU、DPU、NIC 和 SOC，将像 Grace 和 Hopper 一样集成 NVLink。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaNVLinkCustomers.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaNVLinkCustomers.png)  
 
 我们拥有十分出色的 SERDES 技术，凭借多年的高速显存位宽、NVLink 和网络交换机设计经验，NVIDIA 在高速 SERDES 方面掌握了出色的专业知识。NVIDIA 正在为那些希望采用连接到 NVIDIA 平台的定制芯片客户和合作伙伴提供 NVLink 和 SERDES。这些高速链路为通过 NVIDIA 计算构建半定制芯片和系统开辟了一个新的世界。
 
@@ -288,7 +288,7 @@ Grace 和 Hopper 的 NVLink 以及 ConnectX-7 中的 PCIe 5.0 交换机组合，
 
 RAPIDS 是一套 SDK，可供数据科学家将热门 Python API 用于 DataFrame、SQL、数组，机器学习和图分析。RAPIDS 是 NVIDIA 备受欢迎的 NVIDIA SDK 之一，仅次于用于深度学习的 cuDNN。RAPIDS 的下载次数已达 200 万次，同比增长了 3 倍。它已在超过 5000 个 GitHub 项目和 2000 多个 Kaggle notebooks 中使用，并集成至 35 个商业软件包中。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NVIDIA_Rapids.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NVIDIA_Rapids.png)
 
 NVIDIA RAPIDS for Spark 是用于加速 Apache Spark 的插件。Spark 是先进的数据处理引擎，80% 的《财富》500 强公司都在使用，Spark 用户可以透明地加速 Spark data-frame 和 SQL，原本需要数小时完成的操作现在只需数分钟即可完成。
 
@@ -296,19 +296,19 @@ NVIDIA RAPIDS for Spark 是用于加速 Apache Spark 的插件。Spark 是先进
 
 NVIDIA cuOpt（之前称为 ReOpt）是一款 SDK，能够优化多代理、多约束的路线规划，用于仓库内的交付服务或自主移动机器人。借助 NVIDIA cuOpt，企业第一次可以在数秒内完成上千个包裹到上千个地点的实时规划，并且具备超高准确率。超过 175 家公司正在测试 NVIDIA cuOpt。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia_cuOpt.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia_cuOpt.png)
 
 ## DGL
 
 图是表示真实世界数据（如地图、社交网络、Web、蛋白质和分子以及金融交易）的常用数据结构之一。NVIDIA DGL 容器支持跨多个 GPU 和节点训练大型图神经网络。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia_DGL.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia_DGL.png)
 
 ## Morpheus
 
 NVIDIA Morpheus 是用于网络安全的深度学习框架。Morpheus 能够帮助网络安全开发者构建和扩展解决方案，这些解决方案使用深度学习技术，以前所未有的方式来识别、捕捉威胁并对威胁采取行动。每家公司都需要改用零信任架构，NVIDIA 无疑可使用 Morpheus。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia_Morpheus.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia_Morpheus.png)
 
 ## cuQuantum
 
@@ -316,13 +316,13 @@ cuQuantum 是一种用于加速量子电路仿真器的 SDK，可让研究人员
 
 cuQuantum 能加速多种先进的 QC 仿真器，包括 Google Cirq、IBM Qiskit、Xanadu 的 Pennylane、Quantinuum TKET 和橡树岭国家实验室的 ORNL ExaTN，DGX 上的 cuQuantum 是非常适合量子计算的开发系统。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia_cuQuantum.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia_cuQuantum.png)
 
 ## Aerial
 
 Aerial 是一款适用于 CUDA 加速的软件定义的 5G 无线网络的 SDK。借助 Aerial，无论是数据中心、云、本地，还是边缘，均可成为 5G 无线网络，并可为无 WIFI 服务的地方提供 5G AI 服务。6G 标准将于 2026 年左右问世，6G 是大势所趋 – 数以千亿计的机器和机器人将成为网络用户中的主力军。6G 正围绕一些基础技术逐步形成雏形；与网络一样，6G 将很大程度上由软件定义。网络将由 AI 驱动，基于光线追踪和 AI 的数字孪生将有助于优化网络。NVIDIA 可以在这些领域做出贡献。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia_Aerial.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia_Aerial.png)
 
 我们很高兴地宣布推出新框架 Sionna，它是一种用于 6G 通信研究的 AI 框架
 
@@ -332,19 +332,19 @@ Modulus 是用于开发 Physics–ML 模型的 AI 框架，这些深度神经网
 
 我们正使用 Modulus 构建 Earth-2 数字孪生。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia_Modulus.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia_Modulus.png)
 
 ## MONAI
 
 MONAI 是一个用于医疗影像的开源 AI 框架。NVIDIA MONAI 容器包含 2D 和 3D 模型的 AI 辅助标注、迁移学习和 AutoML 训练，可通过 DICOM 轻松部署。世界排名前 30 的学术医疗中心正在使用 MONAI，下载超过 25 万次。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia_MONAI.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia_MONAI.png)
 
 ## FLARE
 
 FLARE 是用于联邦学习的 NVIDIA 开源 SDK，使研究人员能够以一种保护隐私的方式（即共享模型而非数据）开展协作。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia_FLARE.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia_FLARE.png)
 
 数百万开发者和成千上万的公司使用 NVIDIA SDK 来加速处理工作负载。在本次 GTC 上我们更新了 60 个 SDK，加入了更多功能和加速技术，现有的 NVIDIA 系统变得更快。进行运筹学研究、量子算法研究、6G 研究或图分析的科学家将能首次使用 NVIDIA 加速技术。对于从事计算机辅助设计或工程的公司，他们所依赖的软件工具（由 Ansys、Altair、Siemens、Synopsys、Cadence 等公司开发）将获得大幅的速度提升。
 
@@ -382,11 +382,11 @@ Omniverse 可从 RTX PC 扩展到大型系统，连接到托管 Omniverse Nucleu
 
 第一代 NVIDIA OVX Omniverse 计算机由**8 个 NVIDIA A40 RTX GPU**、**3 个 ConnectX-6 200 Gbps 网卡 NIC**和 **2 个 Intel Ice Lake CPU** 组成。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaOVXServer.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaOVXServer.png)  
 
 利用 **NVIDIA Spectrum-3 200 Gbps 交换机**连接 **32 台 OVX 服务器**就构成了 **OVX SuperPOD**。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaOVXSuperPOD.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaOVXSuperPOD.png)  
 
 最重要的是，网络和计算机使用精准时间协议进行同步，而且 RDMA 可更大程度降低数据包传输延迟。现在，全球各大计算机制造商纷纷推出 OVX 服务器。对于想在 OVX 上试用 Omniverse 的客户，NVIDIA 在全球各地提供了 LaunchPad 计划。第一代 OVX 正由 NVIDIA 和早期客户运行。
 
@@ -396,7 +396,7 @@ Omniverse 可从 RTX PC 扩展到大型系统，连接到托管 Omniverse Nucleu
 
 Spectrum-4 可在所有端口之间**公平分配带宽**，并提供**自适应路由**和**拥塞控制**功能，能显著提升数据中心的整体吞吐量。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaSpectrum-4.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaSpectrum-4.png)  
 
 凭借 ConnectX-7 和 BlueField-3 适配器以及 DOCA 数据中心基础架构软件，它们将组成世界上首个 **400 Gbps** 端到端网络平台。与典型数据中心数毫秒的抖动相比，Spectrum-4 可以实现**纳秒级计时精度** – 即 5 到 6 个数量级的改进。
 
@@ -412,7 +412,7 @@ Omniverse 是一个连接虚拟世界的“网络中的网络”，当不同的�
 
 自去年举行 GTC 以来，我们的连接软件数量从 8 个增加到 82 个，与我们连接的包括：Chaos Vray、Autodesk Arnold 和 Blender以及 Adobe 的 3D Substance Painter、Epic 的虚幻引擎 5 和 Maxon 的 Cinema 4D。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/OmniverseConnectors.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/OmniverseConnectors.png)  
 
 许多开发者希望 OEM 将 Omniverse 直接连接到他们的软件套件。Bentley Systems 是先进的基础架构设计、施工和管理平台。他们将 Omniverse 集成到他们的 LumenRT 平台中，对大型基础架构数字孪生进行交互式、工程级、精确到毫米级的 4D 可视化。
 
@@ -426,7 +426,7 @@ Bentley 现已推出集成了 Omniverse 的 LumenRT。
 - Omnigraph 是多 GPU、多节点的计算引擎，用于运行数据中心级 Omniverse 应用
 - Omniverse Avatar 是一个非常大型的项目，提供用于构建虚拟形象或数字人的框架
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/OmniverseUpdates.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/OmniverseUpdates.png)  
 
 
 ## Toy Jensen
@@ -455,7 +455,7 @@ Tokkio 是一款使用 Omniverse Avatar 构建的应用，它将客户服务 AI 
 - 用于自主式基础架构的 Metropolis
 - 用于机器人医疗器械的 Holoscan
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia_Omniverse_platforms.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia_Omniverse_platforms.png)
 
 正如 NASA 认识到的，我们需要数字孪生来操作远处的机器人舰队。机器人系统的工作流程很复杂。我将它简化为四个支柱：
 
@@ -466,32 +466,32 @@ Tokkio 是一款使用 Omniverse Avatar 构建的应用，它将客户服务 AI 
 
 Omniverse 是整个工作流程的核心。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/RoboticWorkflow4Pillars.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/RoboticWorkflow4Pillars.png)
 
 DRIVE 是我们的自动驾驶汽车系统，本质上是 AI 司机。与我们所有的平台一样，NVIDIA DRIVE 是全栈的端到端平台，并且对开发者开放，让他们既可使用整个平台，也可使用其中的一部分。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Drive4Pillars.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Drive4Pillars.png)
 
 - 对于真值数据，我们使用 DeepMap 高精地图、人工标记数据和 Omniverse Replicator
-  ![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/GroundTruthMapData.png)
-  ![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMap.png)
-  ![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/HumanLabeledData.png)
-  ![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/OmniverseReplicator.png)
+  ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/GroundTruthMapData.png)
+  ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMap.png)
+  ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/HumanLabeledData.png)
+  ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/OmniverseReplicator.png)
 - 为了训练 AI 模型，我们使用 NVIDIA AI 和 DGX
 - Omniverse 中的 DRIVE Sim 在 OVX 上运行，是数字孪生
 - DRIVE AV 是一款运行在车载 Orin 计算平台上的自动驾驶应用
 
 让我们通过最新版 NVIDIA Drive 来享受驾驶吧。我们将带您沿着圣何塞的高速公路和市区路线行驶。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaDriving1.gif)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaDriving1.gif)
 
 您可以在可信度渲染视图中看到汽车看见的场景。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaDriving2.gif)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaDriving2.gif)
 
 我们将在复杂场景中驾驶，例如拥挤的交叉路口。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaDriving3.gif)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaDriving3.gif)
 
 AI 司机将会是您友善的驾驶伙伴
 
@@ -526,109 +526,109 @@ Hyperion 8 是我们自动驾驶汽车的硬件架构，同时它也是整个 DR
 它由以下硬件组成：
 
 - 多个传感器、多个网络
-  ![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/HyperionSensors.png)
+  ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/HyperionSensors.png)
 - 两台司机自动驾驶计算机
-  ![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/HyperionChauffeurAV.png)
+  ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/HyperionChauffeurAV.png)
 - 一台服务员 AI 计算机
-  ![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/HyperionConsierge.png)
+  ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/HyperionConsierge.png)
 - 一个任务记录器
-  ![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/HyperionMissionRecorder.png)
+  ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/HyperionMissionRecorder.png)
 - 以及安全和网络安全系统
-  ![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/HyperionSafetySystem.png)
+  ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/HyperionSafetySystem.png)
 
 它是开放式架构。
 Hyperion 8 可以使用 360 度摄像头、雷达、激光雷达和超声传感器套件实现全自动驾驶。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Hyperion8Cameras.png)
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Hyperion8Radars.png)
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Hyperion8Lidar.png)
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Hyperion8Ultrasonic.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Hyperion8Cameras.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Hyperion8Radars.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Hyperion8Lidar.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Hyperion8Ultrasonic.png)
 
 Hyperion 8 将从 2024 年起搭载到梅赛德斯-奔驰汽车中，
 然后在 2025 年搭载到捷豹路虎汽车中。
 
 今天，我们宣布 Hyperion 9 将从 2026 年起搭载到汽车中。Hyperion 9 将拥有**14 个摄像头、9 个雷达、3 个激光雷达和 20 个超声传感器**。总体而言，Hyperion 9 处理的传感器数据量将两倍于 Hyperion 8，从而进一步增强安全性并扩大全自动驾驶的工作领域。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Hyperion9.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Hyperion9.png)
 
 ### DRIVE MAP
 
 NVIDIA DRIVE Map 是一种多模态地图引擎，包括**摄像头、雷达和激光雷达的数据**。您可以单独定位到地图的每一层，这将提供**多样性和冗余性**，以实现最高级别的安全性。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapLayers.gif)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapLayers.gif)
 
 Drive Map 有两个地图引擎：
 **真值测绘地图**
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapGroundtruthSurveyMapping.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapGroundtruthSurveyMapping.png)
 和**众包车队地图**
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapCrowdSourcedFleetMapping.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapCrowdSourcedFleetMapping.png)
 
 到 2024 年底，我们预计绘制并创建北美、西欧和亚洲所有主要公路的数字孪生，总长度约为 50 万公里。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapAsia.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapAsia.png)
 
 数百万辆乘用车将不断扩展和更新该地图。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapUpdating.gif)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapUpdating.gif)
 
 我们正在构建地球级别的自动驾驶车队数字孪生，以探索新的算法和设计，并在部署到车队之前测试软件。我们正在开发两种场景仿真方法，每种都以不同方式重建整个世界。
 
 1. 其中一种方法从 NVIDIA Drive Map 开始。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapLidarVoxelMap.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapLidarVoxelMap.png)
 
 这种多模态地图引擎可为整个世界创建高度精确的 3D 表现形式。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMap3dRepresentation.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMap3dRepresentation.png)
 
 地图加载到 Omniverse 中，
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapOmniverseSim.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapOmniverseSim.png)
 
 建筑、植被和其他路边目标均会生成。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapObjectsGeneration.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapObjectsGeneration.png)
 
 系统对之前驾驶过程中遇到的运动目标、汽车和行人进行推理和定位，然后放入数字孪生中。
 
 
 | Real World | Digital Twin |
 | ------ | ------ |
-|![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapRecorded.png)|![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapDigitalTwin.png)|
+|![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapRecorded.png)|![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapDigitalTwin.png)|
 
 我们可以将每个运动目标生成动画，或向其分配 AI 行为模型，还可以应用域随机化来生成多样化且合理的挑战性场景。
 
 | Real World | Digital Twin(Domain Randomization) |
 | ------ | ------ |
-|![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapRealRecord.png)|![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapDomainRandomization.png)|
+|![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapRealRecord.png)|![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapDomainRandomization.png)|
 
 
 2. 第二种方法使用神经图形 AI 和 Omniverse，将预先录制的驾驶视频转换为可回放和可修改的驾驶过程。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapPreRecorded.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapPreRecorded.png)  
 
 我们首先重建 3D 场景。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMap3dReconstruction.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMap3dReconstruction.png)  
 
 系统会识别并移除运动的目标，背景被恢复。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapDynamicObjectRemoval.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapDynamicObjectRemoval.png)  
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapNeuralReconstruction.gif)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapNeuralReconstruction.gif)  
 
 
 重建场景后，我们可以改变现有车辆的行为，或添加可完全控制、在交通环境下真实反应的车辆。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapAddedVehicle.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapAddedVehicle.png)  
 
 重新生成的驾驶过程，结合 3D 几何图形和基于物理效果的材质，让我们可以为场景重新打光，应用物理效果和仿真激光雷达等传感器。现在，可以重新运行预先录制的场景，并运用于闭环仿真和测试。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapSceneEdition.gif)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapSceneEdition.gif)  
 
 DRIVE Map 和 DRIVE Sim 包含 NVIDIA 研究工作取得的突破性 AI 成果，展示了 Omniverse 数字孪生在推动自动驾驶汽车开发方面的力量。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/DriveMapMapAndSim.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/DriveMapMapAndSim.png)  
 
 NVIDIA DRIVE Map、DRIVE Sim、搭载 Orin 的 Hyperion 8 和 DRIVE AV 栈既可单独使用，也可作为一个整体使用。
 
@@ -642,13 +642,13 @@ NVIDIA 自动驾驶车载计算机、软件和机器人 AI 基本上是与新一
 
 请允许我为大家展示 Holoscan 可以为一台名为光片显微镜(Lightsheet Microscope)的惊人仪器做些什么。光片显微镜由诺贝尔奖得主 Eric Betzig 发明，可利用高分辨率荧光创建细胞移动和分裂的影片，使得研究人员能够研究运动中的生物学问题在于光片显微镜每小时可产生 3TB 的数据，这相当于 30 部 4K 电影的数据量。处理 3TB 的数据需要长达一天的时间，
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaClaraHoloscan.png)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaClaraHoloscan.png)
 
 借助 NVIDIA Clara Holoscan，我们可以对这些数据进行实时处理。
 
 > 解说：
 现在，借助 Clara Holoscan 和 NVIDIA Index，我们可以实时可视化大量活细胞。这些数据是直接从显微镜记录下来的，通过观察这些活的癌细胞的移动情况，我们可以同时看到正常、健康的生物特征及其恶化过程。蓝色荧光标记的细胞核从一个细胞分裂为两个细胞。癌症的一个标志是，与正常的健康细胞相比，细胞分裂更频繁，错误检查更少。加州大学伯克利分校的晶格光片显微镜具有超高分辨率，借此科学家能够发现隐藏在普通光学器件中的东西，这是 使用传统显微镜无法观察到的。当我们放大时，观察到一个对于癌细胞系来说都非常罕见的情况：发现一个细胞分裂成 3 个细胞。
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/HoloscanCancerCell.gif)
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/HoloscanCancerCell.gif)
 这一现象仅在一些科学出版物中有过零星报道，科学家尚不知道我们将看到什么，但现在借助实时处理和可视化技术，科学界可以发现此类的未见过的事件。
 我们来看看未来的发展情况。
 
@@ -676,9 +676,9 @@ Metropolis 已经取得了非凡的成绩：下载量达 30 万次，拥有 1000
 > 解说：
 百事的产品每天在全球有超过 10 亿次的消费，将如此多的产品分销至 200 多个区域市场需要 600 多个配送中心，提高供应链效率和环境可持续性是百事一直以来的重要目标。
 为实现这一目标，他们采用 NVIDIA Omniverse 和 Metropolis 构建数字孪生，模拟包装和配送中心，这样他们能够在进行实物投资之前测试布局变化，优化工作流程以加速吞吐量。
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/OmniversePepsi.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/OmniversePepsi.png)  
 随着新产品和流程的推出，可以使用 Omniverse Replicator 和 NVIDIA TAO创建逼真的合成数据，然后重新训练实时 AI 模型。这些新模型和优化被转移到现实世界，通过 NVIDIA Metropolis 应用（使用 AI 计算机视觉）实时监控和优化传送带速度，防止在长达数英里的传送带上发生堵塞和宕机。
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/OmniversePepsi2.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/OmniversePepsi2.png)  
 此外，借助 NVIDIA Fleet Command，所有这些应用均可从一个集中式控制平面，安全部署于数百个配送中心并进行管理。
 通过利用 NVIDIA Omniverse、Metropolis 和 Fleet Command，百事公司正在简化供应链运营，减少能源消耗和浪费，并推动可持续发展的使命。
 
@@ -698,7 +698,7 @@ Metropolis 已经取得了非凡的成绩：下载量达 30 万次，拥有 1000
 - Isaac 机器人技术堆栈中的新 Gem
 - 基于 Omniverse 的新版 Isaac Sim.
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/IssacForAMR.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/IssacForAMR.png)  
 
 首先，与 DRIVE Hyperion 一样，Isaac Nova 是一个 AMR 机器人系统参考设计，整个 Isaac 堆栈都基于此构建。
 
@@ -710,35 +710,35 @@ Isaac 机器人 SDK 包括感知、定位、建图、规划和导航模块。今
 
 Isaac 包括目标和人员检测
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/IssacObjectPersonDetection.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/IssacObjectPersonDetection.png)  
 
 3D 位姿估计
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Issac3dPoseEstimation.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Issac3dPoseEstimation.png)  
 
 LIDAR 和视觉 SLAM 定位和建图
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/IssacLidarVisualSLAM.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/IssacLidarVisualSLAM.png)  
 
 3D 环境重建
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Issac3dReconstruction.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Issac3dReconstruction.png)  
 
 自由空间感知
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/IssacFreeSpacePerception.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/IssacFreeSpacePerception.png)  
 
 使用强化学习的小车对接
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/IssacDollyDocking.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/IssacDollyDocking.png)  
 
 导航堆栈、与 NVIDIA cuOpt 集成以进行实时规划
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/IssacRealtimePlanning.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/IssacRealtimePlanning.png)  
 
 以及机械臂运动规划和机器人运动学等重要功能
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/IssacRoboticArmPlanning.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/IssacRoboticArmPlanning.png)  
 
 还有一个用于远程操作的 SDK。
 
@@ -818,7 +818,7 @@ Omniverse，为下一波的 AI 浪潮而生。
 - 软件平台（NVIDIA HPC、NVIDIA AI 和 NVIDIA Omniverse），
 - AI 和机器人应用框架
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia4Stacks.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia4Stacks.png)  
 
 这些产品正引领着五个态势去塑造我们的行业
 - Million-X 百万倍的计算加速
@@ -827,21 +827,21 @@ Omniverse，为下一波的 AI 浪潮而生。
 - 对机器人系统的需求呈指数增长
 - 下一个 AI 时代的数字孪生
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/Nvidia5Dynamics.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/Nvidia5Dynamics.png)  
 
 四层技术栈，五大态势
 
 NVIDIA 加速计算、数据中心级全栈工程优化，使计算速度提高了百万倍。Million-X 百万倍加速为应对药物研发和气候科学等重大挑战提供了契机。随着自主学习 Transformer 的发明，AI 的发展速度跃上新高，AI 已从根本上改变了软件的能力以及开发软件的方式。公司通过处理和提炼数据来打造 AI、构建智能，其数据中心就是 AI 工厂。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaAiApplications.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaAiApplications.png)  
 
 NVIDIA H100 是全球 AI 基础架构的新引擎。NVIDIA 的 NVLink Switch 系统可将最多 32 个 DGX 连接成一个高达 **1 ExaFLOPS 算力**的模块，作为 AI 工厂的基础单元，
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaNVLinkSwitch.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaNVLinkSwitch.png)  
 
 Hopper H100 是有史以来最大的代际性能提升，其**大规模训练性能是 A100 的 9 倍**，**大型语言模型推理的吞吐量是 A100 的 30 倍**。Hopper 还可以加速主流服务器。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaH100.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaH100.png)  
 
 NVIDIA H100 CNX 通过最先进的网络芯片 – NVIDIA ConnectX-7将网络直接连接到 H100。NVIDIA H100 是全球 AI 基础架构的引擎。
 
@@ -852,11 +852,11 @@ Grace 有望在明年投入生产。
 
 Grace 是一款令人惊艳的超级芯片：2 个 CPU **通过 900 GB/s 的 NVLink 芯片**到芯片的互连从而构成一个内存带宽为 **1 TB/s 的 144 核 CPU** 。Grace，全球 AI 基础架构的理想 CPU。NVLink 现在应用于裸片之间、芯片之间和系统之间的互联，并为我们提供了多种 Grace-Hopper 系统配置：从 2 个 Grace、1 个 Grace 加 1 个 Hopper、到 2 个 Grace 加 8 个 Hopper。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaGrace.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaGrace.png)  
 
 未来的所有 NVIDIA 芯片都将**支持 NVLink，包括 CPU、GPU、DPU 和 SOC**，我们还将为客户和合作伙伴提供 NVLink，以构建配套芯片。NVLink 为客户打开了新世界的大门，让他们可以利用 NVIDIA 平台和生态系统构建半定制芯片和系统。全球超过 25000 家公司使用的 NVIDIA AI 平台将进行重大更新。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaNVLink.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaNVLink.png)  
 
 NVIDIA Omniverse 平台适合虚拟世界、数字孪生和机器人系统，将掀起下一波 AI 浪潮。正如 TensorFlow 和 PyTorch 是面向感知的 AI 的基本框架一样，Omniverse 也将成为面向动作的 AI 的不可或缺的一部分。DGX 是 AI 工厂的基础架构，OVX 将成为数字孪生的基础架构。OVX 运行 Omniverse 数字孪生，用于大规模仿真，多个自主系统在同一个时空运行，OVX 的基础是网络结构。
 
@@ -864,17 +864,17 @@ NVIDIA Omniverse 平台适合虚拟世界、数字孪生和机器人系统，将
 
 Spectrum-4 的样品将于第三季度问世。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaSpectrum-4.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaSpectrum-4.png)  
 
 能够感知、规划并采取行动的机器人系统将引领下一波 AI 浪潮。
 
 **NVIDIA Avatar、Drive、Metropolis、Isaac 和 Holoscan** 是基于四大支柱构建的端到端全栈机器人平台。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaFullStackArmPlatforms.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaFullStackArmPlatforms.png)  
 
 四大支柱即**真值数据生成、AI 模型训练、机器人技术栈和 Omniverse 数字孪生**。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaRobotics4Pillars.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaRobotics4Pillars.png)  
 
 开发者可以部分采用这些平台，也可以整体采用。
 
@@ -888,7 +888,7 @@ Clara Holoscan 开发者套件将于 5 月上市。我们在本届 GTC 上更新
 
 NVIDIA SDK 服务于医疗健康、能源、交通、零售、金融、媒体和娱乐等总价值达 100 万亿美元的行业。通过在全栈和数据中心级实现加速，我们将力争在未来十年内再实现百万倍的提速。我迫不及待地想知道下一个 Million-X 百万倍会带来怎样的变化。
 
-![](/images/2022-05-18-NVIDIA GTC 2022 Keynotes.assets/NvidiaSDKCustomers.png)  
+![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NvidiaSDKCustomers.png)  
 
 我要感谢 NVIDIA 开发者、合作伙伴、客户和 NVIDIA 的家人们，感谢你们为塑造世界所做的出色工作。不过，请暂时不要离开。**Omniverse 生成了您今天看到的每一个渲染和仿真**。
 
