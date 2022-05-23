@@ -897,9 +897,10 @@ NVIDIA 卓越的创意团队希望带您再一次体验 Omniverse。
 <iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1fs411876b&cid=12999245&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ## Video2
-<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1fs411876b&cid=12999245&page=1&t=476.0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1fs411876b&cid=12999245&page=1&t=476.0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 
 ## Video3
 
-<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1fs411876b&cid=12999245&page=1&t=476.0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="720" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1fs411876b&cid=12999245&page=1&t=476.0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="100%" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
