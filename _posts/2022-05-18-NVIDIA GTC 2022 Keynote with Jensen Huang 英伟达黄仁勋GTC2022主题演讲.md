@@ -19,6 +19,8 @@ AI 已从根本上改变了软件的能力以及开发软件的方式。各公�
 
 GPU 使 AI 发生了革命性的转变。现在，基于 GPU 的 AI 正在革新各个行业和科学领域，其中对人类最有影响力之一的便是气候科学。科学家们预测，要想有效地模拟区域气候变化需要一台比现在大十亿倍的超级计算机。但我们现在就必须对工业决策的影响以及减缓和适应策略的有效性作出预测。NVIDIA 将使用我们的首台 AI 数字孪生超级计算机 Earth-2 来应对这一巨大挑战。通过发明新的 AI 和计算技术，来让我们获得十亿倍的算力支持，并及时采取行动，早期的证据表明我们能够成功。来自 NVIDIA、加州理工学院、伯克利实验室、普渡大学、密歇根大学和莱斯大学的研究人员开发了一个名为 FourCastNet 的天气预报 AI 模型。FourCastNet 是一种基于物理信息的深度学习模型，可以预测飓风、大气河以及极端降水等天气事件。FourCastNet 以欧洲中期天气预报中心 (ECMWF) 长达 40 年的模拟增强型真值数据为基础学会了如何预测天气。深度学习模型首次在降水预测方面达到了比先进的数值模型更高的准确率和技能并使预测速度提高了 4 到 5 个数量级。也就是说传统的数值模拟需要一年的时间，而现在只需要几分钟。
 
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=4&t=112.6&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
 > 解说:  
 > 大气河是天空中巨大的水汽河流，每条河流的水量都比亚马逊河的还要多。它们一方面为美国西部提供了关键的降水来源，但另一方面，这些巨大的强风暴也会导致灾难性的洪灾和暴雪。NVIDIA 创建了 Physics-ML 模型，该模型可以模拟全球天气模式的动态变化，以超乎想象的速度和准确性预测大气河等极端天气事件。此 GPU 加速的 AI 数字孪生模型名为 FourCastNet，由傅里叶神经算子提供动力支持，基于 10 TB 的地球系统数据进行训练。依托这些数据，以及 NVIDIA Modulus 和 Omniverse，我们能够提前一周预测灾难性大气河的精确路线。在一个 NVIDIA GPU 的助力下，FourCastNet 只需几分之一秒即可完成预测  
 
@@ -894,13 +896,16 @@ NVIDIA SDK 服务于医疗健康、能源、交通、零售、金融、媒体和
 NVIDIA 卓越的创意团队希望带您再一次体验 Omniverse。
 
 ## Video1
-<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1fs411876b&cid=12999245&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1fs411876b&cid=12999245&page=1&t=476.0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 ## Video2
 
-<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1fs411876b&cid=12999245&page=1&t=476.0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&page=11&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 
 ## Video3
 
 <iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1fs411876b&cid=12999245&page=1&t=476.0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="100%" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+## JSFiddle
+
+<iframe width="100%" height="300" src="https://jsfiddle.net/tchaffee/L4h60y79/embedded/js/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
