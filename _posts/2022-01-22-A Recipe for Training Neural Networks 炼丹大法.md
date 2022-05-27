@@ -1,4 +1,5 @@
-2022-01-22- A Recipe for Training Neural Networks 炼丹大法
+#! https://zhuanlan.zhihu.com/p/521004064
+A Recipe for Training Neural Networks 炼丹大法
 
 ---
 Andrej Karparthy 2019年的一篇博客 [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/), 以下为全文翻译。
@@ -200,4 +201,6 @@ random.seed(0)
 到这里你已经有了炼丹的所有要素：你对技术，数据和要解决的问题有了深入的了解；你搭建了完整的训练/评测设施并对模型的精度有高度的信心；你尝试越来越复杂的模型，并且且逐步提升了效果。
 
 现在，你已经准备好阅读大量的文献，进行大量的实验，并取得你自己的SOTA了，好运！
+
+
 
