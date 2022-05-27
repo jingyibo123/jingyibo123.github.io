@@ -1,5 +1,13 @@
-NVIDIA GTC 2022 Keynotes
+NVIDIA GTC 2022 Keynote with Jensen Huang / 英伟达黄仁勋GTC2022主题演讲
 
+---
+本文为英伟达2022GTC大会上的黄仁勋主题演讲主要内容翻译和整理。
+
+原视频链接：
+[[Youtube]](https://www.youtube.com/watch?v=39ubNuxnrK8)
+[[Bilibili 双语字幕]](https://www.bilibili.com/video/BV1hY4y157sC/) 
+
+---
 [TOC]
 
 # Opening
@@ -19,10 +27,12 @@ AI 已从根本上改变了软件的能力以及开发软件的方式。各公�
 
 GPU 使 AI 发生了革命性的转变。现在，基于 GPU 的 AI 正在革新各个行业和科学领域，其中对人类最有影响力之一的便是气候科学。科学家们预测，要想有效地模拟区域气候变化需要一台比现在大十亿倍的超级计算机。但我们现在就必须对工业决策的影响以及减缓和适应策略的有效性作出预测。NVIDIA 将使用我们的首台 AI 数字孪生超级计算机 Earth-2 来应对这一巨大挑战。通过发明新的 AI 和计算技术，来让我们获得十亿倍的算力支持，并及时采取行动，早期的证据表明我们能够成功。来自 NVIDIA、加州理工学院、伯克利实验室、普渡大学、密歇根大学和莱斯大学的研究人员开发了一个名为 FourCastNet 的天气预报 AI 模型。FourCastNet 是一种基于物理信息的深度学习模型，可以预测飓风、大气河以及极端降水等天气事件。FourCastNet 以欧洲中期天气预报中心 (ECMWF) 长达 40 年的模拟增强型真值数据为基础学会了如何预测天气。深度学习模型首次在降水预测方面达到了比先进的数值模型更高的准确率和技能并使预测速度提高了 4 到 5 个数量级。也就是说传统的数值模拟需要一年的时间，而现在只需要几分钟。
 
+<details>
+<summary>视频介绍</summary>
+<br>
+大气河是天空中巨大的水汽河流，每条河流的水量都比亚马逊河的还要多。它们一方面为美国西部提供了关键的降水来源，但另一方面，这些巨大的强风暴也会导致灾难性的洪灾和暴雪。NVIDIA 创建了 Physics-ML 模型，该模型可以模拟全球天气模式的动态变化，以超乎想象的速度和准确性预测大气河等极端天气事件。此 GPU 加速的 AI 数字孪生模型名为 FourCastNet，由傅里叶神经算子提供动力支持，基于 10 TB 的地球系统数据进行训练。依托这些数据，以及 NVIDIA Modulus 和 Omniverse，我们能够提前一周预测灾难性大气河的精确路线。在一个 NVIDIA GPU 的助力下，FourCastNet 只需几分之一秒即可完成预测  
+</details>
 <iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=4&t=112.6&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-
-> 解说:  
-> 大气河是天空中巨大的水汽河流，每条河流的水量都比亚马逊河的还要多。它们一方面为美国西部提供了关键的降水来源，但另一方面，这些巨大的强风暴也会导致灾难性的洪灾和暴雪。NVIDIA 创建了 Physics-ML 模型，该模型可以模拟全球天气模式的动态变化，以超乎想象的速度和准确性预测大气河等极端天气事件。此 GPU 加速的 AI 数字孪生模型名为 FourCastNet，由傅里叶神经算子提供动力支持，基于 10 TB 的地球系统数据进行训练。依托这些数据，以及 NVIDIA Modulus 和 Omniverse，我们能够提前一周预测灾难性大气河的精确路线。在一个 NVIDIA GPU 的助力下，FourCastNet 只需几分之一秒即可完成预测  
 
 凭借如此快的速度，我们可以生成数千个模拟场景，探索所有可能的结果。与以往相比，我们能够更加自信地量化灾难性洪灾的风险。NVIDIA 是加速计算的先驱，这个领域需要全栈专业知识。
 
@@ -42,8 +52,13 @@ AI 正在各个方向加速发展，包括新的架构、新的学习策略、�
 
 接下来我展示一个令人惊叹的示例，这个 AI 驱动的动画角色是基于物理规则的强化学习模型制作的，一起来看一下。
 
-> 解说：  
+<details>
+<summary>视频介绍</summary>
+<br>
 我们正在利用强化学习开发更加栩栩如生、反应灵敏的物理模拟角色。我们的角色通过模仿人类的动作数据，来学习执行逼真的动作例如行走、跑动和挥剑。我们的角色在模拟环境中经过了长达 10 年的强化训练。借助 NVIDIA GPU 驱动的大规模并行模拟器，这种训练在真实世界中只需花费 3 天即可完成。这些虚拟角色随后会学习执行各种运动技能。经过训练的虚拟角色可以利用这些技能来执行更复杂的任务。现在，一个训练过的虚拟角色正跑向目标对象并将其击倒。我们还可以引导它沿着不同的方向行走，就像您操控游戏角色那样。基于我们的模型，虚拟角色可以在新环境中自动生成自然而连贯的行为。我们还可以使用自然语言控制它。例如，我们可以指示角色进行盾击或者挥剑。我们希望这项技术最终能让基于虚拟角色的动画制作变得简单、流畅，就像和真实演员说话一样。
+</details>
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=5&t=137.5&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
 
 NVIDIA AI 是驱动这些创新的引擎，我们正在全力推动该平台的发展，解决新问题，使其得到更广泛的应用，让 AI 触手可及。NVIDIA AI 是一套涵盖整个 AI 工作流程的库，从数据处理和 ETL 特征工程，到图形、经典机器学习、深度学习模型训练及大规模推理。NVIDIA DALI、RAPIDS、cuDNN、Triton 和 Magnum IO 是其中最热门的库。我们使用这些库来创建专用 AI 框架，包括先进的预训练模型和数据管道，使其易于横向扩展。
 
@@ -65,8 +80,9 @@ Riva 可以在各类云上运行，也可以在各类有 NVIDIA GPU 的地方运
 Maxine 是集合最先进 AI 算法的 SDK，它为重塑通讯方式而生。
 视频会议系统需要对图像和声音进行编码、传输和解码操作。**计算机视觉(Computer Vision)将取代传统图像编码，而计算机图形(Computer Graphics)将取代传统图像解码，语音识别(Speech Recognition)将取代传统音频编码，并且语音合成(Speech Synthesis)将取代传统音频解码**。
 在 AT&T 在纽约世博会上演示了可视电话之后的 55 年后，AI 将为视频会议带来革新。远程工作将常态化。我们对虚拟实时交互的需求已远超从前。Maxine 是一个 AI 模型工具包，开发者可以使用它来重塑通信和协作方式。Maxine 目前已拥有 30 个模型。本次 GTC 发布的版本增加了用于回声消除和音频超分辨率的新模型。我们来看看 Maxine 可以做什么。
-
-> 解说:  
+<details>
+<summary>视频介绍</summary>
+<br>
 NVIDIA Maxine 利用 AI 的强大功能重塑了实时视频通信。  
 借助 Maxine，我们现在可以更好地倾听和看到彼此，增加包容感和亲密度，  
 即使不同语言是障碍。  
@@ -83,6 +99,8 @@ NVIDIA Maxine 利用 AI 的强大功能重塑了实时视频通信。
 下次 GTC 时，我们将向您介绍 Maxine 更多强大的功能。  
 请持续关注，以免错过精彩内容。  
 非常棒！我将会出席。  
+</details>
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=5&t=461.2&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ## NVIDIA Merlin
 
@@ -434,7 +452,10 @@ Bentley 现已推出集成了 Omniverse 的 LumenRT。
 ## Toy Jensen
 
 让我欢迎 Toy Jensen 归来，这是我们用 Omniverse Avatar 构建的应用。请注意，Toy Jensen 并非录像。他是完全实时的，他能进行眼神交流和对话，而且完全动画化。
-> 互动：  
+
+<details>
+<summary>TJ 互动</summary>
+<br>
 嘿，TJ！我想问你几个问题  
 好的！有问必答  
 什么是合成生物学？  
@@ -446,6 +467,9 @@ Bentley 现已推出集成了 Omniverse 的 LumenRT。
 TJ，这真的太棒了！能否说说你是如何制作出来的？  
 Avatar 是一个基于 Omniverse 平台构建的框架，使用此框架，您可以快速构建和部署像我一样的虚拟形象，以用于各种用途。首先从我的声音开始。它完全由 Riva 的文本转语音 RADTTS 合成，而且可用于通过 Omniverse Audio2Face 驱动我的面部动画。接下来，Omniverse 动画的动画图形用于定义并控制我的动作，包括手和手臂的动作，以及细微的头部和身体运动。NVIDIA 的开源材质定义语言 (MDL) 可增加触感，让我炫酷的夹克看起来就像合成皮革，而不仅仅是塑料，而 RTX 渲染器能实时以高保真度呈现我的形象。最后，得益于 Riva 中的最新对话式 AI 技术和 Megatron 530B NLP 模型（我们训练过的最大语言模型之一），我可以听你讲，也可以跟你聊天。Megatron 帮我回答了 Jensen 问我的所有难题。同样令人兴奋的是，我可以从云、数据中心或其他任何分解系统运行，这都要归功于 Tokkio。  
 Tokkio 是一款使用 Omniverse Avatar 构建的应用，它将客户服务 AI 引入零售店、快餐餐厅，甚至网络。它使用计算机视觉、Riva 语音 AI 和 NVIDIA NeMO 等 NVIDIA AI 模型和技术打造而成。而且，由于 Tokkio 在我们的统一计算框架（或 UCF）上运行，因此可以从云端横向扩展，当客户需要像我一样实用的虚拟形象时，满足他们的需求，并且 Tokkio 具有非常敏锐且响应灵敏的感知力，最重要的是，非常自然。下面请大家欣赏关于我的制作过程的简短视频。黄先生，您继续！  
+</details>
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=8&t=566.0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
 
 ## DRIVE
 
@@ -497,7 +521,9 @@ DRIVE 是我们的自动驾驶汽车系统，本质上是 AI 司机。与我们�
 
 AI 司机将会是您友善的驾驶伙伴
 
-> 解说:  
+<details>
+<summary>DRIVE 演示</summary>
+<br>
 欢迎 Daniel。我看到 Hubert 发来一条短信。  
 “你能在圣何塞市中心接我吗？” 要我带您去吗？  
 是的，谢谢。  
@@ -521,6 +547,8 @@ AI 司机将会是您友善的驾驶伙伴
 您已抵达目的地。  
 请停车。  
 好的，找到停车位。  
+</details>
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=9&t=151.4&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ### Hyperion
 
@@ -648,11 +676,16 @@ NVIDIA 自动驾驶车载计算机、软件和机器人 AI 基本上是与新一
 
 借助 NVIDIA Clara Holoscan，我们可以对这些数据进行实时处理。
 
-> 解说：
+<details>
+<summary>Clara Holoscan介绍</summary>
+<br>
 现在，借助 Clara Holoscan 和 NVIDIA Index，我们可以实时可视化大量活细胞。这些数据是直接从显微镜记录下来的，通过观察这些活的癌细胞的移动情况，我们可以同时看到正常、健康的生物特征及其恶化过程。蓝色荧光标记的细胞核从一个细胞分裂为两个细胞。癌症的一个标志是，与正常的健康细胞相比，细胞分裂更频繁，错误检查更少。加州大学伯克利分校的晶格光片显微镜具有超高分辨率，借此科学家能够发现隐藏在普通光学器件中的东西，这是 使用传统显微镜无法观察到的。当我们放大时，观察到一个对于癌细胞系来说都非常罕见的情况：发现一个细胞分裂成 3 个细胞。
 ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/HoloscanCancerCell.gif)
 这一现象仅在一些科学出版物中有过零星报道，科学家尚不知道我们将看到什么，但现在借助实时处理和可视化技术，科学界可以发现此类的未见过的事件。
 我们来看看未来的发展情况。
+</details>
+
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=9&t=682.0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 Clara Holoscan 是一个开放、可扩展的机器人平台。Clara Holoscan 的设计符合 IEC-62304 医疗级规格，并达到极高的设备安全和保障级别。Holoscan 的计算量惊人。其核心计算机为 Orin 和 ConnectX-7，并可选配 GPU。Holoscan 开发平台目前向早期体验客户开放，正式上市时间为 5 月，并在 2023 年第一季度完成医疗级准备。未来的医疗设备将是 AI 仪器的天下，用于辅助诊断或手术。
 
@@ -672,10 +705,13 @@ Metropolis 和 Isaac 平台（如同 DRIVE）包含 4 大核心：
 
 Metropolis 已经取得了非凡的成绩：下载量达 30 万次，拥有 1000 多个生态系统合作伙伴，并在超过 100 万个设施中运营，其中包括 USPS、沃尔玛超市、特拉维夫和伦敦等城市、希思罗机场、Veolia 回收工厂和吉列橄榄球场。
 
-现在，客户可以使用 Omniverse 创建其架构的数字孪生，以提升安全性和效率
+现在，客户可以使用 Omniverse 创建其架构的数字孪生，以提升安全性和效率。
 
 我们来看看百事公司是如何使用 Metropolis 和 Omniverse 的
-> 解说：
+
+<details>
+<summary>百事介绍</summary>
+<br>
 百事的产品每天在全球有超过 10 亿次的消费，将如此多的产品分销至 200 多个区域市场需要 600 多个配送中心，提高供应链效率和环境可持续性是百事一直以来的重要目标。
 为实现这一目标，他们采用 NVIDIA Omniverse 和 Metropolis 构建数字孪生，模拟包装和配送中心，这样他们能够在进行实物投资之前测试布局变化，优化工作流程以加速吞吐量。
 ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/OmniversePepsi.png)  
@@ -683,6 +719,9 @@ Metropolis 已经取得了非凡的成绩：下载量达 30 万次，拥有 1000
 ![](/images/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/OmniversePepsi2.png)  
 此外，借助 NVIDIA Fleet Command，所有这些应用均可从一个集中式控制平面，安全部署于数百个配送中心并进行管理。
 通过利用 NVIDIA Omniverse、Metropolis 和 Fleet Command，百事公司正在简化供应链运营，减少能源消耗和浪费，并推动可持续发展的使命。
+</details>
+
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=9&t=904.1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ## Issac
 
@@ -751,7 +790,9 @@ Isaac Gym 强调了 Omniverse 的物理仿真精度的重要性。
 
 然后，经过训练的 AI 大脑被下载到物理机器人中。由于 Omniverse在物理上是精确的，因此机器人在获得其方位后，将掌握其在数字孪生中的技能。一起来看一下。
 
-> 解说：  
+<details>
+<summary>视频介绍</summary>
+<br>
 成功开发、训练和测试适用于现实世界应用的复杂机器人需要高保真仿真和准确的物理效果。  
 Isaac Sim 基于 NVIDIA 的 Omniverse 平台构建，将沉浸式虚拟现实的、物理属性准确的、逼真的环境与复杂的虚拟机器人相结合。  
 我们来看看合作伙伴使用 Isaac Sim 开发的三种截然不同的 AI 机器人。  
@@ -759,13 +800,22 @@ Fraunhofer IML 是物流领域的技术领导者，使用 NVIDIA Isaac Sim 来�
 接下来要介绍的是以工业自动化闻名的 Festo。该公司使用 Isaac Sim为协作机器人（简称 cobot）开发智能技能，需要对其人类伙伴和任务有敏锐的认识。使用 Cortex（一款 Isaac Sim 工具），Festo 可显著简化 cobot 技能的编程，为实现感知，此任务中使用的 AI 模型仅使用由 Isaac Replicator 生成的合成数据进行训练。  
 最后，要为您介绍机器狗 Anymal，由苏黎世联邦理工学院（ETH Zurich）和 Swiss-Mile 的一个领先的机器人研究小组开发。借助 GPU 加速的端到端强化学习，Anymal 的脚被轮子取代，然后使用 NVIDIA 的 Isaac Gym 训练工具，只需几分钟就可学会在城市地形上“行走”，而无需花费几周时间。运动策略在 Isaac Sim 中进行验证后，才会部署在真实的 Anymal 上。  
 这是一个针对真实部署进行的引人入胜的模拟器训练演示，从训练感知和策略到硬件在环，Isaac Sim 工具可构建 AI 机器人。这些机器人在仿真中诞生，在现实世界中工作（娱乐）。  
+</details>
+
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=9&t=1175.6&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
 
 现代仓储运营中心正在演变为技术奇迹，设备由人类和机器人协同操作。仓库也是一个机器人，负责协调内部物料的运输和 AMR 的路径优化。我们来看看 Amazon 如何使用 Omniverse 数字孪生技术来设计和优化令人惊叹的仓储运营中心。
 
-> 解说：  
+<details>
+<summary>视频介绍</summary>
+<br>
 每一天，亚马逊的数百个运营中心需处理数千万个包裹，而其中超过三分之二的客户订单由机器人处理。为了支持这种高度复杂的操作，我们部署了数十万个自主移动机器人和相关的存储舱，这使我们能够在仓库中存储远高于传统货架的库存，这帮助我们以更安全、更高效的方式移动库存。扩展的关键在于我们模拟这些建筑的能力以及在构建之前了解它们的性能。我们来看看 NVIDIA Omniverse 如何助力优化和简化这些复杂的流程。  
 在 Amazon Robotics，我们可以在 NVIDIA Omniverse 中创建相同比例的仓库“数字孪生”，帮助我们优化仓库设计、训练更智能的机器人助手，并提升运营效率。在 Omniverse 中，我们能够以特有的方式整合来自不同 CAD 应用的数据集，并在 Omniverse 的 RTX 加速光线追踪、材质和物理效果的推动下高度真实地呈现这些大型模型。数字孪生是未来仓库和工厂不可或缺的组成部分，可实现持续集成和交付。对于软件和仓库布局的每一次新优化，我们都可以先在数字孪生中进行测试，然后再发布至物理仓库。这样既可防止系统停机或故障，也可最大限度地提高运营效率。然后，各种形状、尺寸、重量和材质的包裹都可以在我们的仓储中心迅速移动。我们使用 NVIDIA Omniverse 更好地训练自主机器人分类和拣选解决方案。训练这些机器人的感知系统以使其具有足够的准确性以避免系统故障，需要大量高质量的数据，但通常可能没有数据或者数据量不够。当我们的包装材料中包含很多反光胶带时，感知系统会失误，我们使用在 Omniverse 中生成的物理属性准确、逼真的合成数据以重新训练模型。这些数据与真实数据别无二致，从而可以节省数周的重新训练时间，并提高模型准确性。最后，借助我们运营中心的数字孪生，以及快速、准确训练机器人感知系统的能力，我们还可以更好地配置人机工作站，更好地模拟人体工程学。  
 亚马逊正借助 NVIDIA Omniverse 数字孪生端到端地重塑仓库物流，并大幅提升运营效率，从而为客户提供更多价值。  
+</details>
+
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=9&t=1327.2&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ## Omniverse Cloud
 
@@ -773,7 +823,9 @@ Fraunhofer IML 是物流领域的技术领导者，使用 NVIDIA Isaac Sim 来�
 
 在这个演示中，您将看到 4 位设计师，他们都在远程工作，通过 Omniverse Cloud 连接，并协作创建一个虚拟世界。我们来看看这有多么简单。
 
-> 解说：  
+<details>
+<summary>Omniverse Cloud演示 ( 25:51 ~ 27:45)</summary>
+<br>
 3D 设计是一项复杂的团队工作，涉及不同的艺术家、应用和硬件，且工作地点通常各不相同  
 借助 Omniverse Cloud，这将变得更加简单  
 使用 NVIDIA RTX PC、笔记本电脑和工作站，设计师可实时协同工作  
@@ -803,6 +855,9 @@ Fraunhofer IML 是物流领域的技术领导者，使用 NVIDIA Isaac Sim 来�
 哇，看起来很棒哦！  
 我将发送链接以供审批  
 相聚 Omniverse，不见不散！  
+</details>
+
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=9&t=1551&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 您可能已经注意到，其中一个设计师是 AI。
 随着 AI 技能的不断发展，我们不仅能利用它们来帮助我们设计建筑和工厂，同时还可用于餐厅订单服务，帮助客户，甚至回答有关我们健康的问题。
@@ -810,6 +865,8 @@ Fraunhofer IML 是物流领域的技术领导者，使用 NVIDIA Isaac Sim 来�
 Omniverse，为下一波的 AI 浪潮而生。
 
 # Review
+
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=10&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 我们已经介绍了很多内容，让我快速回顾一下：
 
@@ -895,17 +952,4 @@ NVIDIA SDK 服务于医疗健康、能源、交通、零售、金融、媒体和
 
 NVIDIA 卓越的创意团队希望带您再一次体验 Omniverse。
 
-## Video1
-<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1fs411876b&cid=12999245&page=1&t=476.0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-## Video2
-
-<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&page=11&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-
-
-## Video3
-
-<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1fs411876b&cid=12999245&page=1&t=476.0&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="100%" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
-
-## JSFiddle
-
-<iframe width="100%" height="300" src="https://jsfiddle.net/tchaffee/L4h60y79/embedded/js/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=7918117&bvid=BV1hY4y157sC&cid=12999245&p=11&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" autoplay="0" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
