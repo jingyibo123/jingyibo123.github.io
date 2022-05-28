@@ -99,4 +99,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - _posts/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets
+  - _posts/*.assets
+  # - _posts/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets

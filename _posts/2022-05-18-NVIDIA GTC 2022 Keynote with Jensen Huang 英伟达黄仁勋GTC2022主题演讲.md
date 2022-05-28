@@ -1,3 +1,4 @@
+#! https://zhuanlan.zhihu.com/p/521049423
 NVIDIA GTC 2022 Keynote with Jensen Huang / 英伟达黄仁勋GTC2022主题演讲
 
 ---
@@ -823,7 +824,7 @@ Fraunhofer IML 是物流领域的技术领导者，使用 NVIDIA Isaac Sim 来�
 在这个演示中，您将看到 4 位设计师，他们都在远程工作，通过 Omniverse Cloud 连接，并协作创建一个虚拟世界。我们来看看这有多么简单。
 
 <details>
-<summary>Omniverse Cloud演示 ( 25:51 ~ 27:45)</summary>
+<summary>Omniverse Cloud演示 (25:51 ~ 27:45)</summary>
 <br>
 3D 设计是一项复杂的团队工作，涉及不同的艺术家、应用和硬件，且工作地点通常各不相同  
 借助 Omniverse Cloud，这将变得更加简单  
