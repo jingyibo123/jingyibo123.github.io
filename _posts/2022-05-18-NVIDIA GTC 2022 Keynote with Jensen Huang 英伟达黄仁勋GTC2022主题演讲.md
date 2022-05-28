@@ -1,4 +1,3 @@
-#! https://zhuanlan.zhihu.com/p/521049423
 NVIDIA GTC 2022 Keynote with Jensen Huang / 英伟达黄仁勋GTC2022主题演讲
 
 ---
