@@ -63,6 +63,8 @@ NVIDIA AI 是驱动这些创新的引擎，我们正在全力推动该平台的�
 
 我们先了解一下 GTC 大会的更新内容
 
+# AI Suite of Libraries
+
 ## NVIDIA Triton
 
 网上交互每天多达数千亿，例如搜索、购物和社交，产生了数万亿的机器学习模型推理。NVIDIA Triton 是一款开源的、超大规模的模型推理服务器，是 AI 部署的“中央车站”。Triton 支持在每一代 NVIDIA GPU、x86 和 Arm CPU 上部署模型，并具备支持 AWS Inferentia 等加速器的接口。Triton 支持各类模型：CNN、RNN、Transformer、GNN、决策树，还支持各类框架：*TensorFlow、PyTorch、Python、ONNX、XGBoost*。Triton 支持各类查询类型：实时、离线、批处理，或串流视频和音频。Triton 支持各类机器学习平台：*AWS，Azure，Google，阿里巴巴，VMWare，Domino Data Lab，OctoML* 等。Triton 可以在各个地方运行：云、本地、边缘或嵌入式设备。Amazon Shopping 正在使用 Triton 进行实时拼写检查。而微软正藉由 Triton 为翻译服务提供支持。Triton 已被 25000 位客户下载超过 100 万次。
@@ -119,6 +121,8 @@ Nemo Megatron 是一款专门用于训练大型语言模型的 AI 框架，其�
 ![](2022-05-18-NVIDIA_GTC_2022_Keynotes.assets/NemoMegatron.png)
 
 ## NVIDIA AI Accelerated Program
+
+# NVIDIA H100, Hopper and Grace
 
 AI 是智能的创造和生产者，这是一项具有重大意义的事业，涉及计算的方方面面和每个行业。NVIDIA AI 库和 SDK 将加速整个 AI 生态系统中的软件、平台和服务。即使拥有出色的工具和库，开发者和 NVIDIA 也必须投入大量的开发工程来确保其性能、可扩展性、可靠性和安全性。因此，我们创建了 NVIDIA AI 加速计划，通过与 AI 生态系统中的开发者合作开发工程化解决方案，确保客户放心部署。
 
