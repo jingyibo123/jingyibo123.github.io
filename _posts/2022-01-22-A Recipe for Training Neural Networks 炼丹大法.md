@@ -1,6 +1,3 @@
-A Recipe for Training Neural Networks 炼丹大法
-
----
 Andrej Karparthy 2019年的一篇博客 [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/), 以下为全文翻译。
 
 ---

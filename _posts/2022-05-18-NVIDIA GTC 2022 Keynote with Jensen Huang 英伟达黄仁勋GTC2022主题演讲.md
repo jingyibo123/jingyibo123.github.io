@@ -1,6 +1,3 @@
-NVIDIA GTC 2022 Keynote with Jensen Huang / 英伟达黄仁勋GTC2022主题演讲
-
----
 本文为英伟达2022GTC大会上的黄仁勋主题演讲主要内容翻译和整理。
 
 原视频链接：
