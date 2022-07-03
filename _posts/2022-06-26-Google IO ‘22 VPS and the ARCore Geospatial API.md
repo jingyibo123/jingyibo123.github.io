@@ -1,4 +1,3 @@
-#! https://zhuanlan.zhihu.com/p/537108552
 来自于Google IO'2022 VPS and the ARCore Geospatial API  
 [[youtube]](https://www.youtube.com/watch?v=pFn11hYZM2E) [[bilibili]](https://www.bilibili.com/video/BV1hY4y137Dn/)
 
