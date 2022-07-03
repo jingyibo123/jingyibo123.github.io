@@ -11,8 +11,8 @@
 
 今天我们在这里与您讨论**机器可读的3D模型**，尤其是您口袋里的智能手机摄像头，以及我们如何利用 Google 对世界的理解来丰富它，让开发者社区能够创建身临其境的世界级增强现实体验。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/MachineReadable3dModel1.png)
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/MachineReadable3dModel2.png)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/MachineReadable3dModel1.png)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/MachineReadable3dModel2.png)
 
 我们很高兴与 Google AR 团队合作，通过 Google 的 AR 开发者平台 ARCore 将这种对世界的 3D 理解带给您，该平台允许 Android 和 iOS 开发者为移动设备构建身临其境的 AR 体验。
 
@@ -35,12 +35,12 @@
 - 使用 ARCore Cloud Anchors API 等空间锚点。
 - 使用今天讨论的主题 Geospatial API。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/MethodsOfLocalization.png)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/MethodsOfLocalization.png)
 让我们了解使用这些不同选项的好处和权衡。
 
 你有 GPS，这是一个全球规模的系统，非常适合构建基于位置的体验。但是，如果您曾经处理过您的蓝色跳跃问题，尤其是在城市峡谷中，您就会知道准确度与您构建可靠地增强相机视图的 AR 体验所需的精度相去甚远。即使在您使用“定位服务”校准指南针时使用了疯狂的八模式，您通常也会获得 5 到 10 米的定位精度和 30 到 45 度的旋转精度。这意味着您的相机甚至可能没有朝正确的方向看，或者您的 AR 元素完全超出框架。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/LimitedGpsAccuracy.png)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/LimitedGpsAccuracy.png)
 
 您还可以使用 ARCore Cloud Anchors 等空间锚定功能。在这种情况下，您需要明确映射空间或感兴趣的地方以将内容附加到它，然后可以可靠地对其进行定位。Cloud Anchors 在近距离、私人空间或较小的活动规模体验中非常有效，您可以在这些体验中实际显示并在附加 AR 内容之前映射空间。但随着云锚点的大规模部署，发现内容是一项挑战，放置也是如此。
 
@@ -50,7 +50,7 @@
 
 多亏了谷歌十多年的地面图像，我们已经完美地绘制了世界地图。通过与定位服务一起工作，我们可以进行良好的 GPS 估计并使其变得更好，为 AR 做好准备。因此，借助 ARCore Geospatial API，您可以远程将内容附加到世界并引导用户访问，从而让您几乎可以在我们拥有街景的任何地方创建身临其境的基于位置的 AR 体验。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/VisualPositioningSystemandGlobalLocalization.gif)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/VisualPositioningSystemandGlobalLocalization.gif)
 
 让我们总结一下差异。
 
@@ -76,25 +76,25 @@ SIMON LYNEN： 谢谢，比拉瓦尔。
 为提供此功能，该设备向视觉定位服务 VPS 发起服务器调用，**您的地理坐标和图像用于匹配来自 Google 地图的高分辨率 3D 数据**。这个过程称为**视觉定位(Visual Localization)**。它可以比以前单独使用 GPS 更准确地定位您的设备相对于环境的位置。我想花点时间了解一下这一切是如何运作的。
 
 街景图像——已在全球范围内拍摄超过 15 年——是 VPS 的基础。
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/StreetviewImageSurveying.png)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/StreetviewImageSurveying.png)
 
 深度神经网络**识别**和**描述**图像中**可能在很长一段时间内被识别的那些部分**。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/VisualFeatureExtraction1.gif)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/VisualFeatureExtraction1.gif)
 
 您可以看到该算法已经学会关注建筑物而不是汽车。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/VisualFeatureExtraction2.gif)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/VisualFeatureExtraction2.gif)
 
 然后，我们将数百亿张图像中的这些显着点结合起来，计算出环境的 3D 点云。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/3dEnvironmentSfm.png)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/3dEnvironmentSfm.png)
 
 这种定位模型由**数万亿个点组成**，跨越几乎所有国家，未来覆盖范围广。
 
 当您的设备向 Geospatial API 发出请求时，类似的过程将应用于图像。神经网络处理像素以找到环境中可识别的部分，并将它们与定位模型相匹配。然后，计算机视觉算法会计算发回给您的设备的位置和方向。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/VisualFeatureRelocalization.png)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/VisualFeatureRelocalization.png)
 
 这个过程利用了TPU——谷歌的机器学习加速器——并且只需要**不到一秒钟的时间**。
 
@@ -102,7 +102,7 @@ SIMON LYNEN： 谢谢，比拉瓦尔。
 
 正如比拉瓦尔之前提到的，这次启动提供了一种非常罕见的组合。Geospatial API 建立在非常成熟的视觉定位服务之上，我们将 API 提供给 Google Street View 覆盖的几乎所有领域，规模非常广泛。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/3dFeaturePointCloud.png)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/3dFeaturePointCloud.png)
 
 ## 几何和锚定
 
@@ -110,13 +110,13 @@ SIMON LYNEN： 谢谢，比拉瓦尔。
 
 我们预计将在今年晚些时候推出地形锚点，这将允许您通过仅提供纬度和经度信息来创建锚点，同时利用来自 Google Mapsis 的其他信息将内容精确地放置在地面上的正确高度。右图显示了一个示例，其中**精确的高度信息**是令人愉悦的用户体验的关键。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/TerrainAnchors.png)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/TerrainAnchors.png)
 
 在下文中，我想向您展示团队目前正在开发的一项技术的幕后花絮。这些功能今天尚未发布，但我们正在探索使它们在未来可供开发人员使用的方法。当他们与现实世界无缝融合时，他们的体验变得真正神奇——例如，通过遮挡和物理转化为行动。
 
 我们相信，一个关键的推动因素是抽象的建筑几何形状，如右图所示。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/3dBuildingGeometry.png)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/3dBuildingGeometry.png)
 
 我们正在探索的另一个角度是将已经熟悉的 AR concepts 带到全球范围内。例如，ARCore 提供了将元素锚定到物理位置并将它们捕捉到设备检测到的平面几何图形的能力。对于地理空间 API，我们正在考虑一个类似的概念，我们称之为几何锚。它由两部分组成。
 
@@ -131,7 +131,7 @@ SIMON LYNEN： 谢谢，比拉瓦尔。
 
 我们正在考虑在未来几个季度制作语义 3D 模型的各个部分。
 
-![](2022-06-26-VPS_ARCore_Geospatial_API.assets/Semantic3dModel.png)
+![](2022-06-26-Google%20IO%20‘22%20&%20VPS_ARCore_Geospatial_API.assets/Semantic3dModel.png)
 
 在未来的探索之后，让我们花点时间来看看我们今天推出了什么。
 
