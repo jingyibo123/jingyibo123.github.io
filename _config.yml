@@ -36,7 +36,7 @@ footer-links:
   playconsole:
   bilibili: https://space.bilibili.com/348711652
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
+# Enter your Disqus shortname (not your username) to enabln commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: 
 
@@ -99,5 +99,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - _posts/*.assets
-  # - _posts/2022-05-18-NVIDIA_GTC_2022_Keynotes.assets
