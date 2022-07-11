@@ -100,12 +100,12 @@ exclude:
   - README.md
   - CNAME
   
-defaults:
-  - scope:
-      path: "_posts"
-    values:
-      image: true
+# defaults:
+#   - scope:
+#       path: "_posts"
+#     values:
+#       image: true
       
-include:
- - _pages
- - _posts
+# include:
+#  - _pages
+#  - _posts
