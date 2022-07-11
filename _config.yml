@@ -106,6 +106,6 @@ exclude:
 #     values:
 #       image: true
       
-# include:
-#  - _pages
-#  - _posts
+include:
+ - _pages/
+ - _posts/
