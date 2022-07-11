@@ -86,7 +86,8 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
-
+  - jekyll-relative-links
+  
 include: ['_pages']
 
 paginate: 6
