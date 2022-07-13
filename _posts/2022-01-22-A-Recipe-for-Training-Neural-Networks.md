@@ -1,9 +1,16 @@
+---
+layout: post
+title:  "炼丹大法 A Recipe for Training Neural Networks"
+---
+
 Andrej Karparthy 2019年的一篇博客 [A Recipe for Training Neural Networks](https://karpathy.github.io/2019/04/25/recipe/), 以下为全文翻译。
 
 ---
+[TOC]
+
 ## 导言
 
-### 1) 训练神经网络是一个[充满"漏洞"的概念](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
+### 1) 训练神经网络是一个["漏水"的概念](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
 
 很多博客/教学视频很自豪的宣称“只需要30行代码即可解决数据训练问题”，给大家一种错误的印象即训练一个神经网络非常简单，即插即用
 
