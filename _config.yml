@@ -100,13 +100,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  
-# defaults:
-#   - scope:
-#       path: "_posts"
-#     values:
-#       image: true
-      
-include:
- - _pages/
- - _posts/
+
