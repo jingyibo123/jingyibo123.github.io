@@ -73,7 +73,7 @@ $$
                     \right\}.
 \end{equation}
 $$
-请注意，一个显式曲面也可以用参数函数$f_\mathit{parametric}(.) \in `mathbb{R}^3$表示，它概括了$S_\mathit{explicit}$。
+请注意，一个显式曲面也可以用参数函数$f_\mathit{parametric}(.) \in \mathbb{R}^3$表示，它概括了$S_\mathit{explicit}$。
 $$
 \begin{equation}
     S_\mathit{explicit}^{*} = 
@@ -184,9 +184,9 @@ $$
 >  <a name="Figure3"></a>图3：对于显式曲面的表示，曲面是可以直接索引的。这使得我们可以使用前向渲染方法，将曲面投射到图像平面上，并相应地设置一个像素（例如，使用栅格化或点拼接）。隐式表面表示法和体积表示法不能提供直接的表面信息来进行前向渲染，相反，从虚拟摄像机看到的三维空间必须被采样以生成图像（例如，使用射线行进法）。
 
 
-**光线投射**。在针孔模型中，基本截距定理可以用来描述三维中的一个点$\mathbf{p}\in \mathbb{R}^3$如何被投射到图像平面中的正确位置$\mathbf{q}\in \mathbb{R}^2$。根据定义，它是一个非单射函数，而且很难求逆--这使得它成为三维重建问题的核心。
+**光线投射**。在针孔模型中，基本截距定理可以用来描述三维中的一个点$\mathbf{p} \in \mathbb{R}^3$如何被投射到图像平面中的正确位置$\mathbf{q} \in \mathbb{R}^2$。根据定义，它是一个非单射函数，而且很难求逆--这使得它成为三维重建问题的核心。
 
-针孔模型对这种投影只有一个参数矩阵：内在矩阵$\mathbf{K}$包含按像素大小归一化的焦距$\mathbf{f}=[alpha_x, alpha_y]$，轴斜度$\gamma$和中心点$\mathbf{c}=[c_x, c_y]$。利用截距定理并假设同质坐标$\mathbf{p}'=[x, y, z, 1]$，我们发现投影坐标为$\mathbf{q}'=\mathbf{K}\cdot \mathbf{p}'$，其中 
+针孔模型对这种投影只有一个参数矩阵：内在矩阵$\mathbf{K}$包含按像素大小归一化的焦距$\mathbf{f}=[\alpha_x, \alpha_y]$，轴斜度$\gamma$和中心点$\mathbf{c}=[c_x, c_y]$。利用截距定理并假设同质坐标$\mathbf{p}'=[x, y, z, 1]$，我们发现投影坐标为$\mathbf{q}'=\mathbf{K}\cdot \mathbf{p}'$，其中 
 $$
 \mathbf{K} =  
 \begin{bmatrix}
@@ -202,7 +202,7 @@ $$
 \mathbf{0}_{1\times 3} & 1 \\
 \end{bmatrix},
 $$
-其中$\mathbf{R}$是一个旋转矩阵，$\mathbf{t}$是一个平移矢量，这样$\mathbf{R}\cdot\mathbf{p_w}+\mathbf{t}=mathbf{p_c}$，我们用$\mathbf{p_w}$表示世界坐标的一个点，$\mathbf{p_c}$表示相机坐标的一个点。这种$\mathbf{R}$和$\mathbf{t}$的定义在计算机视觉中很常见（比如OpenCV使用的），被称为 "世界到相机 "的映射，而在计算机图形中（比如OpenGL），类似的反向 "相机到世界 "的映射更为普遍。假设采用 "世界到摄像头 "的惯例并使用同质坐标，我们可以将$\mathbf{p_w}$到$\mathbf{q_p}$的完整投影写成。
+其中$\mathbf{R}$是一个旋转矩阵，$\mathbf{t}$是一个平移矢量，这样$\mathbf{R} \cdot \mathbf{p_w}+\mathbf{t}=\mathbf{p_c}$，我们用$\mathbf{p_w}$表示世界坐标的一个点，$\mathbf{p_c}$表示相机坐标的一个点。这种$\mathbf{R}$和$\mathbf{t}$的定义在计算机视觉中很常见（比如OpenCV使用的），被称为 "世界到相机 "的映射，而在计算机图形中（比如OpenGL），类似的反向 "相机到世界 "的映射更为普遍。假设采用 "世界到摄像头 "的惯例并使用同质坐标，我们可以将$\mathbf{p_w}$到$\mathbf{q_p}$的完整投影写成。
 
 如果使用 "凸轮到世界 "的惯例，射线铸造也同样方便。虽然这些方程由于深度的模糊性而是非主观的，但它们非常适用于自动区分，并且可以在图像形成模型中进行端到端的优化。
 
@@ -361,7 +361,9 @@ MipNeRF[[BMT21](#BMT21)]修改了应用于三维点的位置编码，以纳入�
 
 **来自文本的NeR**。NeRF公式[[MST20](#MST20)]是一个基于优化的框架，它也允许我们在优化过程中纳入其他能源条款。为了通过文本输入来操纵或生成NeRF，我们可以采用一个（预训练的）基于CLIP的目标[[RKH21](#RKH21)]。梦想领域[[JMB21](#JMB21)]将NeRF与CLIP结合起来，仅从自然语言描述中产生多样化的三维物体，通过基于图像标题上的CLIP分数的多视图约束来优化辐射场。CLIPNeRF [[WCH21](#WCH21)]提出了一个基于CLIP的形状和外观映射器来控制一个有条件的NeRF。
 
-| Method | Conditioning | Required <br/>Data | 3D <br/>Representation | Class <br/>Specific <br/>Prior | Generative <br/>Model | Inference <br/>Type | Code |
+## 4.2. 物体和场景类的泛化
+
+| Method | Conditioning | Required <br/>Data | 3D <br/>Repre-<br/>sentation | Class <br/>Specific <br/>Prior | Generative <br/>Model | Inference <br/>Type | Code |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Yu et al. [[YYTK21](#YYTK21)] | <span  style="color:#E08C1C;">L</span> | <span  style="color:#E08C1C;">G</span> | <span  style="color:#B36EA6;">V</span> | <span  style="color:#DB5757;">✗</span> | <span  style="color:#DB5757;">✗</span> | <span  style="color:#E08C1C;">A</span> | [Link](https://github.com/sxyu/pixel-nerf) |
 | Raj et al. [[RZS20](#RZS20)] | <span  style="color:#E08C1C;">L</span> | <span  style="color:#576BB8;">F</span> | <span  style="color:#B36EA6;">V</span> | <span  style="color:#DB5757;">✗</span> | <span  style="color:#DB5757;">✗</span> | <span  style="color:#E08C1C;">A</span> | <span  style="color:#DB5757;">✗</span> |
