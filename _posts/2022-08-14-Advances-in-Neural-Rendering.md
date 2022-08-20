@@ -57,7 +57,7 @@ Ayush Tewari, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar Tretschk, Y
 $$
 \begin{equation}
     S_\mathit{explicit} = 
-                    \left\{
+                    \left\lbrace
                     \left(
                         \begin{array}{c}
                         x\\
@@ -71,7 +71,7 @@ $$
                         y\\
                         \end{array}
                     \right) \in \mathbb{R}^2 
-                    \right\}.
+                    \right\rbrace.
 \end{equation}
 $$
 
@@ -80,7 +80,7 @@ $$
 $$
 \begin{equation}
     S_\mathit{explicit}^{*} = 
-                    \left\{
+                    \left\lbrace
                         f_\mathit{parametric}(u,v)\\
                     ~\middle|~
                     \left(
@@ -89,7 +89,7 @@ $$
                         v\\
                         \end{array}
                     \right) \in \mathbb{R}^2 
-                    \right\}.
+                    \right\rbrace.
 \end{equation}
 $$
 
@@ -98,7 +98,7 @@ $$
 $$
 \begin{equation}
     S_\mathit{implicit} = 
-                    \left\{
+                    \left\lbrace
                     \left(
                         \begin{array}{c}
                         x\\
@@ -107,7 +107,7 @@ $$
                         \end{array}
                     \right) \in \mathbb{R}^3  ~\middle|~
                     f_\mathit{implicit}(x,y,z) = 0
-                    \right\}.
+                    \right\rbrace.
 \end{equation}
 $$
 
@@ -116,7 +116,7 @@ $$
 $$
 \begin{equation}
     V = 
-                    \left\{
+                    \left\lbrace
                     f_\mathit{vol}(x,y,z) ~\middle|~
                     \left(
                         \begin{array}{c}
@@ -125,7 +125,7 @@ $$
                         z\\
                         \end{array}
                     \right) \in \mathbb{R}^3
-                    \right\}.
+                    \right\rbrace.
 \end{equation}
 $$
 
