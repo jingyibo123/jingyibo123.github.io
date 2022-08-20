@@ -1,8 +1,6 @@
-#! https://zhuanlan.zhihu.com/p/556048189
 ---
 layout: post
 title:  【NeRF】神经渲染综述
-usemathjax: true
 ---
 
 
