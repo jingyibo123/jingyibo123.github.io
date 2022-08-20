@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  【NeRF】神经渲染综述
+usemathjax: true
 ---
 
 
